@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "rich",
+    "setuptools",
+    "wheel",
+    "build",
+    "pytest",
+    "pytest-depends"
+]
+build-backend = "setuptools.build_meta"
