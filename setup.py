@@ -18,12 +18,13 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={
-        "pypkm": "pypkm",
+    package_dir={"": "pypkm"}
+    packages=setuptools.find_packages(where="pypkm"),
+    #packages = ["pypkm"], 
+    package_data={
+        "data": ["*.csv"] 
     },
-    packages = ["pypkm"], 
-    test_suite="pyrc.tests",
-    #packages=setuptools.find_packages(where="pyrc"),
+    test_suite="pypkm.tests",
     python_requires=">=3.0",
     install_requires=[
        "pandas"
