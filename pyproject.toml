@@ -1,6 +1,5 @@
 [build-system]
 requires = [
-    "rich",
     "setuptools",
     "wheel",
     "build",

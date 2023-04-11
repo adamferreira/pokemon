@@ -18,11 +18,12 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "pypkm"}
+    package_dir={"": "pypkm"},
     packages=setuptools.find_packages(where="pypkm"),
     #packages = ["pypkm"], 
     package_data={
-        "data": ["*.csv"] 
+    # Install all csv scrapped data
+        "data": ["scrapping/*/*.csv"]
     },
     test_suite="pypkm.tests",
     python_requires=">=3.0",

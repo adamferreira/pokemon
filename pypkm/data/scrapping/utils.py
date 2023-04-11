@@ -21,12 +21,16 @@ def get_cells_from_row(row_selector):
     See here: https://pokemondb.net/move/generation/1
     """ 
     cells = row_selector.css('td, th')
-    return [
-         cell.css("img").xpath('@title').get() if cell.css("img").get() is not None
-         # Get all text in the cell as one string (usefull if the cell contains multiline strings)
-         else ''.join(cell.css('*::text').getall())
-         for cell in cells
-    ]
+
+    def parse_cell(cell):
+        # Try to get text from cell
+        txt = ''.join(cell.css('*::text').getall())
+        # If no text can be found, check for images names
+        if txt == '':
+            txt = cell.css("img").xpath('@title').get() if cell.css("img").get() is not None else ''
+        return txt
+
+    return [parse_cell(cell) for cell in cells]
 
 def get_all_rows_and_cells(table_selector):
     """  Extracts all texts from all cells in all rows under selector
