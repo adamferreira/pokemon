@@ -1,0 +1,3899 @@
+;Move;Lvl;PreEvol;HM;TM;Egg;Tutor;TR;Pokemon
+0;Growl;1;False;;;False;False;;Bulbasaur
+1;Tackle;1;False;;;False;False;;Bulbasaur
+2;Leech Seed;7;False;;;False;False;;Bulbasaur
+3;Vine Whip;13;False;;;False;False;;Bulbasaur
+4;PoisonPowder;20;False;;;False;False;;Bulbasaur
+5;Razor Leaf;27;False;;;False;False;;Bulbasaur
+6;Growth;34;False;;;False;False;;Bulbasaur
+7;Sleep Powder;41;False;;;False;False;;Bulbasaur
+8;SolarBeam;48;False;;22;False;False;;Bulbasaur
+9;Cut;;False;01;;False;False;;Bulbasaur
+10;Swords Dance;;False;;03;False;False;;Bulbasaur
+11;Toxic;;False;;06;False;False;;Bulbasaur
+12;Body Slam;;False;;08;False;False;;Bulbasaur
+13;Take Down;;False;;09;False;False;;Bulbasaur
+14;Double-Edge;;False;;10;False;False;;Bulbasaur
+15;Rage;;False;;20;False;False;;Bulbasaur
+16;Mega Drain;;False;;21;False;False;;Bulbasaur
+17;Mimic;;False;;31;False;False;;Bulbasaur
+18;Double Team;;False;;32;False;False;;Bulbasaur
+19;Reflect;;False;;33;False;False;;Bulbasaur
+20;Bide;;False;;34;False;False;;Bulbasaur
+21;Rest;;False;;44;False;False;;Bulbasaur
+22;Substitute;;False;;50;False;False;;Bulbasaur
+23;Growl;1;False;;;False;False;;Ivysaur
+24;Leech Seed;1;False;;;False;False;;Ivysaur
+25;Leech Seed;7;False;;;False;False;;Ivysaur
+26;Tackle;1;False;;;False;False;;Ivysaur
+27;Vine Whip;13;False;;;False;False;;Ivysaur
+28;PoisonPowder;22;False;;;False;False;;Ivysaur
+29;Razor Leaf;30;False;;;False;False;;Ivysaur
+30;Growth;38;False;;;False;False;;Ivysaur
+31;Sleep Powder;46;False;;;False;False;;Ivysaur
+32;SolarBeam;54;False;;22;False;False;;Ivysaur
+33;Cut;;False;01;;False;False;;Ivysaur
+34;Swords Dance;;False;;03;False;False;;Ivysaur
+35;Toxic;;False;;06;False;False;;Ivysaur
+36;Body Slam;;False;;08;False;False;;Ivysaur
+37;Take Down;;False;;09;False;False;;Ivysaur
+38;Double-Edge;;False;;10;False;False;;Ivysaur
+39;Rage;;False;;20;False;False;;Ivysaur
+40;Mega Drain;;False;;21;False;False;;Ivysaur
+41;Mimic;;False;;31;False;False;;Ivysaur
+42;Double Team;;False;;32;False;False;;Ivysaur
+43;Reflect;;False;;33;False;False;;Ivysaur
+44;Bide;;False;;34;False;False;;Ivysaur
+45;Rest;;False;;44;False;False;;Ivysaur
+46;Substitute;;False;;50;False;False;;Ivysaur
+47;Growl;1;False;;;False;False;;Venusaur
+48;Leech Seed;1;False;;;False;False;;Venusaur
+49;Leech Seed;7;False;;;False;False;;Venusaur
+50;Tackle;1;False;;;False;False;;Venusaur
+51;Vine Whip;1;False;;;False;False;;Venusaur
+52;Vine Whip;13;False;;;False;False;;Venusaur
+53;PoisonPowder;22;False;;;False;False;;Venusaur
+54;Razor Leaf;30;False;;;False;False;;Venusaur
+55;Growth;43;False;;;False;False;;Venusaur
+56;Sleep Powder;55;False;;;False;False;;Venusaur
+57;SolarBeam;65;False;;22;False;False;;Venusaur
+58;Cut;;False;01;;False;False;;Venusaur
+59;Swords Dance;;False;;03;False;False;;Venusaur
+60;Toxic;;False;;06;False;False;;Venusaur
+61;Body Slam;;False;;08;False;False;;Venusaur
+62;Take Down;;False;;09;False;False;;Venusaur
+63;Double-Edge;;False;;10;False;False;;Venusaur
+64;Hyper Beam;;False;;15;False;False;;Venusaur
+65;Rage;;False;;20;False;False;;Venusaur
+66;Mega Drain;;False;;21;False;False;;Venusaur
+67;Mimic;;False;;31;False;False;;Venusaur
+68;Double Team;;False;;32;False;False;;Venusaur
+69;Reflect;;False;;33;False;False;;Venusaur
+70;Bide;;False;;34;False;False;;Venusaur
+71;Rest;;False;;44;False;False;;Venusaur
+72;Substitute;;False;;50;False;False;;Venusaur
+73;Tackle;1;False;;;False;False;;Squirtle
+74;Tail Whip;1;False;;;False;False;;Squirtle
+75;Bubble;8;False;;;False;False;;Squirtle
+76;Water Gun;15;False;;12;False;False;;Squirtle
+77;Bite;22;False;;;False;False;;Squirtle
+78;Withdraw;28;False;;;False;False;;Squirtle
+79;Skull Bash;35;False;;40;False;False;;Squirtle
+80;Hydro Pump;42;False;;;False;False;;Squirtle
+81;Surf;;False;03;;False;False;;Squirtle
+82;Strength;;False;04;;False;False;;Squirtle
+83;Mega Punch;;False;;01;False;False;;Squirtle
+84;Mega Kick;;False;;05;False;False;;Squirtle
+85;Toxic;;False;;06;False;False;;Squirtle
+86;Body Slam;;False;;08;False;False;;Squirtle
+87;Take Down;;False;;09;False;False;;Squirtle
+88;Double-Edge;;False;;10;False;False;;Squirtle
+89;BubbleBeam;;False;;11;False;False;;Squirtle
+90;Ice Beam;;False;;13;False;False;;Squirtle
+91;Blizzard;;False;;14;False;False;;Squirtle
+92;Submission;;False;;17;False;False;;Squirtle
+93;Counter;;False;;18;False;False;;Squirtle
+94;Seismic Toss;;False;;19;False;False;;Squirtle
+95;Rage;;False;;20;False;False;;Squirtle
+96;Dig;;False;;28;False;False;;Squirtle
+97;Mimic;;False;;31;False;False;;Squirtle
+98;Double Team;;False;;32;False;False;;Squirtle
+99;Reflect;;False;;33;False;False;;Squirtle
+100;Bide;;False;;34;False;False;;Squirtle
+101;Rest;;False;;44;False;False;;Squirtle
+102;Substitute;;False;;50;False;False;;Squirtle
+103;Growl;1;False;;;False;False;;Charmander
+104;Scratch;1;False;;;False;False;;Charmander
+105;Ember;9;False;;;False;False;;Charmander
+106;Leer;15;False;;;False;False;;Charmander
+107;Rage;22;False;;20;False;False;;Charmander
+108;Slash;30;False;;;False;False;;Charmander
+109;Flamethrower;38;False;;;False;False;;Charmander
+110;Fire Spin;46;False;;;False;False;;Charmander
+111;Cut;;False;01;;False;False;;Charmander
+112;Strength;;False;04;;False;False;;Charmander
+113;Mega Punch;;False;;01;False;False;;Charmander
+114;Swords Dance;;False;;03;False;False;;Charmander
+115;Mega Kick;;False;;05;False;False;;Charmander
+116;Toxic;;False;;06;False;False;;Charmander
+117;Body Slam;;False;;08;False;False;;Charmander
+118;Take Down;;False;;09;False;False;;Charmander
+119;Double-Edge;;False;;10;False;False;;Charmander
+120;Submission;;False;;17;False;False;;Charmander
+121;Counter;;False;;18;False;False;;Charmander
+122;Seismic Toss;;False;;19;False;False;;Charmander
+123;Dragon Rage;;False;;23;False;False;;Charmander
+124;Dig;;False;;28;False;False;;Charmander
+125;Mimic;;False;;31;False;False;;Charmander
+126;Double Team;;False;;32;False;False;;Charmander
+127;Reflect;;False;;33;False;False;;Charmander
+128;Bide;;False;;34;False;False;;Charmander
+129;Fire Blast;;False;;38;False;False;;Charmander
+130;Swift;;False;;39;False;False;;Charmander
+131;Skull Bash;;False;;40;False;False;;Charmander
+132;Rest;;False;;44;False;False;;Charmander
+133;Substitute;;False;;50;False;False;;Charmander
+134;Bubble;1;False;;;False;False;;Wartortle
+135;Bubble;8;False;;;False;False;;Wartortle
+136;Tackle;1;False;;;False;False;;Wartortle
+137;Tail Whip;1;False;;;False;False;;Wartortle
+138;Water Gun;15;False;;12;False;False;;Wartortle
+139;Bite;24;False;;;False;False;;Wartortle
+140;Withdraw;31;False;;;False;False;;Wartortle
+141;Skull Bash;39;False;;40;False;False;;Wartortle
+142;Hydro Pump;47;False;;;False;False;;Wartortle
+143;Surf;;False;03;;False;False;;Wartortle
+144;Strength;;False;04;;False;False;;Wartortle
+145;Mega Punch;;False;;01;False;False;;Wartortle
+146;Mega Kick;;False;;05;False;False;;Wartortle
+147;Toxic;;False;;06;False;False;;Wartortle
+148;Body Slam;;False;;08;False;False;;Wartortle
+149;Take Down;;False;;09;False;False;;Wartortle
+150;Double-Edge;;False;;10;False;False;;Wartortle
+151;BubbleBeam;;False;;11;False;False;;Wartortle
+152;Ice Beam;;False;;13;False;False;;Wartortle
+153;Blizzard;;False;;14;False;False;;Wartortle
+154;Submission;;False;;17;False;False;;Wartortle
+155;Counter;;False;;18;False;False;;Wartortle
+156;Seismic Toss;;False;;19;False;False;;Wartortle
+157;Rage;;False;;20;False;False;;Wartortle
+158;Dig;;False;;28;False;False;;Wartortle
+159;Mimic;;False;;31;False;False;;Wartortle
+160;Double Team;;False;;32;False;False;;Wartortle
+161;Reflect;;False;;33;False;False;;Wartortle
+162;Bide;;False;;34;False;False;;Wartortle
+163;Rest;;False;;44;False;False;;Wartortle
+164;Substitute;;False;;50;False;False;;Wartortle
+165;Ember;1;False;;;False;False;;Charmeleon
+166;Ember;9;False;;;False;False;;Charmeleon
+167;Growl;1;False;;;False;False;;Charmeleon
+168;Scratch;1;False;;;False;False;;Charmeleon
+169;Leer;15;False;;;False;False;;Charmeleon
+170;Rage;24;False;;20;False;False;;Charmeleon
+171;Slash;33;False;;;False;False;;Charmeleon
+172;Flamethrower;42;False;;;False;False;;Charmeleon
+173;Fire Spin;56;False;;;False;False;;Charmeleon
+174;Cut;;False;01;;False;False;;Charmeleon
+175;Strength;;False;04;;False;False;;Charmeleon
+176;Mega Punch;;False;;01;False;False;;Charmeleon
+177;Swords Dance;;False;;03;False;False;;Charmeleon
+178;Mega Kick;;False;;05;False;False;;Charmeleon
+179;Toxic;;False;;06;False;False;;Charmeleon
+180;Body Slam;;False;;08;False;False;;Charmeleon
+181;Take Down;;False;;09;False;False;;Charmeleon
+182;Double-Edge;;False;;10;False;False;;Charmeleon
+183;Submission;;False;;17;False;False;;Charmeleon
+184;Counter;;False;;18;False;False;;Charmeleon
+185;Seismic Toss;;False;;19;False;False;;Charmeleon
+186;Dragon Rage;;False;;23;False;False;;Charmeleon
+187;Dig;;False;;28;False;False;;Charmeleon
+188;Mimic;;False;;31;False;False;;Charmeleon
+189;Double Team;;False;;32;False;False;;Charmeleon
+190;Reflect;;False;;33;False;False;;Charmeleon
+191;Bide;;False;;34;False;False;;Charmeleon
+192;Fire Blast;;False;;38;False;False;;Charmeleon
+193;Swift;;False;;39;False;False;;Charmeleon
+194;Skull Bash;;False;;40;False;False;;Charmeleon
+195;Rest;;False;;44;False;False;;Charmeleon
+196;Substitute;;False;;50;False;False;;Charmeleon
+197;Ember;1;False;;;False;False;;Charizard
+198;Ember;9;False;;;False;False;;Charizard
+199;Growl;1;False;;;False;False;;Charizard
+200;Leer;1;False;;;False;False;;Charizard
+201;Leer;15;False;;;False;False;;Charizard
+202;Scratch;1;False;;;False;False;;Charizard
+203;Rage;24;False;;20;False;False;;Charizard
+204;Slash;36;False;;;False;False;;Charizard
+205;Flamethrower;46;False;;;False;False;;Charizard
+206;Fire Spin;55;False;;;False;False;;Charizard
+207;Cut;;False;01;;False;False;;Charizard
+208;Strength;;False;04;;False;False;;Charizard
+209;Mega Punch;;False;;01;False;False;;Charizard
+210;Swords Dance;;False;;03;False;False;;Charizard
+211;Mega Kick;;False;;05;False;False;;Charizard
+212;Toxic;;False;;06;False;False;;Charizard
+213;Body Slam;;False;;08;False;False;;Charizard
+214;Take Down;;False;;09;False;False;;Charizard
+215;Double-Edge;;False;;10;False;False;;Charizard
+216;Hyper Beam;;False;;15;False;False;;Charizard
+217;Submission;;False;;17;False;False;;Charizard
+218;Counter;;False;;18;False;False;;Charizard
+219;Seismic Toss;;False;;19;False;False;;Charizard
+220;Dragon Rage;;False;;23;False;False;;Charizard
+221;Earthquake;;False;;26;False;False;;Charizard
+222;Fissure;;False;;27;False;False;;Charizard
+223;Dig;;False;;28;False;False;;Charizard
+224;Mimic;;False;;31;False;False;;Charizard
+225;Double Team;;False;;32;False;False;;Charizard
+226;Reflect;;False;;33;False;False;;Charizard
+227;Bide;;False;;34;False;False;;Charizard
+228;Fire Blast;;False;;38;False;False;;Charizard
+229;Swift;;False;;39;False;False;;Charizard
+230;Skull Bash;;False;;40;False;False;;Charizard
+231;Rest;;False;;44;False;False;;Charizard
+232;Substitute;;False;;50;False;False;;Charizard
+233;Bubble;1;False;;;False;False;;Blastoise
+234;Bubble;8;False;;;False;False;;Blastoise
+235;Tackle;1;False;;;False;False;;Blastoise
+236;Tail Whip;1;False;;;False;False;;Blastoise
+237;Water Gun;1;False;;12;False;False;;Blastoise
+238;Water Gun;15;False;;12;False;False;;Blastoise
+239;Bite;24;False;;;False;False;;Blastoise
+240;Withdraw;31;False;;;False;False;;Blastoise
+241;Skull Bash;42;False;;40;False;False;;Blastoise
+242;Hydro Pump;52;False;;;False;False;;Blastoise
+243;Surf;;False;03;;False;False;;Blastoise
+244;Strength;;False;04;;False;False;;Blastoise
+245;Mega Punch;;False;;01;False;False;;Blastoise
+246;Mega Kick;;False;;05;False;False;;Blastoise
+247;Toxic;;False;;06;False;False;;Blastoise
+248;Body Slam;;False;;08;False;False;;Blastoise
+249;Take Down;;False;;09;False;False;;Blastoise
+250;Double-Edge;;False;;10;False;False;;Blastoise
+251;BubbleBeam;;False;;11;False;False;;Blastoise
+252;Ice Beam;;False;;13;False;False;;Blastoise
+253;Blizzard;;False;;14;False;False;;Blastoise
+254;Hyper Beam;;False;;15;False;False;;Blastoise
+255;Submission;;False;;17;False;False;;Blastoise
+256;Counter;;False;;18;False;False;;Blastoise
+257;Seismic Toss;;False;;19;False;False;;Blastoise
+258;Rage;;False;;20;False;False;;Blastoise
+259;Earthquake;;False;;26;False;False;;Blastoise
+260;Fissure;;False;;27;False;False;;Blastoise
+261;Dig;;False;;28;False;False;;Blastoise
+262;Mimic;;False;;31;False;False;;Blastoise
+263;Double Team;;False;;32;False;False;;Blastoise
+264;Reflect;;False;;33;False;False;;Blastoise
+265;Bide;;False;;34;False;False;;Blastoise
+266;Rest;;False;;44;False;False;;Blastoise
+267;Substitute;;False;;50;False;False;;Blastoise
+268;String Shot;1;False;;;False;False;;Caterpie
+269;Tackle;1;False;;;False;False;;Caterpie
+270;Harden;1;False;;;False;False;;Metapod
+271;String Shot;;True;;;False;False;;Metapod
+272;Tackle;;True;;;False;False;;Metapod
+273;Confusion;1;False;;;False;False;;Butterfree
+274;Confusion;12;False;;;False;False;;Butterfree
+275;PoisonPowder;15;False;;;False;False;;Butterfree
+276;Stun Spore;16;False;;;False;False;;Butterfree
+277;Sleep Powder;17;False;;;False;False;;Butterfree
+278;Supersonic;21;False;;;False;False;;Butterfree
+279;Whirlwind;26;False;;04;False;False;;Butterfree
+280;Psybeam;32;False;;;False;False;;Butterfree
+281;Harden;;True;;;False;False;;Butterfree
+282;String Shot;;True;;;False;False;;Butterfree
+283;Tackle;;True;;;False;False;;Butterfree
+284;Razor Wind;;False;;02;False;False;;Butterfree
+285;Toxic;;False;;06;False;False;;Butterfree
+286;Take Down;;False;;09;False;False;;Butterfree
+287;Double-Edge;;False;;10;False;False;;Butterfree
+288;Hyper Beam;;False;;15;False;False;;Butterfree
+289;Rage;;False;;20;False;False;;Butterfree
+290;Mega Drain;;False;;21;False;False;;Butterfree
+291;SolarBeam;;False;;22;False;False;;Butterfree
+292;Psychic;;False;;29;False;False;;Butterfree
+293;Teleport;;False;;30;False;False;;Butterfree
+294;Mimic;;False;;31;False;False;;Butterfree
+295;Double Team;;False;;32;False;False;;Butterfree
+296;Reflect;;False;;33;False;False;;Butterfree
+297;Bide;;False;;34;False;False;;Butterfree
+298;Swift;;False;;39;False;False;;Butterfree
+299;Rest;;False;;44;False;False;;Butterfree
+300;Psywave;;False;;46;False;False;;Butterfree
+301;Substitute;;False;;50;False;False;;Butterfree
+302;Harden;1;False;;;False;False;;Kakuna
+303;Poison Sting;;True;;;False;False;;Kakuna
+304;String Shot;;True;;;False;False;;Kakuna
+305;Poison Sting;1;False;;;False;False;;Weedle
+306;String Shot;1;False;;;False;False;;Weedle
+307;Fury Attack;1;False;;;False;False;;Beedrill
+308;Fury Attack;12;False;;;False;False;;Beedrill
+309;Focus Energy;16;False;;;False;False;;Beedrill
+310;Twineedle;20;False;;;False;False;;Beedrill
+311;Rage;25;False;;20;False;False;;Beedrill
+312;Pin Missile;30;False;;;False;False;;Beedrill
+313;Agility;35;False;;;False;False;;Beedrill
+314;Harden;;True;;;False;False;;Beedrill
+315;Poison Sting;;True;;;False;False;;Beedrill
+316;String Shot;;True;;;False;False;;Beedrill
+317;Cut;;False;01;;False;False;;Beedrill
+318;Swords Dance;;False;;03;False;False;;Beedrill
+319;Toxic;;False;;06;False;False;;Beedrill
+320;Take Down;;False;;09;False;False;;Beedrill
+321;Double-Edge;;False;;10;False;False;;Beedrill
+322;Hyper Beam;;False;;15;False;False;;Beedrill
+323;Mega Drain;;False;;21;False;False;;Beedrill
+324;Mimic;;False;;31;False;False;;Beedrill
+325;Double Team;;False;;32;False;False;;Beedrill
+326;Reflect;;False;;33;False;False;;Beedrill
+327;Bide;;False;;34;False;False;;Beedrill
+328;Swift;;False;;39;False;False;;Beedrill
+329;Skull Bash;;False;;40;False;False;;Beedrill
+330;Rest;;False;;44;False;False;;Beedrill
+331;Substitute;;False;;50;False;False;;Beedrill
+332;Gust;1;False;;;False;False;;Pidgey
+333;Sand-Attack;5;False;;;False;False;;Pidgey
+334;Quick Attack;12;False;;;False;False;;Pidgey
+335;Whirlwind;19;False;;04;False;False;;Pidgey
+336;Wing Attack;28;False;;;False;False;;Pidgey
+337;Agility;36;False;;;False;False;;Pidgey
+338;Mirror Move;44;False;;;False;False;;Pidgey
+339;Fly;;False;02;;False;False;;Pidgey
+340;Razor Wind;;False;;02;False;False;;Pidgey
+341;Toxic;;False;;06;False;False;;Pidgey
+342;Take Down;;False;;09;False;False;;Pidgey
+343;Double-Edge;;False;;10;False;False;;Pidgey
+344;Rage;;False;;20;False;False;;Pidgey
+345;Mimic;;False;;31;False;False;;Pidgey
+346;Double Team;;False;;32;False;False;;Pidgey
+347;Reflect;;False;;33;False;False;;Pidgey
+348;Bide;;False;;34;False;False;;Pidgey
+349;Swift;;False;;39;False;False;;Pidgey
+350;Sky Attack;;False;;43;False;False;;Pidgey
+351;Rest;;False;;44;False;False;;Pidgey
+352;Substitute;;False;;50;False;False;;Pidgey
+353;Gust;1;False;;;False;False;;Pidgeotto
+354;Sand-Attack;1;False;;;False;False;;Pidgeotto
+355;Sand-Attack;5;False;;;False;False;;Pidgeotto
+356;Quick Attack;12;False;;;False;False;;Pidgeotto
+357;Whirlwind;21;False;;04;False;False;;Pidgeotto
+358;Wing Attack;31;False;;;False;False;;Pidgeotto
+359;Agility;40;False;;;False;False;;Pidgeotto
+360;Mirror Move;49;False;;;False;False;;Pidgeotto
+361;Fly;;False;02;;False;False;;Pidgeotto
+362;Razor Wind;;False;;02;False;False;;Pidgeotto
+363;Toxic;;False;;06;False;False;;Pidgeotto
+364;Take Down;;False;;09;False;False;;Pidgeotto
+365;Double-Edge;;False;;10;False;False;;Pidgeotto
+366;Rage;;False;;20;False;False;;Pidgeotto
+367;Mimic;;False;;31;False;False;;Pidgeotto
+368;Double Team;;False;;32;False;False;;Pidgeotto
+369;Reflect;;False;;33;False;False;;Pidgeotto
+370;Bide;;False;;34;False;False;;Pidgeotto
+371;Swift;;False;;39;False;False;;Pidgeotto
+372;Sky Attack;;False;;43;False;False;;Pidgeotto
+373;Rest;;False;;44;False;False;;Pidgeotto
+374;Substitute;;False;;50;False;False;;Pidgeotto
+375;Gust;1;False;;;False;False;;Pidgeot
+376;Quick Attack;1;False;;;False;False;;Pidgeot
+377;Quick Attack;12;False;;;False;False;;Pidgeot
+378;Sand-Attack;1;False;;;False;False;;Pidgeot
+379;Sand-Attack;5;False;;;False;False;;Pidgeot
+380;Whirlwind;21;False;;04;False;False;;Pidgeot
+381;Wing Attack;31;False;;;False;False;;Pidgeot
+382;Agility;44;False;;;False;False;;Pidgeot
+383;Mirror Move;54;False;;;False;False;;Pidgeot
+384;Fly;;False;02;;False;False;;Pidgeot
+385;Razor Wind;;False;;02;False;False;;Pidgeot
+386;Toxic;;False;;06;False;False;;Pidgeot
+387;Take Down;;False;;09;False;False;;Pidgeot
+388;Double-Edge;;False;;10;False;False;;Pidgeot
+389;Hyper Beam;;False;;15;False;False;;Pidgeot
+390;Rage;;False;;20;False;False;;Pidgeot
+391;Mimic;;False;;31;False;False;;Pidgeot
+392;Double Team;;False;;32;False;False;;Pidgeot
+393;Reflect;;False;;33;False;False;;Pidgeot
+394;Bide;;False;;34;False;False;;Pidgeot
+395;Swift;;False;;39;False;False;;Pidgeot
+396;Sky Attack;;False;;43;False;False;;Pidgeot
+397;Rest;;False;;44;False;False;;Pidgeot
+398;Substitute;;False;;50;False;False;;Pidgeot
+399;Tackle;1;False;;;False;False;;Rattata
+400;Tail Whip;1;False;;;False;False;;Rattata
+401;Quick Attack;7;False;;;False;False;;Rattata
+402;Hyper Fang;14;False;;;False;False;;Rattata
+403;Focus Energy;23;False;;;False;False;;Rattata
+404;Super Fang;34;False;;;False;False;;Rattata
+405;Toxic;;False;;06;False;False;;Rattata
+406;Body Slam;;False;;08;False;False;;Rattata
+407;Take Down;;False;;09;False;False;;Rattata
+408;Double-Edge;;False;;10;False;False;;Rattata
+409;BubbleBeam;;False;;11;False;False;;Rattata
+410;Water Gun;;False;;12;False;False;;Rattata
+411;Blizzard;;False;;14;False;False;;Rattata
+412;Rage;;False;;20;False;False;;Rattata
+413;Thunderbolt;;False;;24;False;False;;Rattata
+414;Thunder;;False;;25;False;False;;Rattata
+415;Dig;;False;;28;False;False;;Rattata
+416;Mimic;;False;;31;False;False;;Rattata
+417;Double Team;;False;;32;False;False;;Rattata
+418;Bide;;False;;34;False;False;;Rattata
+419;Swift;;False;;39;False;False;;Rattata
+420;Skull Bash;;False;;40;False;False;;Rattata
+421;Rest;;False;;44;False;False;;Rattata
+422;Substitute;;False;;50;False;False;;Rattata
+423;Quick Attack;1;False;;;False;False;;Raticate
+424;Quick Attack;7;False;;;False;False;;Raticate
+425;Tackle;1;False;;;False;False;;Raticate
+426;Tail Whip;1;False;;;False;False;;Raticate
+427;Hyper Fang;14;False;;;False;False;;Raticate
+428;Focus Energy;27;False;;;False;False;;Raticate
+429;Super Fang;41;False;;;False;False;;Raticate
+430;Toxic;;False;;06;False;False;;Raticate
+431;Body Slam;;False;;08;False;False;;Raticate
+432;Take Down;;False;;09;False;False;;Raticate
+433;Double-Edge;;False;;10;False;False;;Raticate
+434;BubbleBeam;;False;;11;False;False;;Raticate
+435;Water Gun;;False;;12;False;False;;Raticate
+436;Ice Beam;;False;;13;False;False;;Raticate
+437;Blizzard;;False;;14;False;False;;Raticate
+438;Hyper Beam;;False;;15;False;False;;Raticate
+439;Rage;;False;;20;False;False;;Raticate
+440;Thunderbolt;;False;;24;False;False;;Raticate
+441;Thunder;;False;;25;False;False;;Raticate
+442;Dig;;False;;28;False;False;;Raticate
+443;Mimic;;False;;31;False;False;;Raticate
+444;Double Team;;False;;32;False;False;;Raticate
+445;Bide;;False;;34;False;False;;Raticate
+446;Swift;;False;;39;False;False;;Raticate
+447;Skull Bash;;False;;40;False;False;;Raticate
+448;Rest;;False;;44;False;False;;Raticate
+449;Substitute;;False;;50;False;False;;Raticate
+450;Growl;1;False;;;False;False;;Spearow
+451;Peck;1;False;;;False;False;;Spearow
+452;Leer;9;False;;;False;False;;Spearow
+453;Fury Attack;15;False;;;False;False;;Spearow
+454;Mirror Move;22;False;;;False;False;;Spearow
+455;Drill Peck;29;False;;;False;False;;Spearow
+456;Agility;36;False;;;False;False;;Spearow
+457;Fly;;False;02;;False;False;;Spearow
+458;Razor Wind;;False;;02;False;False;;Spearow
+459;Whirlwind;;False;;04;False;False;;Spearow
+460;Toxic;;False;;06;False;False;;Spearow
+461;Take Down;;False;;09;False;False;;Spearow
+462;Double-Edge;;False;;10;False;False;;Spearow
+463;Rage;;False;;20;False;False;;Spearow
+464;Mimic;;False;;31;False;False;;Spearow
+465;Double Team;;False;;32;False;False;;Spearow
+466;Bide;;False;;34;False;False;;Spearow
+467;Swift;;False;;39;False;False;;Spearow
+468;Sky Attack;;False;;43;False;False;;Spearow
+469;Rest;;False;;44;False;False;;Spearow
+470;Substitute;;False;;50;False;False;;Spearow
+471;Growl;1;False;;;False;False;;Fearow
+472;Leer;1;False;;;False;False;;Fearow
+473;Leer;9;False;;;False;False;;Fearow
+474;Peck;1;False;;;False;False;;Fearow
+475;Fury Attack;15;False;;;False;False;;Fearow
+476;Mirror Move;25;False;;;False;False;;Fearow
+477;Drill Peck;34;False;;;False;False;;Fearow
+478;Agility;43;False;;;False;False;;Fearow
+479;Fly;;False;02;;False;False;;Fearow
+480;Razor Wind;;False;;02;False;False;;Fearow
+481;Whirlwind;;False;;04;False;False;;Fearow
+482;Toxic;;False;;06;False;False;;Fearow
+483;Take Down;;False;;09;False;False;;Fearow
+484;Double-Edge;;False;;10;False;False;;Fearow
+485;Hyper Beam;;False;;15;False;False;;Fearow
+486;Rage;;False;;20;False;False;;Fearow
+487;Mimic;;False;;31;False;False;;Fearow
+488;Double Team;;False;;32;False;False;;Fearow
+489;Bide;;False;;34;False;False;;Fearow
+490;Swift;;False;;39;False;False;;Fearow
+491;Sky Attack;;False;;43;False;False;;Fearow
+492;Rest;;False;;44;False;False;;Fearow
+493;Substitute;;False;;50;False;False;;Fearow
+494;Leer;1;False;;;False;False;;Ekans
+495;Wrap;1;False;;;False;False;;Ekans
+496;Poison Sting;10;False;;;False;False;;Ekans
+497;Bite;17;False;;;False;False;;Ekans
+498;Glare;24;False;;;False;False;;Ekans
+499;Screech;31;False;;;False;False;;Ekans
+500;Acid;38;False;;;False;False;;Ekans
+501;Strength;;False;04;;False;False;;Ekans
+502;Toxic;;False;;06;False;False;;Ekans
+503;Body Slam;;False;;08;False;False;;Ekans
+504;Take Down;;False;;09;False;False;;Ekans
+505;Double-Edge;;False;;10;False;False;;Ekans
+506;Rage;;False;;20;False;False;;Ekans
+507;Mega Drain;;False;;21;False;False;;Ekans
+508;Earthquake;;False;;26;False;False;;Ekans
+509;Fissure;;False;;27;False;False;;Ekans
+510;Dig;;False;;28;False;False;;Ekans
+511;Mimic;;False;;31;False;False;;Ekans
+512;Double Team;;False;;32;False;False;;Ekans
+513;Bide;;False;;34;False;False;;Ekans
+514;Skull Bash;;False;;40;False;False;;Ekans
+515;Rest;;False;;44;False;False;;Ekans
+516;Rock Slide;;False;;48;False;False;;Ekans
+517;Substitute;;False;;50;False;False;;Ekans
+518;Growl;1;False;;;False;False;;Pikachu
+519;ThunderShock;1;False;;;False;False;;Pikachu
+520;Thunder Wave;9;False;;45;False;False;;Pikachu
+521;Quick Attack;16;False;;;False;False;;Pikachu
+522;Swift;26;False;;39;False;False;;Pikachu
+523;Agility;33;False;;;False;False;;Pikachu
+524;Thunder;43;False;;25;False;False;;Pikachu
+525;Flash;;False;05;;False;False;;Pikachu
+526;Mega Punch;;False;;01;False;False;;Pikachu
+527;Mega Kick;;False;;05;False;False;;Pikachu
+528;Toxic;;False;;06;False;False;;Pikachu
+529;Body Slam;;False;;08;False;False;;Pikachu
+530;Take Down;;False;;09;False;False;;Pikachu
+531;Double-Edge;;False;;10;False;False;;Pikachu
+532;Pay Day;;False;;16;False;False;;Pikachu
+533;Submission;;False;;17;False;False;;Pikachu
+534;Seismic Toss;;False;;19;False;False;;Pikachu
+535;Rage;;False;;20;False;False;;Pikachu
+536;Thunderbolt;;False;;24;False;False;;Pikachu
+537;Mimic;;False;;31;False;False;;Pikachu
+538;Double Team;;False;;32;False;False;;Pikachu
+539;Reflect;;False;;33;False;False;;Pikachu
+540;Bide;;False;;34;False;False;;Pikachu
+541;Skull Bash;;False;;40;False;False;;Pikachu
+542;Rest;;False;;44;False;False;;Pikachu
+543;Substitute;;False;;50;False;False;;Pikachu
+544;Leer;1;False;;;False;False;;Arbok
+545;Poison Sting;1;False;;;False;False;;Arbok
+546;Poison Sting;10;False;;;False;False;;Arbok
+547;Wrap;1;False;;;False;False;;Arbok
+548;Bite;17;False;;;False;False;;Arbok
+549;Glare;27;False;;;False;False;;Arbok
+550;Screech;36;False;;;False;False;;Arbok
+551;Acid;47;False;;;False;False;;Arbok
+552;Strength;;False;04;;False;False;;Arbok
+553;Toxic;;False;;06;False;False;;Arbok
+554;Body Slam;;False;;08;False;False;;Arbok
+555;Take Down;;False;;09;False;False;;Arbok
+556;Double-Edge;;False;;10;False;False;;Arbok
+557;Hyper Beam;;False;;15;False;False;;Arbok
+558;Rage;;False;;20;False;False;;Arbok
+559;Mega Drain;;False;;21;False;False;;Arbok
+560;Earthquake;;False;;26;False;False;;Arbok
+561;Fissure;;False;;27;False;False;;Arbok
+562;Dig;;False;;28;False;False;;Arbok
+563;Mimic;;False;;31;False;False;;Arbok
+564;Double Team;;False;;32;False;False;;Arbok
+565;Bide;;False;;34;False;False;;Arbok
+566;Skull Bash;;False;;40;False;False;;Arbok
+567;Rest;;False;;44;False;False;;Arbok
+568;Rock Slide;;False;;48;False;False;;Arbok
+569;Substitute;;False;;50;False;False;;Arbok
+570;Growl;1;False;;;False;False;;Raichu
+571;ThunderShock;1;False;;;False;False;;Raichu
+572;Thunder Wave;1;False;;45;False;False;;Raichu
+573;Agility;;True;;;False;False;;Raichu
+574;Quick Attack;;True;;;False;False;;Raichu
+575;Swift;;True;;39;False;False;;Raichu
+576;Thunder;;True;;25;False;False;;Raichu
+577;Flash;;False;05;;False;False;;Raichu
+578;Mega Punch;;False;;01;False;False;;Raichu
+579;Mega Kick;;False;;05;False;False;;Raichu
+580;Toxic;;False;;06;False;False;;Raichu
+581;Body Slam;;False;;08;False;False;;Raichu
+582;Take Down;;False;;09;False;False;;Raichu
+583;Double-Edge;;False;;10;False;False;;Raichu
+584;Hyper Beam;;False;;15;False;False;;Raichu
+585;Pay Day;;False;;16;False;False;;Raichu
+586;Submission;;False;;17;False;False;;Raichu
+587;Seismic Toss;;False;;19;False;False;;Raichu
+588;Rage;;False;;20;False;False;;Raichu
+589;Thunderbolt;;False;;24;False;False;;Raichu
+590;Mimic;;False;;31;False;False;;Raichu
+591;Double Team;;False;;32;False;False;;Raichu
+592;Reflect;;False;;33;False;False;;Raichu
+593;Bide;;False;;34;False;False;;Raichu
+594;Skull Bash;;False;;40;False;False;;Raichu
+595;Rest;;False;;44;False;False;;Raichu
+596;Substitute;;False;;50;False;False;;Raichu
+597;Scratch;1;False;;;False;False;;Sandshrew
+598;Sand-Attack;10;False;;;False;False;;Sandshrew
+599;Slash;17;False;;;False;False;;Sandshrew
+600;Poison Sting;24;False;;;False;False;;Sandshrew
+601;Swift;31;False;;39;False;False;;Sandshrew
+602;Fury Swipes;38;False;;;False;False;;Sandshrew
+603;Cut;;False;01;;False;False;;Sandshrew
+604;Strength;;False;04;;False;False;;Sandshrew
+605;Swords Dance;;False;;03;False;False;;Sandshrew
+606;Toxic;;False;;06;False;False;;Sandshrew
+607;Body Slam;;False;;08;False;False;;Sandshrew
+608;Take Down;;False;;09;False;False;;Sandshrew
+609;Double-Edge;;False;;10;False;False;;Sandshrew
+610;Submission;;False;;17;False;False;;Sandshrew
+611;Seismic Toss;;False;;19;False;False;;Sandshrew
+612;Rage;;False;;20;False;False;;Sandshrew
+613;Earthquake;;False;;26;False;False;;Sandshrew
+614;Fissure;;False;;27;False;False;;Sandshrew
+615;Dig;;False;;28;False;False;;Sandshrew
+616;Mimic;;False;;31;False;False;;Sandshrew
+617;Double Team;;False;;32;False;False;;Sandshrew
+618;Bide;;False;;34;False;False;;Sandshrew
+619;Skull Bash;;False;;40;False;False;;Sandshrew
+620;Rest;;False;;44;False;False;;Sandshrew
+621;Rock Slide;;False;;48;False;False;;Sandshrew
+622;Substitute;;False;;50;False;False;;Sandshrew
+623;Sand-Attack;1;False;;;False;False;;Sandslash
+624;Sand-Attack;10;False;;;False;False;;Sandslash
+625;Scratch;1;False;;;False;False;;Sandslash
+626;Slash;17;False;;;False;False;;Sandslash
+627;Poison Sting;27;False;;;False;False;;Sandslash
+628;Swift;36;False;;39;False;False;;Sandslash
+629;Fury Swipes;47;False;;;False;False;;Sandslash
+630;Cut;;False;01;;False;False;;Sandslash
+631;Strength;;False;04;;False;False;;Sandslash
+632;Swords Dance;;False;;03;False;False;;Sandslash
+633;Toxic;;False;;06;False;False;;Sandslash
+634;Body Slam;;False;;08;False;False;;Sandslash
+635;Take Down;;False;;09;False;False;;Sandslash
+636;Double-Edge;;False;;10;False;False;;Sandslash
+637;Hyper Beam;;False;;15;False;False;;Sandslash
+638;Submission;;False;;17;False;False;;Sandslash
+639;Seismic Toss;;False;;19;False;False;;Sandslash
+640;Rage;;False;;20;False;False;;Sandslash
+641;Earthquake;;False;;26;False;False;;Sandslash
+642;Fissure;;False;;27;False;False;;Sandslash
+643;Dig;;False;;28;False;False;;Sandslash
+644;Mimic;;False;;31;False;False;;Sandslash
+645;Double Team;;False;;32;False;False;;Sandslash
+646;Bide;;False;;34;False;False;;Sandslash
+647;Skull Bash;;False;;40;False;False;;Sandslash
+648;Rest;;False;;44;False;False;;Sandslash
+649;Rock Slide;;False;;48;False;False;;Sandslash
+650;Substitute;;False;;50;False;False;;Sandslash
+651;Growl;1;False;;;False;False;;Nidorina
+652;Scratch;1;False;;;False;False;;Nidorina
+653;Scratch;8;False;;;False;False;;Nidorina
+654;Tackle;1;False;;;False;False;;Nidorina
+655;Poison Sting;14;False;;;False;False;;Nidorina
+656;Tail Whip;23;False;;;False;False;;Nidorina
+657;Bite;32;False;;;False;False;;Nidorina
+658;Fury Swipes;41;False;;;False;False;;Nidorina
+659;Double Kick;50;False;;;False;False;;Nidorina
+660;Toxic;;False;;06;False;False;;Nidorina
+661;Horn Drill;;False;;07;False;False;;Nidorina
+662;Body Slam;;False;;08;False;False;;Nidorina
+663;Take Down;;False;;09;False;False;;Nidorina
+664;Double-Edge;;False;;10;False;False;;Nidorina
+665;BubbleBeam;;False;;11;False;False;;Nidorina
+666;Water Gun;;False;;12;False;False;;Nidorina
+667;Ice Beam;;False;;13;False;False;;Nidorina
+668;Blizzard;;False;;14;False;False;;Nidorina
+669;Rage;;False;;20;False;False;;Nidorina
+670;Thunderbolt;;False;;24;False;False;;Nidorina
+671;Thunder;;False;;25;False;False;;Nidorina
+672;Mimic;;False;;31;False;False;;Nidorina
+673;Double Team;;False;;32;False;False;;Nidorina
+674;Reflect;;False;;33;False;False;;Nidorina
+675;Bide;;False;;34;False;False;;Nidorina
+676;Skull Bash;;False;;40;False;False;;Nidorina
+677;Rest;;False;;44;False;False;;Nidorina
+678;Substitute;;False;;50;False;False;;Nidorina
+679;Body Slam;1;False;;08;False;False;;Nidoqueen
+680;Body Slam;23;False;;08;False;False;;Nidoqueen
+681;Scratch;1;False;;;False;False;;Nidoqueen
+682;Scratch;8;False;;;False;False;;Nidoqueen
+683;Tackle;1;False;;;False;False;;Nidoqueen
+684;Tail Whip;1;False;;;False;False;;Nidoqueen
+685;Poison Sting;14;False;;;False;False;;Nidoqueen
+686;Bite;;True;;;False;False;;Nidoqueen
+687;Double Kick;;True;;;False;False;;Nidoqueen
+688;Fury Swipes;;True;;;False;False;;Nidoqueen
+689;Growl;;True;;;False;False;;Nidoqueen
+690;Surf;;False;03;;False;False;;Nidoqueen
+691;Strength;;False;04;;False;False;;Nidoqueen
+692;Mega Punch;;False;;01;False;False;;Nidoqueen
+693;Mega Kick;;False;;05;False;False;;Nidoqueen
+694;Toxic;;False;;06;False;False;;Nidoqueen
+695;Horn Drill;;False;;07;False;False;;Nidoqueen
+696;Take Down;;False;;09;False;False;;Nidoqueen
+697;Double-Edge;;False;;10;False;False;;Nidoqueen
+698;BubbleBeam;;False;;11;False;False;;Nidoqueen
+699;Water Gun;;False;;12;False;False;;Nidoqueen
+700;Ice Beam;;False;;13;False;False;;Nidoqueen
+701;Blizzard;;False;;14;False;False;;Nidoqueen
+702;Hyper Beam;;False;;15;False;False;;Nidoqueen
+703;Pay Day;;False;;16;False;False;;Nidoqueen
+704;Submission;;False;;17;False;False;;Nidoqueen
+705;Counter;;False;;18;False;False;;Nidoqueen
+706;Seismic Toss;;False;;19;False;False;;Nidoqueen
+707;Rage;;False;;20;False;False;;Nidoqueen
+708;Thunderbolt;;False;;24;False;False;;Nidoqueen
+709;Thunder;;False;;25;False;False;;Nidoqueen
+710;Earthquake;;False;;26;False;False;;Nidoqueen
+711;Fissure;;False;;27;False;False;;Nidoqueen
+712;Mimic;;False;;31;False;False;;Nidoqueen
+713;Double Team;;False;;32;False;False;;Nidoqueen
+714;Reflect;;False;;33;False;False;;Nidoqueen
+715;Bide;;False;;34;False;False;;Nidoqueen
+716;Fire Blast;;False;;38;False;False;;Nidoqueen
+717;Skull Bash;;False;;40;False;False;;Nidoqueen
+718;Rest;;False;;44;False;False;;Nidoqueen
+719;Rock Slide;;False;;48;False;False;;Nidoqueen
+720;Substitute;;False;;50;False;False;;Nidoqueen
+721;Horn Attack;1;False;;;False;False;;Nidorino
+722;Horn Attack;8;False;;;False;False;;Nidorino
+723;Leer;1;False;;;False;False;;Nidorino
+724;Tackle;1;False;;;False;False;;Nidorino
+725;Poison Sting;14;False;;;False;False;;Nidorino
+726;Focus Energy;23;False;;;False;False;;Nidorino
+727;Fury Attack;32;False;;;False;False;;Nidorino
+728;Horn Drill;41;False;;07;False;False;;Nidorino
+729;Double Kick;50;False;;;False;False;;Nidorino
+730;Toxic;;False;;06;False;False;;Nidorino
+731;Body Slam;;False;;08;False;False;;Nidorino
+732;Take Down;;False;;09;False;False;;Nidorino
+733;Double-Edge;;False;;10;False;False;;Nidorino
+734;BubbleBeam;;False;;11;False;False;;Nidorino
+735;Water Gun;;False;;12;False;False;;Nidorino
+736;Ice Beam;;False;;13;False;False;;Nidorino
+737;Blizzard;;False;;14;False;False;;Nidorino
+738;Rage;;False;;20;False;False;;Nidorino
+739;Thunderbolt;;False;;24;False;False;;Nidorino
+740;Thunder;;False;;25;False;False;;Nidorino
+741;Mimic;;False;;31;False;False;;Nidorino
+742;Double Team;;False;;32;False;False;;Nidorino
+743;Reflect;;False;;33;False;False;;Nidorino
+744;Bide;;False;;34;False;False;;Nidorino
+745;Skull Bash;;False;;40;False;False;;Nidorino
+746;Rest;;False;;44;False;False;;Nidorino
+747;Substitute;;False;;50;False;False;;Nidorino
+748;Horn Attack;1;False;;;False;False;;Nidoking
+749;Horn Attack;8;False;;;False;False;;Nidoking
+750;Poison Sting;1;False;;;False;False;;Nidoking
+751;Poison Sting;14;False;;;False;False;;Nidoking
+752;Tackle;1;False;;;False;False;;Nidoking
+753;Thrash;1;False;;;False;False;;Nidoking
+754;Thrash;23;False;;;False;False;;Nidoking
+755;Double Kick;;True;;;False;False;;Nidoking
+756;Focus Energy;;True;;;False;False;;Nidoking
+757;Fury Attack;;True;;;False;False;;Nidoking
+758;Horn Drill;;True;;07;False;False;;Nidoking
+759;Leer;;True;;;False;False;;Nidoking
+760;Surf;;False;03;;False;False;;Nidoking
+761;Strength;;False;04;;False;False;;Nidoking
+762;Mega Punch;;False;;01;False;False;;Nidoking
+763;Mega Kick;;False;;05;False;False;;Nidoking
+764;Toxic;;False;;06;False;False;;Nidoking
+765;Body Slam;;False;;08;False;False;;Nidoking
+766;Take Down;;False;;09;False;False;;Nidoking
+767;Double-Edge;;False;;10;False;False;;Nidoking
+768;BubbleBeam;;False;;11;False;False;;Nidoking
+769;Water Gun;;False;;12;False;False;;Nidoking
+770;Ice Beam;;False;;13;False;False;;Nidoking
+771;Blizzard;;False;;14;False;False;;Nidoking
+772;Hyper Beam;;False;;15;False;False;;Nidoking
+773;Pay Day;;False;;16;False;False;;Nidoking
+774;Submission;;False;;17;False;False;;Nidoking
+775;Counter;;False;;18;False;False;;Nidoking
+776;Seismic Toss;;False;;19;False;False;;Nidoking
+777;Rage;;False;;20;False;False;;Nidoking
+778;Thunderbolt;;False;;24;False;False;;Nidoking
+779;Thunder;;False;;25;False;False;;Nidoking
+780;Earthquake;;False;;26;False;False;;Nidoking
+781;Fissure;;False;;27;False;False;;Nidoking
+782;Mimic;;False;;31;False;False;;Nidoking
+783;Double Team;;False;;32;False;False;;Nidoking
+784;Reflect;;False;;33;False;False;;Nidoking
+785;Bide;;False;;34;False;False;;Nidoking
+786;Fire Blast;;False;;38;False;False;;Nidoking
+787;Skull Bash;;False;;40;False;False;;Nidoking
+788;Rest;;False;;44;False;False;;Nidoking
+789;Rock Slide;;False;;48;False;False;;Nidoking
+790;Substitute;;False;;50;False;False;;Nidoking
+791;Growl;1;False;;;False;False;;Clefairy
+792;Pound;1;False;;;False;False;;Clefairy
+793;Sing;13;False;;;False;False;;Clefairy
+794;DoubleSlap;18;False;;;False;False;;Clefairy
+795;Minimize;24;False;;;False;False;;Clefairy
+796;Metronome;31;False;;35;False;False;;Clefairy
+797;Defense Curl;39;False;;;False;False;;Clefairy
+798;Light Screen;48;False;;;False;False;;Clefairy
+799;Strength;;False;04;;False;False;;Clefairy
+800;Flash;;False;05;;False;False;;Clefairy
+801;Mega Punch;;False;;01;False;False;;Clefairy
+802;Mega Kick;;False;;05;False;False;;Clefairy
+803;Toxic;;False;;06;False;False;;Clefairy
+804;Body Slam;;False;;08;False;False;;Clefairy
+805;Take Down;;False;;09;False;False;;Clefairy
+806;Double-Edge;;False;;10;False;False;;Clefairy
+807;BubbleBeam;;False;;11;False;False;;Clefairy
+808;Water Gun;;False;;12;False;False;;Clefairy
+809;Ice Beam;;False;;13;False;False;;Clefairy
+810;Blizzard;;False;;14;False;False;;Clefairy
+811;Submission;;False;;17;False;False;;Clefairy
+812;Counter;;False;;18;False;False;;Clefairy
+813;Seismic Toss;;False;;19;False;False;;Clefairy
+814;Rage;;False;;20;False;False;;Clefairy
+815;SolarBeam;;False;;22;False;False;;Clefairy
+816;Thunderbolt;;False;;24;False;False;;Clefairy
+817;Thunder;;False;;25;False;False;;Clefairy
+818;Psychic;;False;;29;False;False;;Clefairy
+819;Teleport;;False;;30;False;False;;Clefairy
+820;Mimic;;False;;31;False;False;;Clefairy
+821;Double Team;;False;;32;False;False;;Clefairy
+822;Reflect;;False;;33;False;False;;Clefairy
+823;Bide;;False;;34;False;False;;Clefairy
+824;Fire Blast;;False;;38;False;False;;Clefairy
+825;Skull Bash;;False;;40;False;False;;Clefairy
+826;Rest;;False;;44;False;False;;Clefairy
+827;Thunder Wave;;False;;45;False;False;;Clefairy
+828;Psywave;;False;;46;False;False;;Clefairy
+829;Tri Attack;;False;;49;False;False;;Clefairy
+830;Substitute;;False;;50;False;False;;Clefairy
+831;DoubleSlap;1;False;;;False;False;;Clefable
+832;Metronome;1;False;;35;False;False;;Clefable
+833;Minimize;1;False;;;False;False;;Clefable
+834;Sing;1;False;;;False;False;;Clefable
+835;Defense Curl;;True;;;False;False;;Clefable
+836;Growl;;True;;;False;False;;Clefable
+837;Light Screen;;True;;;False;False;;Clefable
+838;Pound;;True;;;False;False;;Clefable
+839;Strength;;False;04;;False;False;;Clefable
+840;Flash;;False;05;;False;False;;Clefable
+841;Mega Punch;;False;;01;False;False;;Clefable
+842;Mega Kick;;False;;05;False;False;;Clefable
+843;Toxic;;False;;06;False;False;;Clefable
+844;Body Slam;;False;;08;False;False;;Clefable
+845;Take Down;;False;;09;False;False;;Clefable
+846;Double-Edge;;False;;10;False;False;;Clefable
+847;BubbleBeam;;False;;11;False;False;;Clefable
+848;Water Gun;;False;;12;False;False;;Clefable
+849;Ice Beam;;False;;13;False;False;;Clefable
+850;Blizzard;;False;;14;False;False;;Clefable
+851;Hyper Beam;;False;;15;False;False;;Clefable
+852;Submission;;False;;17;False;False;;Clefable
+853;Counter;;False;;18;False;False;;Clefable
+854;Seismic Toss;;False;;19;False;False;;Clefable
+855;Rage;;False;;20;False;False;;Clefable
+856;SolarBeam;;False;;22;False;False;;Clefable
+857;Thunderbolt;;False;;24;False;False;;Clefable
+858;Thunder;;False;;25;False;False;;Clefable
+859;Psychic;;False;;29;False;False;;Clefable
+860;Teleport;;False;;30;False;False;;Clefable
+861;Mimic;;False;;31;False;False;;Clefable
+862;Double Team;;False;;32;False;False;;Clefable
+863;Reflect;;False;;33;False;False;;Clefable
+864;Bide;;False;;34;False;False;;Clefable
+865;Fire Blast;;False;;38;False;False;;Clefable
+866;Skull Bash;;False;;40;False;False;;Clefable
+867;Rest;;False;;44;False;False;;Clefable
+868;Thunder Wave;;False;;45;False;False;;Clefable
+869;Psywave;;False;;46;False;False;;Clefable
+870;Tri Attack;;False;;49;False;False;;Clefable
+871;Substitute;;False;;50;False;False;;Clefable
+872;Ember;1;False;;;False;False;;Vulpix
+873;Tail Whip;1;False;;;False;False;;Vulpix
+874;Quick Attack;16;False;;;False;False;;Vulpix
+875;Roar;21;False;;;False;False;;Vulpix
+876;Confuse Ray;28;False;;;False;False;;Vulpix
+877;Flamethrower;35;False;;;False;False;;Vulpix
+878;Fire Spin;42;False;;;False;False;;Vulpix
+879;Toxic;;False;;06;False;False;;Vulpix
+880;Body Slam;;False;;08;False;False;;Vulpix
+881;Take Down;;False;;09;False;False;;Vulpix
+882;Double-Edge;;False;;10;False;False;;Vulpix
+883;Rage;;False;;20;False;False;;Vulpix
+884;Dig;;False;;28;False;False;;Vulpix
+885;Mimic;;False;;31;False;False;;Vulpix
+886;Double Team;;False;;32;False;False;;Vulpix
+887;Reflect;;False;;33;False;False;;Vulpix
+888;Bide;;False;;34;False;False;;Vulpix
+889;Fire Blast;;False;;38;False;False;;Vulpix
+890;Swift;;False;;39;False;False;;Vulpix
+891;Skull Bash;;False;;40;False;False;;Vulpix
+892;Rest;;False;;44;False;False;;Vulpix
+893;Substitute;;False;;50;False;False;;Vulpix
+894;Ember;1;False;;;False;False;;Ninetales
+895;Quick Attack;1;False;;;False;False;;Ninetales
+896;Roar;1;False;;;False;False;;Ninetales
+897;Tail Whip;1;False;;;False;False;;Ninetales
+898;Confuse Ray;;True;;;False;False;;Ninetales
+899;Fire Spin;;True;;;False;False;;Ninetales
+900;Flamethrower;;True;;;False;False;;Ninetales
+901;Toxic;;False;;06;False;False;;Ninetales
+902;Body Slam;;False;;08;False;False;;Ninetales
+903;Take Down;;False;;09;False;False;;Ninetales
+904;Double-Edge;;False;;10;False;False;;Ninetales
+905;Hyper Beam;;False;;15;False;False;;Ninetales
+906;Rage;;False;;20;False;False;;Ninetales
+907;Dig;;False;;28;False;False;;Ninetales
+908;Mimic;;False;;31;False;False;;Ninetales
+909;Double Team;;False;;32;False;False;;Ninetales
+910;Reflect;;False;;33;False;False;;Ninetales
+911;Bide;;False;;34;False;False;;Ninetales
+912;Fire Blast;;False;;38;False;False;;Ninetales
+913;Swift;;False;;39;False;False;;Ninetales
+914;Skull Bash;;False;;40;False;False;;Ninetales
+915;Rest;;False;;44;False;False;;Ninetales
+916;Substitute;;False;;50;False;False;;Ninetales
+917;Defense Curl;1;False;;;False;False;;Wigglytuff
+918;Disable;1;False;;;False;False;;Wigglytuff
+919;DoubleSlap;1;False;;;False;False;;Wigglytuff
+920;Sing;1;False;;;False;False;;Wigglytuff
+921;Body Slam;;True;;08;False;False;;Wigglytuff
+922;Double-Edge;;True;;10;False;False;;Wigglytuff
+923;Pound;;True;;;False;False;;Wigglytuff
+924;Rest;;True;;44;False;False;;Wigglytuff
+925;Strength;;False;04;;False;False;;Wigglytuff
+926;Flash;;False;05;;False;False;;Wigglytuff
+927;Mega Punch;;False;;01;False;False;;Wigglytuff
+928;Mega Kick;;False;;05;False;False;;Wigglytuff
+929;Toxic;;False;;06;False;False;;Wigglytuff
+930;Take Down;;False;;09;False;False;;Wigglytuff
+931;BubbleBeam;;False;;11;False;False;;Wigglytuff
+932;Water Gun;;False;;12;False;False;;Wigglytuff
+933;Ice Beam;;False;;13;False;False;;Wigglytuff
+934;Blizzard;;False;;14;False;False;;Wigglytuff
+935;Hyper Beam;;False;;15;False;False;;Wigglytuff
+936;Submission;;False;;17;False;False;;Wigglytuff
+937;Counter;;False;;18;False;False;;Wigglytuff
+938;Seismic Toss;;False;;19;False;False;;Wigglytuff
+939;Rage;;False;;20;False;False;;Wigglytuff
+940;SolarBeam;;False;;22;False;False;;Wigglytuff
+941;Thunderbolt;;False;;24;False;False;;Wigglytuff
+942;Thunder;;False;;25;False;False;;Wigglytuff
+943;Psychic;;False;;29;False;False;;Wigglytuff
+944;Teleport;;False;;30;False;False;;Wigglytuff
+945;Mimic;;False;;31;False;False;;Wigglytuff
+946;Double Team;;False;;32;False;False;;Wigglytuff
+947;Reflect;;False;;33;False;False;;Wigglytuff
+948;Bide;;False;;34;False;False;;Wigglytuff
+949;Fire Blast;;False;;38;False;False;;Wigglytuff
+950;Skull Bash;;False;;40;False;False;;Wigglytuff
+951;Thunder Wave;;False;;45;False;False;;Wigglytuff
+952;Psywave;;False;;46;False;False;;Wigglytuff
+953;Tri Attack;;False;;49;False;False;;Wigglytuff
+954;Substitute;;False;;50;False;False;;Wigglytuff
+955;Leech Life;1;False;;;False;False;;Zubat
+956;Supersonic;10;False;;;False;False;;Zubat
+957;Bite;15;False;;;False;False;;Zubat
+958;Confuse Ray;21;False;;;False;False;;Zubat
+959;Wing Attack;28;False;;;False;False;;Zubat
+960;Haze;36;False;;;False;False;;Zubat
+961;Razor Wind;;False;;02;False;False;;Zubat
+962;Whirlwind;;False;;04;False;False;;Zubat
+963;Toxic;;False;;06;False;False;;Zubat
+964;Take Down;;False;;09;False;False;;Zubat
+965;Double-Edge;;False;;10;False;False;;Zubat
+966;Rage;;False;;20;False;False;;Zubat
+967;Mega Drain;;False;;21;False;False;;Zubat
+968;Mimic;;False;;31;False;False;;Zubat
+969;Double Team;;False;;32;False;False;;Zubat
+970;Bide;;False;;34;False;False;;Zubat
+971;Swift;;False;;39;False;False;;Zubat
+972;Rest;;False;;44;False;False;;Zubat
+973;Substitute;;False;;50;False;False;;Zubat
+974;Bite;1;False;;;False;False;;Golbat
+975;Bite;15;False;;;False;False;;Golbat
+976;Leech Life;1;False;;;False;False;;Golbat
+977;Screech;1;False;;;False;False;;Golbat
+978;Supersonic;10;False;;;False;False;;Golbat
+979;Confuse Ray;21;False;;;False;False;;Golbat
+980;Wing Attack;32;False;;;False;False;;Golbat
+981;Haze;43;False;;;False;False;;Golbat
+982;Razor Wind;;False;;02;False;False;;Golbat
+983;Whirlwind;;False;;04;False;False;;Golbat
+984;Toxic;;False;;06;False;False;;Golbat
+985;Take Down;;False;;09;False;False;;Golbat
+986;Double-Edge;;False;;10;False;False;;Golbat
+987;Hyper Beam;;False;;15;False;False;;Golbat
+988;Rage;;False;;20;False;False;;Golbat
+989;Mega Drain;;False;;21;False;False;;Golbat
+990;Mimic;;False;;31;False;False;;Golbat
+991;Double Team;;False;;32;False;False;;Golbat
+992;Bide;;False;;34;False;False;;Golbat
+993;Swift;;False;;39;False;False;;Golbat
+994;Rest;;False;;44;False;False;;Golbat
+995;Substitute;;False;;50;False;False;;Golbat
+996;Sing;1;False;;;False;False;;Jigglypuff
+997;Pound;9;False;;;False;False;;Jigglypuff
+998;Disable;14;False;;;False;False;;Jigglypuff
+999;Defense Curl;19;False;;;False;False;;Jigglypuff
+1000;DoubleSlap;24;False;;;False;False;;Jigglypuff
+1001;Rest;29;False;;44;False;False;;Jigglypuff
+1002;Body Slam;34;False;;08;False;False;;Jigglypuff
+1003;Double-Edge;39;False;;10;False;False;;Jigglypuff
+1004;Strength;;False;04;;False;False;;Jigglypuff
+1005;Flash;;False;05;;False;False;;Jigglypuff
+1006;Mega Punch;;False;;01;False;False;;Jigglypuff
+1007;Mega Kick;;False;;05;False;False;;Jigglypuff
+1008;Toxic;;False;;06;False;False;;Jigglypuff
+1009;Take Down;;False;;09;False;False;;Jigglypuff
+1010;BubbleBeam;;False;;11;False;False;;Jigglypuff
+1011;Water Gun;;False;;12;False;False;;Jigglypuff
+1012;Ice Beam;;False;;13;False;False;;Jigglypuff
+1013;Blizzard;;False;;14;False;False;;Jigglypuff
+1014;Submission;;False;;17;False;False;;Jigglypuff
+1015;Counter;;False;;18;False;False;;Jigglypuff
+1016;Seismic Toss;;False;;19;False;False;;Jigglypuff
+1017;Rage;;False;;20;False;False;;Jigglypuff
+1018;SolarBeam;;False;;22;False;False;;Jigglypuff
+1019;Thunderbolt;;False;;24;False;False;;Jigglypuff
+1020;Thunder;;False;;25;False;False;;Jigglypuff
+1021;Psychic;;False;;29;False;False;;Jigglypuff
+1022;Teleport;;False;;30;False;False;;Jigglypuff
+1023;Mimic;;False;;31;False;False;;Jigglypuff
+1024;Double Team;;False;;32;False;False;;Jigglypuff
+1025;Reflect;;False;;33;False;False;;Jigglypuff
+1026;Bide;;False;;34;False;False;;Jigglypuff
+1027;Fire Blast;;False;;38;False;False;;Jigglypuff
+1028;Skull Bash;;False;;40;False;False;;Jigglypuff
+1029;Thunder Wave;;False;;45;False;False;;Jigglypuff
+1030;Psywave;;False;;46;False;False;;Jigglypuff
+1031;Tri Attack;;False;;49;False;False;;Jigglypuff
+1032;Substitute;;False;;50;False;False;;Jigglypuff
+1033;Absorb;1;False;;;False;False;;Oddish
+1034;PoisonPowder;15;False;;;False;False;;Oddish
+1035;Stun Spore;17;False;;;False;False;;Oddish
+1036;Sleep Powder;19;False;;;False;False;;Oddish
+1037;Acid;24;False;;;False;False;;Oddish
+1038;Petal Dance;33;False;;;False;False;;Oddish
+1039;SolarBeam;46;False;;22;False;False;;Oddish
+1040;Cut;;False;01;;False;False;;Oddish
+1041;Swords Dance;;False;;03;False;False;;Oddish
+1042;Toxic;;False;;06;False;False;;Oddish
+1043;Take Down;;False;;09;False;False;;Oddish
+1044;Double-Edge;;False;;10;False;False;;Oddish
+1045;Rage;;False;;20;False;False;;Oddish
+1046;Mega Drain;;False;;21;False;False;;Oddish
+1047;Mimic;;False;;31;False;False;;Oddish
+1048;Double Team;;False;;32;False;False;;Oddish
+1049;Reflect;;False;;33;False;False;;Oddish
+1050;Bide;;False;;34;False;False;;Oddish
+1051;Rest;;False;;44;False;False;;Oddish
+1052;Substitute;;False;;50;False;False;;Oddish
+1053;Absorb;1;False;;;False;False;;Gloom
+1054;PoisonPowder;1;False;;;False;False;;Gloom
+1055;PoisonPowder;15;False;;;False;False;;Gloom
+1056;Stun Spore;1;False;;;False;False;;Gloom
+1057;Stun Spore;17;False;;;False;False;;Gloom
+1058;Sleep Powder;19;False;;;False;False;;Gloom
+1059;Acid;28;False;;;False;False;;Gloom
+1060;Petal Dance;38;False;;;False;False;;Gloom
+1061;SolarBeam;52;False;;22;False;False;;Gloom
+1062;Cut;;False;01;;False;False;;Gloom
+1063;Swords Dance;;False;;03;False;False;;Gloom
+1064;Toxic;;False;;06;False;False;;Gloom
+1065;Take Down;;False;;09;False;False;;Gloom
+1066;Double-Edge;;False;;10;False;False;;Gloom
+1067;Rage;;False;;20;False;False;;Gloom
+1068;Mega Drain;;False;;21;False;False;;Gloom
+1069;Mimic;;False;;31;False;False;;Gloom
+1070;Double Team;;False;;32;False;False;;Gloom
+1071;Reflect;;False;;33;False;False;;Gloom
+1072;Bide;;False;;34;False;False;;Gloom
+1073;Rest;;False;;44;False;False;;Gloom
+1074;Substitute;;False;;50;False;False;;Gloom
+1075;Acid;1;False;;;False;False;;Vileplume
+1076;Petal Dance;1;False;;;False;False;;Vileplume
+1077;Sleep Powder;1;False;;;False;False;;Vileplume
+1078;Sleep Powder;19;False;;;False;False;;Vileplume
+1079;Stun Spore;1;False;;;False;False;;Vileplume
+1080;Stun Spore;17;False;;;False;False;;Vileplume
+1081;PoisonPowder;15;False;;;False;False;;Vileplume
+1082;Absorb;;True;;;False;False;;Vileplume
+1083;SolarBeam;;True;;22;False;False;;Vileplume
+1084;Cut;;False;01;;False;False;;Vileplume
+1085;Swords Dance;;False;;03;False;False;;Vileplume
+1086;Toxic;;False;;06;False;False;;Vileplume
+1087;Body Slam;;False;;08;False;False;;Vileplume
+1088;Take Down;;False;;09;False;False;;Vileplume
+1089;Double-Edge;;False;;10;False;False;;Vileplume
+1090;Hyper Beam;;False;;15;False;False;;Vileplume
+1091;Rage;;False;;20;False;False;;Vileplume
+1092;Mega Drain;;False;;21;False;False;;Vileplume
+1093;Mimic;;False;;31;False;False;;Vileplume
+1094;Double Team;;False;;32;False;False;;Vileplume
+1095;Reflect;;False;;33;False;False;;Vileplume
+1096;Bide;;False;;34;False;False;;Vileplume
+1097;Rest;;False;;44;False;False;;Vileplume
+1098;Substitute;;False;;50;False;False;;Vileplume
+1099;Scratch;1;False;;;False;False;;Paras
+1100;Stun Spore;13;False;;;False;False;;Paras
+1101;Leech Life;20;False;;;False;False;;Paras
+1102;Spore;27;False;;;False;False;;Paras
+1103;Slash;34;False;;;False;False;;Paras
+1104;Growth;41;False;;;False;False;;Paras
+1105;Cut;;False;01;;False;False;;Paras
+1106;Swords Dance;;False;;03;False;False;;Paras
+1107;Toxic;;False;;06;False;False;;Paras
+1108;Body Slam;;False;;08;False;False;;Paras
+1109;Take Down;;False;;09;False;False;;Paras
+1110;Double-Edge;;False;;10;False;False;;Paras
+1111;Rage;;False;;20;False;False;;Paras
+1112;Mega Drain;;False;;21;False;False;;Paras
+1113;SolarBeam;;False;;22;False;False;;Paras
+1114;Dig;;False;;28;False;False;;Paras
+1115;Mimic;;False;;31;False;False;;Paras
+1116;Double Team;;False;;32;False;False;;Paras
+1117;Reflect;;False;;33;False;False;;Paras
+1118;Bide;;False;;34;False;False;;Paras
+1119;Skull Bash;;False;;40;False;False;;Paras
+1120;Rest;;False;;44;False;False;;Paras
+1121;Substitute;;False;;50;False;False;;Paras
+1122;Leech Life;1;False;;;False;False;;Parasect
+1123;Leech Life;20;False;;;False;False;;Parasect
+1124;Scratch;1;False;;;False;False;;Parasect
+1125;Stun Spore;1;False;;;False;False;;Parasect
+1126;Stun Spore;13;False;;;False;False;;Parasect
+1127;Spore;30;False;;;False;False;;Parasect
+1128;Slash;39;False;;;False;False;;Parasect
+1129;Growth;48;False;;;False;False;;Parasect
+1130;Cut;;False;01;;False;False;;Parasect
+1131;Swords Dance;;False;;03;False;False;;Parasect
+1132;Toxic;;False;;06;False;False;;Parasect
+1133;Body Slam;;False;;08;False;False;;Parasect
+1134;Take Down;;False;;09;False;False;;Parasect
+1135;Double-Edge;;False;;10;False;False;;Parasect
+1136;Hyper Beam;;False;;15;False;False;;Parasect
+1137;Rage;;False;;20;False;False;;Parasect
+1138;Mega Drain;;False;;21;False;False;;Parasect
+1139;SolarBeam;;False;;22;False;False;;Parasect
+1140;Dig;;False;;28;False;False;;Parasect
+1141;Mimic;;False;;31;False;False;;Parasect
+1142;Double Team;;False;;32;False;False;;Parasect
+1143;Reflect;;False;;33;False;False;;Parasect
+1144;Bide;;False;;34;False;False;;Parasect
+1145;Skull Bash;;False;;40;False;False;;Parasect
+1146;Rest;;False;;44;False;False;;Parasect
+1147;Substitute;;False;;50;False;False;;Parasect
+1148;Disable;1;False;;;False;False;;Venonat
+1149;Tackle;1;False;;;False;False;;Venonat
+1150;PoisonPowder;24;False;;;False;False;;Venonat
+1151;Leech Life;27;False;;;False;False;;Venonat
+1152;Stun Spore;30;False;;;False;False;;Venonat
+1153;Psybeam;35;False;;;False;False;;Venonat
+1154;Sleep Powder;38;False;;;False;False;;Venonat
+1155;Psychic;43;False;;29;False;False;;Venonat
+1156;Toxic;;False;;06;False;False;;Venonat
+1157;Take Down;;False;;09;False;False;;Venonat
+1158;Double-Edge;;False;;10;False;False;;Venonat
+1159;Rage;;False;;20;False;False;;Venonat
+1160;Mega Drain;;False;;21;False;False;;Venonat
+1161;SolarBeam;;False;;22;False;False;;Venonat
+1162;Mimic;;False;;31;False;False;;Venonat
+1163;Double Team;;False;;32;False;False;;Venonat
+1164;Reflect;;False;;33;False;False;;Venonat
+1165;Bide;;False;;34;False;False;;Venonat
+1166;Rest;;False;;44;False;False;;Venonat
+1167;Psywave;;False;;46;False;False;;Venonat
+1168;Substitute;;False;;50;False;False;;Venonat
+1169;Disable;1;False;;;False;False;;Venomoth
+1170;Leech Life;1;False;;;False;False;;Venomoth
+1171;Leech Life;27;False;;;False;False;;Venomoth
+1172;PoisonPowder;1;False;;;False;False;;Venomoth
+1173;PoisonPowder;24;False;;;False;False;;Venomoth
+1174;Tackle;1;False;;;False;False;;Venomoth
+1175;Stun Spore;30;False;;;False;False;;Venomoth
+1176;Psybeam;38;False;;;False;False;;Venomoth
+1177;Sleep Powder;43;False;;;False;False;;Venomoth
+1178;Psychic;50;False;;29;False;False;;Venomoth
+1179;Razor Wind;;False;;02;False;False;;Venomoth
+1180;Whirlwind;;False;;04;False;False;;Venomoth
+1181;Toxic;;False;;06;False;False;;Venomoth
+1182;Take Down;;False;;09;False;False;;Venomoth
+1183;Double-Edge;;False;;10;False;False;;Venomoth
+1184;Hyper Beam;;False;;15;False;False;;Venomoth
+1185;Rage;;False;;20;False;False;;Venomoth
+1186;Mega Drain;;False;;21;False;False;;Venomoth
+1187;SolarBeam;;False;;22;False;False;;Venomoth
+1188;Teleport;;False;;30;False;False;;Venomoth
+1189;Mimic;;False;;31;False;False;;Venomoth
+1190;Double Team;;False;;32;False;False;;Venomoth
+1191;Reflect;;False;;33;False;False;;Venomoth
+1192;Bide;;False;;34;False;False;;Venomoth
+1193;Swift;;False;;39;False;False;;Venomoth
+1194;Rest;;False;;44;False;False;;Venomoth
+1195;Psywave;;False;;46;False;False;;Venomoth
+1196;Substitute;;False;;50;False;False;;Venomoth
+1197;Scratch;1;False;;;False;False;;Diglett
+1198;Growl;15;False;;;False;False;;Diglett
+1199;Dig;19;False;;28;False;False;;Diglett
+1200;Sand-Attack;24;False;;;False;False;;Diglett
+1201;Slash;31;False;;;False;False;;Diglett
+1202;Earthquake;40;False;;26;False;False;;Diglett
+1203;Toxic;;False;;06;False;False;;Diglett
+1204;Body Slam;;False;;08;False;False;;Diglett
+1205;Take Down;;False;;09;False;False;;Diglett
+1206;Double-Edge;;False;;10;False;False;;Diglett
+1207;Rage;;False;;20;False;False;;Diglett
+1208;Fissure;;False;;27;False;False;;Diglett
+1209;Mimic;;False;;31;False;False;;Diglett
+1210;Double Team;;False;;32;False;False;;Diglett
+1211;Bide;;False;;34;False;False;;Diglett
+1212;Rest;;False;;44;False;False;;Diglett
+1213;Rock Slide;;False;;48;False;False;;Diglett
+1214;Substitute;;False;;50;False;False;;Diglett
+1215;Dig;1;False;;28;False;False;;Dugtrio
+1216;Dig;19;False;;28;False;False;;Dugtrio
+1217;Growl;1;False;;;False;False;;Dugtrio
+1218;Growl;15;False;;;False;False;;Dugtrio
+1219;Scratch;1;False;;;False;False;;Dugtrio
+1220;Sand-Attack;24;False;;;False;False;;Dugtrio
+1221;Slash;35;False;;;False;False;;Dugtrio
+1222;Earthquake;47;False;;26;False;False;;Dugtrio
+1223;Toxic;;False;;06;False;False;;Dugtrio
+1224;Body Slam;;False;;08;False;False;;Dugtrio
+1225;Take Down;;False;;09;False;False;;Dugtrio
+1226;Double-Edge;;False;;10;False;False;;Dugtrio
+1227;Hyper Beam;;False;;15;False;False;;Dugtrio
+1228;Rage;;False;;20;False;False;;Dugtrio
+1229;Fissure;;False;;27;False;False;;Dugtrio
+1230;Mimic;;False;;31;False;False;;Dugtrio
+1231;Double Team;;False;;32;False;False;;Dugtrio
+1232;Bide;;False;;34;False;False;;Dugtrio
+1233;Rest;;False;;44;False;False;;Dugtrio
+1234;Rock Slide;;False;;48;False;False;;Dugtrio
+1235;Substitute;;False;;50;False;False;;Dugtrio
+1236;Growl;1;False;;;False;False;;Meowth
+1237;Scratch;1;False;;;False;False;;Meowth
+1238;Bite;12;False;;;False;False;;Meowth
+1239;Pay Day;17;False;;16;False;False;;Meowth
+1240;Screech;24;False;;;False;False;;Meowth
+1241;Fury Swipes;33;False;;;False;False;;Meowth
+1242;Slash;44;False;;;False;False;;Meowth
+1243;Toxic;;False;;06;False;False;;Meowth
+1244;Body Slam;;False;;08;False;False;;Meowth
+1245;Take Down;;False;;09;False;False;;Meowth
+1246;Double-Edge;;False;;10;False;False;;Meowth
+1247;BubbleBeam;;False;;11;False;False;;Meowth
+1248;Water Gun;;False;;12;False;False;;Meowth
+1249;Rage;;False;;20;False;False;;Meowth
+1250;Thunderbolt;;False;;24;False;False;;Meowth
+1251;Thunder;;False;;25;False;False;;Meowth
+1252;Mimic;;False;;31;False;False;;Meowth
+1253;Double Team;;False;;32;False;False;;Meowth
+1254;Bide;;False;;34;False;False;;Meowth
+1255;Swift;;False;;39;False;False;;Meowth
+1256;Skull Bash;;False;;40;False;False;;Meowth
+1257;Rest;;False;;44;False;False;;Meowth
+1258;Substitute;;False;;50;False;False;;Meowth
+1259;Bite;1;False;;;False;False;;Persian
+1260;Bite;12;False;;;False;False;;Persian
+1261;Growl;1;False;;;False;False;;Persian
+1262;Scratch;1;False;;;False;False;;Persian
+1263;Screech;1;False;;;False;False;;Persian
+1264;Screech;24;False;;;False;False;;Persian
+1265;Pay Day;17;False;;16;False;False;;Persian
+1266;Fury Swipes;37;False;;;False;False;;Persian
+1267;Slash;51;False;;;False;False;;Persian
+1268;Toxic;;False;;06;False;False;;Persian
+1269;Body Slam;;False;;08;False;False;;Persian
+1270;Take Down;;False;;09;False;False;;Persian
+1271;Double-Edge;;False;;10;False;False;;Persian
+1272;BubbleBeam;;False;;11;False;False;;Persian
+1273;Water Gun;;False;;12;False;False;;Persian
+1274;Hyper Beam;;False;;15;False;False;;Persian
+1275;Rage;;False;;20;False;False;;Persian
+1276;Thunderbolt;;False;;24;False;False;;Persian
+1277;Thunder;;False;;25;False;False;;Persian
+1278;Mimic;;False;;31;False;False;;Persian
+1279;Double Team;;False;;32;False;False;;Persian
+1280;Bide;;False;;34;False;False;;Persian
+1281;Swift;;False;;39;False;False;;Persian
+1282;Skull Bash;;False;;40;False;False;;Persian
+1283;Rest;;False;;44;False;False;;Persian
+1284;Substitute;;False;;50;False;False;;Persian
+1285;Scratch;1;False;;;False;False;;Psyduck
+1286;Tail Whip;28;False;;;False;False;;Psyduck
+1287;Disable;31;False;;;False;False;;Psyduck
+1288;Confusion;36;False;;;False;False;;Psyduck
+1289;Fury Swipes;43;False;;;False;False;;Psyduck
+1290;Hydro Pump;52;False;;;False;False;;Psyduck
+1291;Surf;;False;03;;False;False;;Psyduck
+1292;Strength;;False;04;;False;False;;Psyduck
+1293;Mega Punch;;False;;01;False;False;;Psyduck
+1294;Mega Kick;;False;;05;False;False;;Psyduck
+1295;Toxic;;False;;06;False;False;;Psyduck
+1296;Body Slam;;False;;08;False;False;;Psyduck
+1297;Take Down;;False;;09;False;False;;Psyduck
+1298;Double-Edge;;False;;10;False;False;;Psyduck
+1299;BubbleBeam;;False;;11;False;False;;Psyduck
+1300;Water Gun;;False;;12;False;False;;Psyduck
+1301;Ice Beam;;False;;13;False;False;;Psyduck
+1302;Blizzard;;False;;14;False;False;;Psyduck
+1303;Pay Day;;False;;16;False;False;;Psyduck
+1304;Submission;;False;;17;False;False;;Psyduck
+1305;Counter;;False;;18;False;False;;Psyduck
+1306;Seismic Toss;;False;;19;False;False;;Psyduck
+1307;Rage;;False;;20;False;False;;Psyduck
+1308;Dig;;False;;28;False;False;;Psyduck
+1309;Mimic;;False;;31;False;False;;Psyduck
+1310;Double Team;;False;;32;False;False;;Psyduck
+1311;Bide;;False;;34;False;False;;Psyduck
+1312;Swift;;False;;39;False;False;;Psyduck
+1313;Skull Bash;;False;;40;False;False;;Psyduck
+1314;Rest;;False;;44;False;False;;Psyduck
+1315;Substitute;;False;;50;False;False;;Psyduck
+1316;Disable;1;False;;;False;False;;Golduck
+1317;Disable;31;False;;;False;False;;Golduck
+1318;Scratch;1;False;;;False;False;;Golduck
+1319;Tail Whip;1;False;;;False;False;;Golduck
+1320;Tail Whip;28;False;;;False;False;;Golduck
+1321;Confusion;39;False;;;False;False;;Golduck
+1322;Fury Swipes;48;False;;;False;False;;Golduck
+1323;Hydro Pump;59;False;;;False;False;;Golduck
+1324;Surf;;False;03;;False;False;;Golduck
+1325;Strength;;False;04;;False;False;;Golduck
+1326;Mega Punch;;False;;01;False;False;;Golduck
+1327;Mega Kick;;False;;05;False;False;;Golduck
+1328;Toxic;;False;;06;False;False;;Golduck
+1329;Body Slam;;False;;08;False;False;;Golduck
+1330;Take Down;;False;;09;False;False;;Golduck
+1331;Double-Edge;;False;;10;False;False;;Golduck
+1332;BubbleBeam;;False;;11;False;False;;Golduck
+1333;Water Gun;;False;;12;False;False;;Golduck
+1334;Ice Beam;;False;;13;False;False;;Golduck
+1335;Blizzard;;False;;14;False;False;;Golduck
+1336;Hyper Beam;;False;;15;False;False;;Golduck
+1337;Pay Day;;False;;16;False;False;;Golduck
+1338;Submission;;False;;17;False;False;;Golduck
+1339;Counter;;False;;18;False;False;;Golduck
+1340;Seismic Toss;;False;;19;False;False;;Golduck
+1341;Rage;;False;;20;False;False;;Golduck
+1342;Dig;;False;;28;False;False;;Golduck
+1343;Mimic;;False;;31;False;False;;Golduck
+1344;Double Team;;False;;32;False;False;;Golduck
+1345;Bide;;False;;34;False;False;;Golduck
+1346;Swift;;False;;39;False;False;;Golduck
+1347;Skull Bash;;False;;40;False;False;;Golduck
+1348;Rest;;False;;44;False;False;;Golduck
+1349;Substitute;;False;;50;False;False;;Golduck
+1350;Leer;1;False;;;False;False;;Mankey
+1351;Scratch;1;False;;;False;False;;Mankey
+1352;Karate Chop;15;False;;;False;False;;Mankey
+1353;Fury Swipes;21;False;;;False;False;;Mankey
+1354;Focus Energy;27;False;;;False;False;;Mankey
+1355;Seismic Toss;33;False;;19;False;False;;Mankey
+1356;Thrash;39;False;;;False;False;;Mankey
+1357;Strength;;False;04;;False;False;;Mankey
+1358;Mega Punch;;False;;01;False;False;;Mankey
+1359;Mega Kick;;False;;05;False;False;;Mankey
+1360;Toxic;;False;;06;False;False;;Mankey
+1361;Body Slam;;False;;08;False;False;;Mankey
+1362;Take Down;;False;;09;False;False;;Mankey
+1363;Double-Edge;;False;;10;False;False;;Mankey
+1364;Pay Day;;False;;16;False;False;;Mankey
+1365;Submission;;False;;17;False;False;;Mankey
+1366;Counter;;False;;18;False;False;;Mankey
+1367;Rage;;False;;20;False;False;;Mankey
+1368;Thunderbolt;;False;;24;False;False;;Mankey
+1369;Thunder;;False;;25;False;False;;Mankey
+1370;Dig;;False;;28;False;False;;Mankey
+1371;Mimic;;False;;31;False;False;;Mankey
+1372;Double Team;;False;;32;False;False;;Mankey
+1373;Bide;;False;;34;False;False;;Mankey
+1374;Metronome;;False;;35;False;False;;Mankey
+1375;Swift;;False;;39;False;False;;Mankey
+1376;Skull Bash;;False;;40;False;False;;Mankey
+1377;Rest;;False;;44;False;False;;Mankey
+1378;Rock Slide;;False;;48;False;False;;Mankey
+1379;Substitute;;False;;50;False;False;;Mankey
+1380;Fury Swipes;1;False;;;False;False;;Primeape
+1381;Fury Swipes;21;False;;;False;False;;Primeape
+1382;Karate Chop;1;False;;;False;False;;Primeape
+1383;Karate Chop;15;False;;;False;False;;Primeape
+1384;Leer;1;False;;;False;False;;Primeape
+1385;Scratch;1;False;;;False;False;;Primeape
+1386;Focus Energy;27;False;;;False;False;;Primeape
+1387;Seismic Toss;37;False;;19;False;False;;Primeape
+1388;Thrash;46;False;;;False;False;;Primeape
+1389;Strength;;False;04;;False;False;;Primeape
+1390;Mega Punch;;False;;01;False;False;;Primeape
+1391;Mega Kick;;False;;05;False;False;;Primeape
+1392;Toxic;;False;;06;False;False;;Primeape
+1393;Body Slam;;False;;08;False;False;;Primeape
+1394;Take Down;;False;;09;False;False;;Primeape
+1395;Double-Edge;;False;;10;False;False;;Primeape
+1396;Hyper Beam;;False;;15;False;False;;Primeape
+1397;Pay Day;;False;;16;False;False;;Primeape
+1398;Submission;;False;;17;False;False;;Primeape
+1399;Counter;;False;;18;False;False;;Primeape
+1400;Rage;;False;;20;False;False;;Primeape
+1401;Thunderbolt;;False;;24;False;False;;Primeape
+1402;Thunder;;False;;25;False;False;;Primeape
+1403;Dig;;False;;28;False;False;;Primeape
+1404;Mimic;;False;;31;False;False;;Primeape
+1405;Double Team;;False;;32;False;False;;Primeape
+1406;Bide;;False;;34;False;False;;Primeape
+1407;Metronome;;False;;35;False;False;;Primeape
+1408;Swift;;False;;39;False;False;;Primeape
+1409;Skull Bash;;False;;40;False;False;;Primeape
+1410;Rest;;False;;44;False;False;;Primeape
+1411;Rock Slide;;False;;48;False;False;;Primeape
+1412;Substitute;;False;;50;False;False;;Primeape
+1413;Bite;1;False;;;False;False;;Growlithe
+1414;Roar;1;False;;;False;False;;Growlithe
+1415;Ember;18;False;;;False;False;;Growlithe
+1416;Leer;23;False;;;False;False;;Growlithe
+1417;Take Down;30;False;;09;False;False;;Growlithe
+1418;Agility;39;False;;;False;False;;Growlithe
+1419;Flamethrower;50;False;;;False;False;;Growlithe
+1420;Toxic;;False;;06;False;False;;Growlithe
+1421;Body Slam;;False;;08;False;False;;Growlithe
+1422;Double-Edge;;False;;10;False;False;;Growlithe
+1423;Rage;;False;;20;False;False;;Growlithe
+1424;Dragon Rage;;False;;23;False;False;;Growlithe
+1425;Dig;;False;;28;False;False;;Growlithe
+1426;Mimic;;False;;31;False;False;;Growlithe
+1427;Double Team;;False;;32;False;False;;Growlithe
+1428;Reflect;;False;;33;False;False;;Growlithe
+1429;Bide;;False;;34;False;False;;Growlithe
+1430;Fire Blast;;False;;38;False;False;;Growlithe
+1431;Swift;;False;;39;False;False;;Growlithe
+1432;Skull Bash;;False;;40;False;False;;Growlithe
+1433;Rest;;False;;44;False;False;;Growlithe
+1434;Substitute;;False;;50;False;False;;Growlithe
+1435;Ember;1;False;;;False;False;;Arcanine
+1436;Leer;1;False;;;False;False;;Arcanine
+1437;Roar;1;False;;;False;False;;Arcanine
+1438;Take Down;1;False;;09;False;False;;Arcanine
+1439;Agility;;True;;;False;False;;Arcanine
+1440;Bite;;True;;;False;False;;Arcanine
+1441;Flamethrower;;True;;;False;False;;Arcanine
+1442;Toxic;;False;;06;False;False;;Arcanine
+1443;Body Slam;;False;;08;False;False;;Arcanine
+1444;Double-Edge;;False;;10;False;False;;Arcanine
+1445;Hyper Beam;;False;;15;False;False;;Arcanine
+1446;Rage;;False;;20;False;False;;Arcanine
+1447;Dragon Rage;;False;;23;False;False;;Arcanine
+1448;Dig;;False;;28;False;False;;Arcanine
+1449;Teleport;;False;;30;False;False;;Arcanine
+1450;Mimic;;False;;31;False;False;;Arcanine
+1451;Double Team;;False;;32;False;False;;Arcanine
+1452;Reflect;;False;;33;False;False;;Arcanine
+1453;Bide;;False;;34;False;False;;Arcanine
+1454;Fire Blast;;False;;38;False;False;;Arcanine
+1455;Swift;;False;;39;False;False;;Arcanine
+1456;Skull Bash;;False;;40;False;False;;Arcanine
+1457;Rest;;False;;44;False;False;;Arcanine
+1458;Substitute;;False;;50;False;False;;Arcanine
+1459;Bubble;1;False;;;False;False;;Poliwag
+1460;Hypnosis;16;False;;;False;False;;Poliwag
+1461;Water Gun;19;False;;12;False;False;;Poliwag
+1462;DoubleSlap;25;False;;;False;False;;Poliwag
+1463;Body Slam;31;False;;08;False;False;;Poliwag
+1464;Amnesia;38;False;;;False;False;;Poliwag
+1465;Hydro Pump;45;False;;;False;False;;Poliwag
+1466;Surf;;False;03;;False;False;;Poliwag
+1467;Toxic;;False;;06;False;False;;Poliwag
+1468;Take Down;;False;;09;False;False;;Poliwag
+1469;Double-Edge;;False;;10;False;False;;Poliwag
+1470;BubbleBeam;;False;;11;False;False;;Poliwag
+1471;Ice Beam;;False;;13;False;False;;Poliwag
+1472;Blizzard;;False;;14;False;False;;Poliwag
+1473;Rage;;False;;20;False;False;;Poliwag
+1474;Psychic;;False;;29;False;False;;Poliwag
+1475;Mimic;;False;;31;False;False;;Poliwag
+1476;Double Team;;False;;32;False;False;;Poliwag
+1477;Bide;;False;;34;False;False;;Poliwag
+1478;Skull Bash;;False;;40;False;False;;Poliwag
+1479;Rest;;False;;44;False;False;;Poliwag
+1480;Psywave;;False;;46;False;False;;Poliwag
+1481;Substitute;;False;;50;False;False;;Poliwag
+1482;Bubble;1;False;;;False;False;;Poliwhirl
+1483;Hypnosis;1;False;;;False;False;;Poliwhirl
+1484;Hypnosis;16;False;;;False;False;;Poliwhirl
+1485;Water Gun;1;False;;12;False;False;;Poliwhirl
+1486;Water Gun;19;False;;12;False;False;;Poliwhirl
+1487;DoubleSlap;26;False;;;False;False;;Poliwhirl
+1488;Body Slam;33;False;;08;False;False;;Poliwhirl
+1489;Amnesia;41;False;;;False;False;;Poliwhirl
+1490;Hydro Pump;49;False;;;False;False;;Poliwhirl
+1491;Surf;;False;03;;False;False;;Poliwhirl
+1492;Strength;;False;04;;False;False;;Poliwhirl
+1493;Mega Punch;;False;;01;False;False;;Poliwhirl
+1494;Mega Kick;;False;;05;False;False;;Poliwhirl
+1495;Toxic;;False;;06;False;False;;Poliwhirl
+1496;Take Down;;False;;09;False;False;;Poliwhirl
+1497;Double-Edge;;False;;10;False;False;;Poliwhirl
+1498;BubbleBeam;;False;;11;False;False;;Poliwhirl
+1499;Ice Beam;;False;;13;False;False;;Poliwhirl
+1500;Blizzard;;False;;14;False;False;;Poliwhirl
+1501;Submission;;False;;17;False;False;;Poliwhirl
+1502;Counter;;False;;18;False;False;;Poliwhirl
+1503;Seismic Toss;;False;;19;False;False;;Poliwhirl
+1504;Rage;;False;;20;False;False;;Poliwhirl
+1505;Earthquake;;False;;26;False;False;;Poliwhirl
+1506;Fissure;;False;;27;False;False;;Poliwhirl
+1507;Psychic;;False;;29;False;False;;Poliwhirl
+1508;Mimic;;False;;31;False;False;;Poliwhirl
+1509;Double Team;;False;;32;False;False;;Poliwhirl
+1510;Bide;;False;;34;False;False;;Poliwhirl
+1511;Metronome;;False;;35;False;False;;Poliwhirl
+1512;Skull Bash;;False;;40;False;False;;Poliwhirl
+1513;Rest;;False;;44;False;False;;Poliwhirl
+1514;Psywave;;False;;46;False;False;;Poliwhirl
+1515;Substitute;;False;;50;False;False;;Poliwhirl
+1516;Body Slam;1;False;;08;False;False;;Poliwrath
+1517;DoubleSlap;1;False;;;False;False;;Poliwrath
+1518;Hypnosis;1;False;;;False;False;;Poliwrath
+1519;Hypnosis;16;False;;;False;False;;Poliwrath
+1520;Water Gun;1;False;;12;False;False;;Poliwrath
+1521;Water Gun;19;False;;12;False;False;;Poliwrath
+1522;Amnesia;;True;;;False;False;;Poliwrath
+1523;Bubble;;True;;;False;False;;Poliwrath
+1524;Hydro Pump;;True;;;False;False;;Poliwrath
+1525;Surf;;False;03;;False;False;;Poliwrath
+1526;Strength;;False;04;;False;False;;Poliwrath
+1527;Mega Punch;;False;;01;False;False;;Poliwrath
+1528;Mega Kick;;False;;05;False;False;;Poliwrath
+1529;Toxic;;False;;06;False;False;;Poliwrath
+1530;Take Down;;False;;09;False;False;;Poliwrath
+1531;Double-Edge;;False;;10;False;False;;Poliwrath
+1532;BubbleBeam;;False;;11;False;False;;Poliwrath
+1533;Ice Beam;;False;;13;False;False;;Poliwrath
+1534;Blizzard;;False;;14;False;False;;Poliwrath
+1535;Hyper Beam;;False;;15;False;False;;Poliwrath
+1536;Submission;;False;;17;False;False;;Poliwrath
+1537;Counter;;False;;18;False;False;;Poliwrath
+1538;Seismic Toss;;False;;19;False;False;;Poliwrath
+1539;Rage;;False;;20;False;False;;Poliwrath
+1540;Earthquake;;False;;26;False;False;;Poliwrath
+1541;Fissure;;False;;27;False;False;;Poliwrath
+1542;Psychic;;False;;29;False;False;;Poliwrath
+1543;Mimic;;False;;31;False;False;;Poliwrath
+1544;Double Team;;False;;32;False;False;;Poliwrath
+1545;Bide;;False;;34;False;False;;Poliwrath
+1546;Metronome;;False;;35;False;False;;Poliwrath
+1547;Skull Bash;;False;;40;False;False;;Poliwrath
+1548;Rest;;False;;44;False;False;;Poliwrath
+1549;Psywave;;False;;46;False;False;;Poliwrath
+1550;Substitute;;False;;50;False;False;;Poliwrath
+1551;Teleport;1;False;;30;False;False;;Abra
+1552;Flash;;False;05;;False;False;;Abra
+1553;Mega Punch;;False;;01;False;False;;Abra
+1554;Mega Kick;;False;;05;False;False;;Abra
+1555;Toxic;;False;;06;False;False;;Abra
+1556;Body Slam;;False;;08;False;False;;Abra
+1557;Take Down;;False;;09;False;False;;Abra
+1558;Double-Edge;;False;;10;False;False;;Abra
+1559;Submission;;False;;17;False;False;;Abra
+1560;Counter;;False;;18;False;False;;Abra
+1561;Seismic Toss;;False;;19;False;False;;Abra
+1562;Rage;;False;;20;False;False;;Abra
+1563;Psychic;;False;;29;False;False;;Abra
+1564;Mimic;;False;;31;False;False;;Abra
+1565;Double Team;;False;;32;False;False;;Abra
+1566;Reflect;;False;;33;False;False;;Abra
+1567;Bide;;False;;34;False;False;;Abra
+1568;Metronome;;False;;35;False;False;;Abra
+1569;Skull Bash;;False;;40;False;False;;Abra
+1570;Rest;;False;;44;False;False;;Abra
+1571;Thunder Wave;;False;;45;False;False;;Abra
+1572;Psywave;;False;;46;False;False;;Abra
+1573;Tri Attack;;False;;49;False;False;;Abra
+1574;Substitute;;False;;50;False;False;;Abra
+1575;Confusion;1;False;;;False;False;;Kadabra
+1576;Confusion;16;False;;;False;False;;Kadabra
+1577;Disable;1;False;;;False;False;;Kadabra
+1578;Disable;20;False;;;False;False;;Kadabra
+1579;Teleport;1;False;;30;False;False;;Kadabra
+1580;Psybeam;27;False;;;False;False;;Kadabra
+1581;Recover;31;False;;;False;False;;Kadabra
+1582;Psychic;38;False;;29;False;False;;Kadabra
+1583;Reflect;42;False;;33;False;False;;Kadabra
+1584;Flash;;False;05;;False;False;;Kadabra
+1585;Mega Punch;;False;;01;False;False;;Kadabra
+1586;Mega Kick;;False;;05;False;False;;Kadabra
+1587;Toxic;;False;;06;False;False;;Kadabra
+1588;Body Slam;;False;;08;False;False;;Kadabra
+1589;Take Down;;False;;09;False;False;;Kadabra
+1590;Double-Edge;;False;;10;False;False;;Kadabra
+1591;Submission;;False;;17;False;False;;Kadabra
+1592;Counter;;False;;18;False;False;;Kadabra
+1593;Seismic Toss;;False;;19;False;False;;Kadabra
+1594;Rage;;False;;20;False;False;;Kadabra
+1595;Dig;;False;;28;False;False;;Kadabra
+1596;Mimic;;False;;31;False;False;;Kadabra
+1597;Double Team;;False;;32;False;False;;Kadabra
+1598;Bide;;False;;34;False;False;;Kadabra
+1599;Metronome;;False;;35;False;False;;Kadabra
+1600;Skull Bash;;False;;40;False;False;;Kadabra
+1601;Rest;;False;;44;False;False;;Kadabra
+1602;Thunder Wave;;False;;45;False;False;;Kadabra
+1603;Psywave;;False;;46;False;False;;Kadabra
+1604;Tri Attack;;False;;49;False;False;;Kadabra
+1605;Substitute;;False;;50;False;False;;Kadabra
+1606;Confusion;1;False;;;False;False;;Alakazam
+1607;Confusion;16;False;;;False;False;;Alakazam
+1608;Disable;1;False;;;False;False;;Alakazam
+1609;Disable;20;False;;;False;False;;Alakazam
+1610;Teleport;1;False;;30;False;False;;Alakazam
+1611;Psybeam;27;False;;;False;False;;Alakazam
+1612;Recover;31;False;;;False;False;;Alakazam
+1613;Psychic;38;False;;29;False;False;;Alakazam
+1614;Reflect;42;False;;33;False;False;;Alakazam
+1615;Flash;;False;05;;False;False;;Alakazam
+1616;Mega Punch;;False;;01;False;False;;Alakazam
+1617;Mega Kick;;False;;05;False;False;;Alakazam
+1618;Toxic;;False;;06;False;False;;Alakazam
+1619;Body Slam;;False;;08;False;False;;Alakazam
+1620;Take Down;;False;;09;False;False;;Alakazam
+1621;Double-Edge;;False;;10;False;False;;Alakazam
+1622;Hyper Beam;;False;;15;False;False;;Alakazam
+1623;Submission;;False;;17;False;False;;Alakazam
+1624;Counter;;False;;18;False;False;;Alakazam
+1625;Seismic Toss;;False;;19;False;False;;Alakazam
+1626;Rage;;False;;20;False;False;;Alakazam
+1627;Dig;;False;;28;False;False;;Alakazam
+1628;Mimic;;False;;31;False;False;;Alakazam
+1629;Double Team;;False;;32;False;False;;Alakazam
+1630;Bide;;False;;34;False;False;;Alakazam
+1631;Metronome;;False;;35;False;False;;Alakazam
+1632;Skull Bash;;False;;40;False;False;;Alakazam
+1633;Rest;;False;;44;False;False;;Alakazam
+1634;Thunder Wave;;False;;45;False;False;;Alakazam
+1635;Psywave;;False;;46;False;False;;Alakazam
+1636;Tri Attack;;False;;49;False;False;;Alakazam
+1637;Substitute;;False;;50;False;False;;Alakazam
+1638;Karate Chop;1;False;;;False;False;;Machop
+1639;Low Kick;20;False;;;False;False;;Machop
+1640;Leer;25;False;;;False;False;;Machop
+1641;Focus Energy;32;False;;;False;False;;Machop
+1642;Seismic Toss;39;False;;19;False;False;;Machop
+1643;Submission;46;False;;17;False;False;;Machop
+1644;Strength;;False;04;;False;False;;Machop
+1645;Mega Punch;;False;;01;False;False;;Machop
+1646;Mega Kick;;False;;05;False;False;;Machop
+1647;Toxic;;False;;06;False;False;;Machop
+1648;Body Slam;;False;;08;False;False;;Machop
+1649;Take Down;;False;;09;False;False;;Machop
+1650;Double-Edge;;False;;10;False;False;;Machop
+1651;Counter;;False;;18;False;False;;Machop
+1652;Rage;;False;;20;False;False;;Machop
+1653;Earthquake;;False;;26;False;False;;Machop
+1654;Fissure;;False;;27;False;False;;Machop
+1655;Dig;;False;;28;False;False;;Machop
+1656;Mimic;;False;;31;False;False;;Machop
+1657;Double Team;;False;;32;False;False;;Machop
+1658;Bide;;False;;34;False;False;;Machop
+1659;Metronome;;False;;35;False;False;;Machop
+1660;Fire Blast;;False;;38;False;False;;Machop
+1661;Skull Bash;;False;;40;False;False;;Machop
+1662;Rest;;False;;44;False;False;;Machop
+1663;Rock Slide;;False;;48;False;False;;Machop
+1664;Substitute;;False;;50;False;False;;Machop
+1665;Karate Chop;1;False;;;False;False;;Machoke
+1666;Leer;1;False;;;False;False;;Machoke
+1667;Leer;25;False;;;False;False;;Machoke
+1668;Low Kick;1;False;;;False;False;;Machoke
+1669;Low Kick;20;False;;;False;False;;Machoke
+1670;Focus Energy;36;False;;;False;False;;Machoke
+1671;Seismic Toss;44;False;;19;False;False;;Machoke
+1672;Submission;52;False;;17;False;False;;Machoke
+1673;Strength;;False;04;;False;False;;Machoke
+1674;Mega Punch;;False;;01;False;False;;Machoke
+1675;Mega Kick;;False;;05;False;False;;Machoke
+1676;Toxic;;False;;06;False;False;;Machoke
+1677;Body Slam;;False;;08;False;False;;Machoke
+1678;Take Down;;False;;09;False;False;;Machoke
+1679;Double-Edge;;False;;10;False;False;;Machoke
+1680;Counter;;False;;18;False;False;;Machoke
+1681;Rage;;False;;20;False;False;;Machoke
+1682;Earthquake;;False;;26;False;False;;Machoke
+1683;Fissure;;False;;27;False;False;;Machoke
+1684;Dig;;False;;28;False;False;;Machoke
+1685;Mimic;;False;;31;False;False;;Machoke
+1686;Double Team;;False;;32;False;False;;Machoke
+1687;Bide;;False;;34;False;False;;Machoke
+1688;Metronome;;False;;35;False;False;;Machoke
+1689;Fire Blast;;False;;38;False;False;;Machoke
+1690;Skull Bash;;False;;40;False;False;;Machoke
+1691;Rest;;False;;44;False;False;;Machoke
+1692;Rock Slide;;False;;48;False;False;;Machoke
+1693;Substitute;;False;;50;False;False;;Machoke
+1694;Karate Chop;1;False;;;False;False;;Machamp
+1695;Leer;1;False;;;False;False;;Machamp
+1696;Leer;25;False;;;False;False;;Machamp
+1697;Low Kick;1;False;;;False;False;;Machamp
+1698;Low Kick;20;False;;;False;False;;Machamp
+1699;Focus Energy;36;False;;;False;False;;Machamp
+1700;Seismic Toss;44;False;;19;False;False;;Machamp
+1701;Submission;52;False;;17;False;False;;Machamp
+1702;Strength;;False;04;;False;False;;Machamp
+1703;Mega Punch;;False;;01;False;False;;Machamp
+1704;Mega Kick;;False;;05;False;False;;Machamp
+1705;Toxic;;False;;06;False;False;;Machamp
+1706;Body Slam;;False;;08;False;False;;Machamp
+1707;Take Down;;False;;09;False;False;;Machamp
+1708;Double-Edge;;False;;10;False;False;;Machamp
+1709;Hyper Beam;;False;;15;False;False;;Machamp
+1710;Counter;;False;;18;False;False;;Machamp
+1711;Rage;;False;;20;False;False;;Machamp
+1712;Earthquake;;False;;26;False;False;;Machamp
+1713;Fissure;;False;;27;False;False;;Machamp
+1714;Dig;;False;;28;False;False;;Machamp
+1715;Mimic;;False;;31;False;False;;Machamp
+1716;Double Team;;False;;32;False;False;;Machamp
+1717;Bide;;False;;34;False;False;;Machamp
+1718;Metronome;;False;;35;False;False;;Machamp
+1719;Fire Blast;;False;;38;False;False;;Machamp
+1720;Skull Bash;;False;;40;False;False;;Machamp
+1721;Rest;;False;;44;False;False;;Machamp
+1722;Rock Slide;;False;;48;False;False;;Machamp
+1723;Substitute;;False;;50;False;False;;Machamp
+1724;Growth;1;False;;;False;False;;Bellsprout
+1725;Vine Whip;1;False;;;False;False;;Bellsprout
+1726;Wrap;13;False;;;False;False;;Bellsprout
+1727;PoisonPowder;15;False;;;False;False;;Bellsprout
+1728;Sleep Powder;18;False;;;False;False;;Bellsprout
+1729;Stun Spore;21;False;;;False;False;;Bellsprout
+1730;Acid;26;False;;;False;False;;Bellsprout
+1731;Razor Leaf;33;False;;;False;False;;Bellsprout
+1732;Slam;42;False;;;False;False;;Bellsprout
+1733;Cut;;False;01;;False;False;;Bellsprout
+1734;Swords Dance;;False;;03;False;False;;Bellsprout
+1735;Toxic;;False;;06;False;False;;Bellsprout
+1736;Take Down;;False;;09;False;False;;Bellsprout
+1737;Double-Edge;;False;;10;False;False;;Bellsprout
+1738;Rage;;False;;20;False;False;;Bellsprout
+1739;Mega Drain;;False;;21;False;False;;Bellsprout
+1740;SolarBeam;;False;;22;False;False;;Bellsprout
+1741;Mimic;;False;;31;False;False;;Bellsprout
+1742;Double Team;;False;;32;False;False;;Bellsprout
+1743;Reflect;;False;;33;False;False;;Bellsprout
+1744;Bide;;False;;34;False;False;;Bellsprout
+1745;Rest;;False;;44;False;False;;Bellsprout
+1746;Substitute;;False;;50;False;False;;Bellsprout
+1747;Growth;1;False;;;False;False;;Weepinbell
+1748;Vine Whip;1;False;;;False;False;;Weepinbell
+1749;Wrap;1;False;;;False;False;;Weepinbell
+1750;Wrap;13;False;;;False;False;;Weepinbell
+1751;PoisonPowder;15;False;;;False;False;;Weepinbell
+1752;Sleep Powder;18;False;;;False;False;;Weepinbell
+1753;Stun Spore;23;False;;;False;False;;Weepinbell
+1754;Acid;29;False;;;False;False;;Weepinbell
+1755;Razor Leaf;38;False;;;False;False;;Weepinbell
+1756;Slam;49;False;;;False;False;;Weepinbell
+1757;Cut;;False;01;;False;False;;Weepinbell
+1758;Swords Dance;;False;;03;False;False;;Weepinbell
+1759;Toxic;;False;;06;False;False;;Weepinbell
+1760;Take Down;;False;;09;False;False;;Weepinbell
+1761;Double-Edge;;False;;10;False;False;;Weepinbell
+1762;Rage;;False;;20;False;False;;Weepinbell
+1763;Mega Drain;;False;;21;False;False;;Weepinbell
+1764;SolarBeam;;False;;22;False;False;;Weepinbell
+1765;Mimic;;False;;31;False;False;;Weepinbell
+1766;Double Team;;False;;32;False;False;;Weepinbell
+1767;Reflect;;False;;33;False;False;;Weepinbell
+1768;Bide;;False;;34;False;False;;Weepinbell
+1769;Rest;;False;;44;False;False;;Weepinbell
+1770;Substitute;;False;;50;False;False;;Weepinbell
+1771;Acid;1;False;;;False;False;;Victreebel
+1772;Razor Leaf;1;False;;;False;False;;Victreebel
+1773;Sleep Powder;1;False;;;False;False;;Victreebel
+1774;Sleep Powder;18;False;;;False;False;;Victreebel
+1775;Stun Spore;1;False;;;False;False;;Victreebel
+1776;Wrap;13;False;;;False;False;;Victreebel
+1777;PoisonPowder;15;False;;;False;False;;Victreebel
+1778;Growth;;True;;;False;False;;Victreebel
+1779;Slam;;True;;;False;False;;Victreebel
+1780;Vine Whip;;True;;;False;False;;Victreebel
+1781;Cut;;False;01;;False;False;;Victreebel
+1782;Swords Dance;;False;;03;False;False;;Victreebel
+1783;Toxic;;False;;06;False;False;;Victreebel
+1784;Body Slam;;False;;08;False;False;;Victreebel
+1785;Take Down;;False;;09;False;False;;Victreebel
+1786;Double-Edge;;False;;10;False;False;;Victreebel
+1787;Hyper Beam;;False;;15;False;False;;Victreebel
+1788;Rage;;False;;20;False;False;;Victreebel
+1789;Mega Drain;;False;;21;False;False;;Victreebel
+1790;SolarBeam;;False;;22;False;False;;Victreebel
+1791;Mimic;;False;;31;False;False;;Victreebel
+1792;Double Team;;False;;32;False;False;;Victreebel
+1793;Reflect;;False;;33;False;False;;Victreebel
+1794;Bide;;False;;34;False;False;;Victreebel
+1795;Rest;;False;;44;False;False;;Victreebel
+1796;Substitute;;False;;50;False;False;;Victreebel
+1797;Acid;1;False;;;False;False;;Tentacool
+1798;Supersonic;7;False;;;False;False;;Tentacool
+1799;Wrap;13;False;;;False;False;;Tentacool
+1800;Poison Sting;18;False;;;False;False;;Tentacool
+1801;Water Gun;22;False;;12;False;False;;Tentacool
+1802;Constrict;27;False;;;False;False;;Tentacool
+1803;Barrier;33;False;;;False;False;;Tentacool
+1804;Screech;40;False;;;False;False;;Tentacool
+1805;Hydro Pump;48;False;;;False;False;;Tentacool
+1806;Cut;;False;01;;False;False;;Tentacool
+1807;Surf;;False;03;;False;False;;Tentacool
+1808;Swords Dance;;False;;03;False;False;;Tentacool
+1809;Toxic;;False;;06;False;False;;Tentacool
+1810;Take Down;;False;;09;False;False;;Tentacool
+1811;Double-Edge;;False;;10;False;False;;Tentacool
+1812;BubbleBeam;;False;;11;False;False;;Tentacool
+1813;Ice Beam;;False;;13;False;False;;Tentacool
+1814;Blizzard;;False;;14;False;False;;Tentacool
+1815;Rage;;False;;20;False;False;;Tentacool
+1816;Mega Drain;;False;;21;False;False;;Tentacool
+1817;Mimic;;False;;31;False;False;;Tentacool
+1818;Double Team;;False;;32;False;False;;Tentacool
+1819;Reflect;;False;;33;False;False;;Tentacool
+1820;Bide;;False;;34;False;False;;Tentacool
+1821;Skull Bash;;False;;40;False;False;;Tentacool
+1822;Rest;;False;;44;False;False;;Tentacool
+1823;Substitute;;False;;50;False;False;;Tentacool
+1824;Acid;1;False;;;False;False;;Tentacruel
+1825;Supersonic;1;False;;;False;False;;Tentacruel
+1826;Supersonic;7;False;;;False;False;;Tentacruel
+1827;Wrap;1;False;;;False;False;;Tentacruel
+1828;Wrap;13;False;;;False;False;;Tentacruel
+1829;Poison Sting;18;False;;;False;False;;Tentacruel
+1830;Water Gun;22;False;;12;False;False;;Tentacruel
+1831;Constrict;27;False;;;False;False;;Tentacruel
+1832;Barrier;35;False;;;False;False;;Tentacruel
+1833;Screech;43;False;;;False;False;;Tentacruel
+1834;Hydro Pump;50;False;;;False;False;;Tentacruel
+1835;Cut;;False;01;;False;False;;Tentacruel
+1836;Surf;;False;03;;False;False;;Tentacruel
+1837;Swords Dance;;False;;03;False;False;;Tentacruel
+1838;Toxic;;False;;06;False;False;;Tentacruel
+1839;Take Down;;False;;09;False;False;;Tentacruel
+1840;Double-Edge;;False;;10;False;False;;Tentacruel
+1841;BubbleBeam;;False;;11;False;False;;Tentacruel
+1842;Ice Beam;;False;;13;False;False;;Tentacruel
+1843;Blizzard;;False;;14;False;False;;Tentacruel
+1844;Hyper Beam;;False;;15;False;False;;Tentacruel
+1845;Rage;;False;;20;False;False;;Tentacruel
+1846;Mega Drain;;False;;21;False;False;;Tentacruel
+1847;Mimic;;False;;31;False;False;;Tentacruel
+1848;Double Team;;False;;32;False;False;;Tentacruel
+1849;Reflect;;False;;33;False;False;;Tentacruel
+1850;Bide;;False;;34;False;False;;Tentacruel
+1851;Skull Bash;;False;;40;False;False;;Tentacruel
+1852;Rest;;False;;44;False;False;;Tentacruel
+1853;Substitute;;False;;50;False;False;;Tentacruel
+1854;Tackle;1;False;;;False;False;;Geodude
+1855;Defense Curl;11;False;;;False;False;;Geodude
+1856;Rock Throw;16;False;;;False;False;;Geodude
+1857;Selfdestruct;21;False;;36;False;False;;Geodude
+1858;Harden;26;False;;;False;False;;Geodude
+1859;Earthquake;31;False;;26;False;False;;Geodude
+1860;Explosion;36;False;;47;False;False;;Geodude
+1861;Strength;;False;04;;False;False;;Geodude
+1862;Mega Punch;;False;;01;False;False;;Geodude
+1863;Toxic;;False;;06;False;False;;Geodude
+1864;Body Slam;;False;;08;False;False;;Geodude
+1865;Take Down;;False;;09;False;False;;Geodude
+1866;Double-Edge;;False;;10;False;False;;Geodude
+1867;Submission;;False;;17;False;False;;Geodude
+1868;Counter;;False;;18;False;False;;Geodude
+1869;Seismic Toss;;False;;19;False;False;;Geodude
+1870;Rage;;False;;20;False;False;;Geodude
+1871;Fissure;;False;;27;False;False;;Geodude
+1872;Dig;;False;;28;False;False;;Geodude
+1873;Mimic;;False;;31;False;False;;Geodude
+1874;Double Team;;False;;32;False;False;;Geodude
+1875;Bide;;False;;34;False;False;;Geodude
+1876;Metronome;;False;;35;False;False;;Geodude
+1877;Fire Blast;;False;;38;False;False;;Geodude
+1878;Rest;;False;;44;False;False;;Geodude
+1879;Rock Slide;;False;;48;False;False;;Geodude
+1880;Substitute;;False;;50;False;False;;Geodude
+1881;Defense Curl;1;False;;;False;False;;Graveler
+1882;Defense Curl;11;False;;;False;False;;Graveler
+1883;Tackle;1;False;;;False;False;;Graveler
+1884;Rock Throw;16;False;;;False;False;;Graveler
+1885;Selfdestruct;21;False;;36;False;False;;Graveler
+1886;Harden;29;False;;;False;False;;Graveler
+1887;Earthquake;36;False;;26;False;False;;Graveler
+1888;Explosion;43;False;;47;False;False;;Graveler
+1889;Strength;;False;04;;False;False;;Graveler
+1890;Mega Punch;;False;;01;False;False;;Graveler
+1891;Toxic;;False;;06;False;False;;Graveler
+1892;Body Slam;;False;;08;False;False;;Graveler
+1893;Take Down;;False;;09;False;False;;Graveler
+1894;Double-Edge;;False;;10;False;False;;Graveler
+1895;Submission;;False;;17;False;False;;Graveler
+1896;Counter;;False;;18;False;False;;Graveler
+1897;Seismic Toss;;False;;19;False;False;;Graveler
+1898;Rage;;False;;20;False;False;;Graveler
+1899;Fissure;;False;;27;False;False;;Graveler
+1900;Dig;;False;;28;False;False;;Graveler
+1901;Mimic;;False;;31;False;False;;Graveler
+1902;Double Team;;False;;32;False;False;;Graveler
+1903;Bide;;False;;34;False;False;;Graveler
+1904;Metronome;;False;;35;False;False;;Graveler
+1905;Fire Blast;;False;;38;False;False;;Graveler
+1906;Rest;;False;;44;False;False;;Graveler
+1907;Rock Slide;;False;;48;False;False;;Graveler
+1908;Substitute;;False;;50;False;False;;Graveler
+1909;Defense Curl;1;False;;;False;False;;Golem
+1910;Defense Curl;11;False;;;False;False;;Golem
+1911;Tackle;1;False;;;False;False;;Golem
+1912;Rock Throw;16;False;;;False;False;;Golem
+1913;Selfdestruct;21;False;;36;False;False;;Golem
+1914;Harden;29;False;;;False;False;;Golem
+1915;Earthquake;36;False;;26;False;False;;Golem
+1916;Explosion;43;False;;47;False;False;;Golem
+1917;Strength;;False;04;;False;False;;Golem
+1918;Mega Punch;;False;;01;False;False;;Golem
+1919;Mega Kick;;False;;05;False;False;;Golem
+1920;Toxic;;False;;06;False;False;;Golem
+1921;Body Slam;;False;;08;False;False;;Golem
+1922;Take Down;;False;;09;False;False;;Golem
+1923;Double-Edge;;False;;10;False;False;;Golem
+1924;Hyper Beam;;False;;15;False;False;;Golem
+1925;Submission;;False;;17;False;False;;Golem
+1926;Counter;;False;;18;False;False;;Golem
+1927;Seismic Toss;;False;;19;False;False;;Golem
+1928;Rage;;False;;20;False;False;;Golem
+1929;Fissure;;False;;27;False;False;;Golem
+1930;Dig;;False;;28;False;False;;Golem
+1931;Mimic;;False;;31;False;False;;Golem
+1932;Double Team;;False;;32;False;False;;Golem
+1933;Bide;;False;;34;False;False;;Golem
+1934;Metronome;;False;;35;False;False;;Golem
+1935;Fire Blast;;False;;38;False;False;;Golem
+1936;Rest;;False;;44;False;False;;Golem
+1937;Rock Slide;;False;;48;False;False;;Golem
+1938;Substitute;;False;;50;False;False;;Golem
+1939;Ember;1;False;;;False;False;;Ponyta
+1940;Tail Whip;30;False;;;False;False;;Ponyta
+1941;Stomp;32;False;;;False;False;;Ponyta
+1942;Growl;35;False;;;False;False;;Ponyta
+1943;Fire Spin;39;False;;;False;False;;Ponyta
+1944;Take Down;43;False;;09;False;False;;Ponyta
+1945;Agility;48;False;;;False;False;;Ponyta
+1946;Toxic;;False;;06;False;False;;Ponyta
+1947;Horn Drill;;False;;07;False;False;;Ponyta
+1948;Body Slam;;False;;08;False;False;;Ponyta
+1949;Double-Edge;;False;;10;False;False;;Ponyta
+1950;Rage;;False;;20;False;False;;Ponyta
+1951;Mimic;;False;;31;False;False;;Ponyta
+1952;Double Team;;False;;32;False;False;;Ponyta
+1953;Reflect;;False;;33;False;False;;Ponyta
+1954;Bide;;False;;34;False;False;;Ponyta
+1955;Fire Blast;;False;;38;False;False;;Ponyta
+1956;Swift;;False;;39;False;False;;Ponyta
+1957;Skull Bash;;False;;40;False;False;;Ponyta
+1958;Rest;;False;;44;False;False;;Ponyta
+1959;Substitute;;False;;50;False;False;;Ponyta
+1960;Ember;1;False;;;False;False;;Rapidash
+1961;Growl;1;False;;;False;False;;Rapidash
+1962;Growl;35;False;;;False;False;;Rapidash
+1963;Stomp;1;False;;;False;False;;Rapidash
+1964;Stomp;32;False;;;False;False;;Rapidash
+1965;Tail Whip;1;False;;;False;False;;Rapidash
+1966;Tail Whip;30;False;;;False;False;;Rapidash
+1967;Fire Spin;39;False;;;False;False;;Rapidash
+1968;Take Down;47;False;;09;False;False;;Rapidash
+1969;Agility;55;False;;;False;False;;Rapidash
+1970;Toxic;;False;;06;False;False;;Rapidash
+1971;Horn Drill;;False;;07;False;False;;Rapidash
+1972;Body Slam;;False;;08;False;False;;Rapidash
+1973;Double-Edge;;False;;10;False;False;;Rapidash
+1974;Hyper Beam;;False;;15;False;False;;Rapidash
+1975;Rage;;False;;20;False;False;;Rapidash
+1976;Mimic;;False;;31;False;False;;Rapidash
+1977;Double Team;;False;;32;False;False;;Rapidash
+1978;Reflect;;False;;33;False;False;;Rapidash
+1979;Bide;;False;;34;False;False;;Rapidash
+1980;Fire Blast;;False;;38;False;False;;Rapidash
+1981;Swift;;False;;39;False;False;;Rapidash
+1982;Skull Bash;;False;;40;False;False;;Rapidash
+1983;Rest;;False;;44;False;False;;Rapidash
+1984;Substitute;;False;;50;False;False;;Rapidash
+1985;Confusion;1;False;;;False;False;;Slowpoke
+1986;Disable;18;False;;;False;False;;Slowpoke
+1987;Headbutt;22;False;;;False;False;;Slowpoke
+1988;Growl;27;False;;;False;False;;Slowpoke
+1989;Water Gun;33;False;;12;False;False;;Slowpoke
+1990;Amnesia;40;False;;;False;False;;Slowpoke
+1991;Psychic;48;False;;29;False;False;;Slowpoke
+1992;Surf;;False;03;;False;False;;Slowpoke
+1993;Strength;;False;04;;False;False;;Slowpoke
+1994;Flash;;False;05;;False;False;;Slowpoke
+1995;Toxic;;False;;06;False;False;;Slowpoke
+1996;Body Slam;;False;;08;False;False;;Slowpoke
+1997;Take Down;;False;;09;False;False;;Slowpoke
+1998;Double-Edge;;False;;10;False;False;;Slowpoke
+1999;BubbleBeam;;False;;11;False;False;;Slowpoke
+2000;Ice Beam;;False;;13;False;False;;Slowpoke
+2001;Blizzard;;False;;14;False;False;;Slowpoke
+2002;Pay Day;;False;;16;False;False;;Slowpoke
+2003;Rage;;False;;20;False;False;;Slowpoke
+2004;Earthquake;;False;;26;False;False;;Slowpoke
+2005;Fissure;;False;;27;False;False;;Slowpoke
+2006;Dig;;False;;28;False;False;;Slowpoke
+2007;Teleport;;False;;30;False;False;;Slowpoke
+2008;Mimic;;False;;31;False;False;;Slowpoke
+2009;Double Team;;False;;32;False;False;;Slowpoke
+2010;Reflect;;False;;33;False;False;;Slowpoke
+2011;Bide;;False;;34;False;False;;Slowpoke
+2012;Fire Blast;;False;;38;False;False;;Slowpoke
+2013;Swift;;False;;39;False;False;;Slowpoke
+2014;Skull Bash;;False;;40;False;False;;Slowpoke
+2015;Rest;;False;;44;False;False;;Slowpoke
+2016;Thunder Wave;;False;;45;False;False;;Slowpoke
+2017;Psywave;;False;;46;False;False;;Slowpoke
+2018;Tri Attack;;False;;49;False;False;;Slowpoke
+2019;Substitute;;False;;50;False;False;;Slowpoke
+2020;Confusion;1;False;;;False;False;;Slowbro
+2021;Disable;1;False;;;False;False;;Slowbro
+2022;Disable;18;False;;;False;False;;Slowbro
+2023;Headbutt;1;False;;;False;False;;Slowbro
+2024;Headbutt;22;False;;;False;False;;Slowbro
+2025;Growl;27;False;;;False;False;;Slowbro
+2026;Water Gun;33;False;;12;False;False;;Slowbro
+2027;Withdraw;37;False;;;False;False;;Slowbro
+2028;Amnesia;44;False;;;False;False;;Slowbro
+2029;Psychic;55;False;;29;False;False;;Slowbro
+2030;Surf;;False;03;;False;False;;Slowbro
+2031;Strength;;False;04;;False;False;;Slowbro
+2032;Flash;;False;05;;False;False;;Slowbro
+2033;Mega Punch;;False;;01;False;False;;Slowbro
+2034;Mega Kick;;False;;05;False;False;;Slowbro
+2035;Toxic;;False;;06;False;False;;Slowbro
+2036;Body Slam;;False;;08;False;False;;Slowbro
+2037;Take Down;;False;;09;False;False;;Slowbro
+2038;Double-Edge;;False;;10;False;False;;Slowbro
+2039;BubbleBeam;;False;;11;False;False;;Slowbro
+2040;Ice Beam;;False;;13;False;False;;Slowbro
+2041;Blizzard;;False;;14;False;False;;Slowbro
+2042;Hyper Beam;;False;;15;False;False;;Slowbro
+2043;Pay Day;;False;;16;False;False;;Slowbro
+2044;Submission;;False;;17;False;False;;Slowbro
+2045;Counter;;False;;18;False;False;;Slowbro
+2046;Seismic Toss;;False;;19;False;False;;Slowbro
+2047;Rage;;False;;20;False;False;;Slowbro
+2048;Earthquake;;False;;26;False;False;;Slowbro
+2049;Fissure;;False;;27;False;False;;Slowbro
+2050;Dig;;False;;28;False;False;;Slowbro
+2051;Teleport;;False;;30;False;False;;Slowbro
+2052;Mimic;;False;;31;False;False;;Slowbro
+2053;Double Team;;False;;32;False;False;;Slowbro
+2054;Reflect;;False;;33;False;False;;Slowbro
+2055;Bide;;False;;34;False;False;;Slowbro
+2056;Fire Blast;;False;;38;False;False;;Slowbro
+2057;Swift;;False;;39;False;False;;Slowbro
+2058;Skull Bash;;False;;40;False;False;;Slowbro
+2059;Rest;;False;;44;False;False;;Slowbro
+2060;Thunder Wave;;False;;45;False;False;;Slowbro
+2061;Psywave;;False;;46;False;False;;Slowbro
+2062;Tri Attack;;False;;49;False;False;;Slowbro
+2063;Substitute;;False;;50;False;False;;Slowbro
+2064;Tackle;1;False;;;False;False;;Magnemite
+2065;SonicBoom;21;False;;;False;False;;Magnemite
+2066;ThunderShock;25;False;;;False;False;;Magnemite
+2067;Supersonic;29;False;;;False;False;;Magnemite
+2068;Thunder Wave;35;False;;45;False;False;;Magnemite
+2069;Swift;41;False;;39;False;False;;Magnemite
+2070;Screech;47;False;;;False;False;;Magnemite
+2071;Flash;;False;05;;False;False;;Magnemite
+2072;Toxic;;False;;06;False;False;;Magnemite
+2073;Take Down;;False;;09;False;False;;Magnemite
+2074;Double-Edge;;False;;10;False;False;;Magnemite
+2075;Rage;;False;;20;False;False;;Magnemite
+2076;Thunderbolt;;False;;24;False;False;;Magnemite
+2077;Thunder;;False;;25;False;False;;Magnemite
+2078;Teleport;;False;;30;False;False;;Magnemite
+2079;Mimic;;False;;31;False;False;;Magnemite
+2080;Double Team;;False;;32;False;False;;Magnemite
+2081;Reflect;;False;;33;False;False;;Magnemite
+2082;Bide;;False;;34;False;False;;Magnemite
+2083;Rest;;False;;44;False;False;;Magnemite
+2084;Substitute;;False;;50;False;False;;Magnemite
+2085;SonicBoom;1;False;;;False;False;;Magneton
+2086;SonicBoom;21;False;;;False;False;;Magneton
+2087;Tackle;1;False;;;False;False;;Magneton
+2088;ThunderShock;1;False;;;False;False;;Magneton
+2089;ThunderShock;25;False;;;False;False;;Magneton
+2090;Supersonic;29;False;;;False;False;;Magneton
+2091;Thunder Wave;38;False;;45;False;False;;Magneton
+2092;Swift;46;False;;39;False;False;;Magneton
+2093;Screech;54;False;;;False;False;;Magneton
+2094;Flash;;False;05;;False;False;;Magneton
+2095;Toxic;;False;;06;False;False;;Magneton
+2096;Take Down;;False;;09;False;False;;Magneton
+2097;Double-Edge;;False;;10;False;False;;Magneton
+2098;Hyper Beam;;False;;15;False;False;;Magneton
+2099;Rage;;False;;20;False;False;;Magneton
+2100;Thunderbolt;;False;;24;False;False;;Magneton
+2101;Thunder;;False;;25;False;False;;Magneton
+2102;Teleport;;False;;30;False;False;;Magneton
+2103;Mimic;;False;;31;False;False;;Magneton
+2104;Double Team;;False;;32;False;False;;Magneton
+2105;Reflect;;False;;33;False;False;;Magneton
+2106;Bide;;False;;34;False;False;;Magneton
+2107;Rest;;False;;44;False;False;;Magneton
+2108;Substitute;;False;;50;False;False;;Magneton
+2109;Fury Attack;1;False;;;False;False;;Dodrio
+2110;Fury Attack;24;False;;;False;False;;Dodrio
+2111;Growl;1;False;;;False;False;;Dodrio
+2112;Growl;20;False;;;False;False;;Dodrio
+2113;Peck;1;False;;;False;False;;Dodrio
+2114;Drill Peck;30;False;;;False;False;;Dodrio
+2115;Rage;39;False;;20;False;False;;Dodrio
+2116;Tri Attack;45;False;;49;False;False;;Dodrio
+2117;Agility;51;False;;;False;False;;Dodrio
+2118;Fly;;False;02;;False;False;;Dodrio
+2119;Whirlwind;;False;;04;False;False;;Dodrio
+2120;Toxic;;False;;06;False;False;;Dodrio
+2121;Body Slam;;False;;08;False;False;;Dodrio
+2122;Take Down;;False;;09;False;False;;Dodrio
+2123;Double-Edge;;False;;10;False;False;;Dodrio
+2124;Hyper Beam;;False;;15;False;False;;Dodrio
+2125;Mimic;;False;;31;False;False;;Dodrio
+2126;Double Team;;False;;32;False;False;;Dodrio
+2127;Reflect;;False;;33;False;False;;Dodrio
+2128;Bide;;False;;34;False;False;;Dodrio
+2129;Skull Bash;;False;;40;False;False;;Dodrio
+2130;Sky Attack;;False;;43;False;False;;Dodrio
+2131;Rest;;False;;44;False;False;;Dodrio
+2132;Substitute;;False;;50;False;False;;Dodrio
+2133;Peck;1;False;;;False;False;;Doduo
+2134;Growl;20;False;;;False;False;;Doduo
+2135;Fury Attack;24;False;;;False;False;;Doduo
+2136;Drill Peck;30;False;;;False;False;;Doduo
+2137;Rage;36;False;;20;False;False;;Doduo
+2138;Tri Attack;40;False;;49;False;False;;Doduo
+2139;Agility;44;False;;;False;False;;Doduo
+2140;Fly;;False;02;;False;False;;Doduo
+2141;Whirlwind;;False;;04;False;False;;Doduo
+2142;Toxic;;False;;06;False;False;;Doduo
+2143;Body Slam;;False;;08;False;False;;Doduo
+2144;Take Down;;False;;09;False;False;;Doduo
+2145;Double-Edge;;False;;10;False;False;;Doduo
+2146;Mimic;;False;;31;False;False;;Doduo
+2147;Double Team;;False;;32;False;False;;Doduo
+2148;Reflect;;False;;33;False;False;;Doduo
+2149;Bide;;False;;34;False;False;;Doduo
+2150;Skull Bash;;False;;40;False;False;;Doduo
+2151;Sky Attack;;False;;43;False;False;;Doduo
+2152;Rest;;False;;44;False;False;;Doduo
+2153;Substitute;;False;;50;False;False;;Doduo
+2154;Headbutt;1;False;;;False;False;;Seel
+2155;Growl;30;False;;;False;False;;Seel
+2156;Aurora Beam;35;False;;;False;False;;Seel
+2157;Rest;40;False;;44;False;False;;Seel
+2158;Take Down;45;False;;09;False;False;;Seel
+2159;Ice Beam;50;False;;13;False;False;;Seel
+2160;Surf;;False;03;;False;False;;Seel
+2161;Strength;;False;04;;False;False;;Seel
+2162;Toxic;;False;;06;False;False;;Seel
+2163;Horn Drill;;False;;07;False;False;;Seel
+2164;Body Slam;;False;;08;False;False;;Seel
+2165;Double-Edge;;False;;10;False;False;;Seel
+2166;BubbleBeam;;False;;11;False;False;;Seel
+2167;Water Gun;;False;;12;False;False;;Seel
+2168;Blizzard;;False;;14;False;False;;Seel
+2169;Pay Day;;False;;16;False;False;;Seel
+2170;Rage;;False;;20;False;False;;Seel
+2171;Mimic;;False;;31;False;False;;Seel
+2172;Double Team;;False;;32;False;False;;Seel
+2173;Bide;;False;;34;False;False;;Seel
+2174;Skull Bash;;False;;40;False;False;;Seel
+2175;Substitute;;False;;50;False;False;;Seel
+2176;Aurora Beam;1;False;;;False;False;;Dewgong
+2177;Aurora Beam;35;False;;;False;False;;Dewgong
+2178;Growl;1;False;;;False;False;;Dewgong
+2179;Growl;30;False;;;False;False;;Dewgong
+2180;Headbutt;1;False;;;False;False;;Dewgong
+2181;Rest;44;False;;44;False;False;;Dewgong
+2182;Take Down;50;False;;09;False;False;;Dewgong
+2183;Ice Beam;56;False;;13;False;False;;Dewgong
+2184;Surf;;False;03;;False;False;;Dewgong
+2185;Strength;;False;04;;False;False;;Dewgong
+2186;Toxic;;False;;06;False;False;;Dewgong
+2187;Horn Drill;;False;;07;False;False;;Dewgong
+2188;Body Slam;;False;;08;False;False;;Dewgong
+2189;Double-Edge;;False;;10;False;False;;Dewgong
+2190;BubbleBeam;;False;;11;False;False;;Dewgong
+2191;Water Gun;;False;;12;False;False;;Dewgong
+2192;Blizzard;;False;;14;False;False;;Dewgong
+2193;Hyper Beam;;False;;15;False;False;;Dewgong
+2194;Pay Day;;False;;16;False;False;;Dewgong
+2195;Rage;;False;;20;False;False;;Dewgong
+2196;Mimic;;False;;31;False;False;;Dewgong
+2197;Double Team;;False;;32;False;False;;Dewgong
+2198;Bide;;False;;34;False;False;;Dewgong
+2199;Skull Bash;;False;;40;False;False;;Dewgong
+2200;Substitute;;False;;50;False;False;;Dewgong
+2201;Disable;1;False;;;False;False;;Grimer
+2202;Pound;1;False;;;False;False;;Grimer
+2203;Poison Gas;30;False;;;False;False;;Grimer
+2204;Minimize;33;False;;;False;False;;Grimer
+2205;Sludge;37;False;;;False;False;;Grimer
+2206;Harden;42;False;;;False;False;;Grimer
+2207;Screech;48;False;;;False;False;;Grimer
+2208;Acid Armor;55;False;;;False;False;;Grimer
+2209;Toxic;;False;;06;False;False;;Grimer
+2210;Body Slam;;False;;08;False;False;;Grimer
+2211;Rage;;False;;20;False;False;;Grimer
+2212;Mega Drain;;False;;21;False;False;;Grimer
+2213;Thunderbolt;;False;;24;False;False;;Grimer
+2214;Thunder;;False;;25;False;False;;Grimer
+2215;Mimic;;False;;31;False;False;;Grimer
+2216;Double Team;;False;;32;False;False;;Grimer
+2217;Bide;;False;;34;False;False;;Grimer
+2218;Selfdestruct;;False;;36;False;False;;Grimer
+2219;Fire Blast;;False;;38;False;False;;Grimer
+2220;Rest;;False;;44;False;False;;Grimer
+2221;Explosion;;False;;47;False;False;;Grimer
+2222;Substitute;;False;;50;False;False;;Grimer
+2223;Disable;1;False;;;False;False;;Muk
+2224;Poison Gas;1;False;;;False;False;;Muk
+2225;Poison Gas;30;False;;;False;False;;Muk
+2226;Pound;1;False;;;False;False;;Muk
+2227;Minimize;33;False;;;False;False;;Muk
+2228;Sludge;37;False;;;False;False;;Muk
+2229;Harden;45;False;;;False;False;;Muk
+2230;Screech;53;False;;;False;False;;Muk
+2231;Acid Armor;60;False;;;False;False;;Muk
+2232;Toxic;;False;;06;False;False;;Muk
+2233;Body Slam;;False;;08;False;False;;Muk
+2234;Hyper Beam;;False;;15;False;False;;Muk
+2235;Rage;;False;;20;False;False;;Muk
+2236;Mega Drain;;False;;21;False;False;;Muk
+2237;Thunderbolt;;False;;24;False;False;;Muk
+2238;Thunder;;False;;25;False;False;;Muk
+2239;Mimic;;False;;31;False;False;;Muk
+2240;Double Team;;False;;32;False;False;;Muk
+2241;Bide;;False;;34;False;False;;Muk
+2242;Selfdestruct;;False;;36;False;False;;Muk
+2243;Fire Blast;;False;;38;False;False;;Muk
+2244;Rest;;False;;44;False;False;;Muk
+2245;Explosion;;False;;47;False;False;;Muk
+2246;Substitute;;False;;50;False;False;;Muk
+2247;Tackle;1;False;;;False;False;;Shellder
+2248;Withdraw;1;False;;;False;False;;Shellder
+2249;Supersonic;18;False;;;False;False;;Shellder
+2250;Clamp;23;False;;;False;False;;Shellder
+2251;Aurora Beam;30;False;;;False;False;;Shellder
+2252;Leer;39;False;;;False;False;;Shellder
+2253;Ice Beam;50;False;;13;False;False;;Shellder
+2254;Surf;;False;03;;False;False;;Shellder
+2255;Toxic;;False;;06;False;False;;Shellder
+2256;Take Down;;False;;09;False;False;;Shellder
+2257;Double-Edge;;False;;10;False;False;;Shellder
+2258;BubbleBeam;;False;;11;False;False;;Shellder
+2259;Water Gun;;False;;12;False;False;;Shellder
+2260;Blizzard;;False;;14;False;False;;Shellder
+2261;Rage;;False;;20;False;False;;Shellder
+2262;Teleport;;False;;30;False;False;;Shellder
+2263;Mimic;;False;;31;False;False;;Shellder
+2264;Double Team;;False;;32;False;False;;Shellder
+2265;Reflect;;False;;33;False;False;;Shellder
+2266;Bide;;False;;34;False;False;;Shellder
+2267;Selfdestruct;;False;;36;False;False;;Shellder
+2268;Swift;;False;;39;False;False;;Shellder
+2269;Rest;;False;;44;False;False;;Shellder
+2270;Explosion;;False;;47;False;False;;Shellder
+2271;Tri Attack;;False;;49;False;False;;Shellder
+2272;Substitute;;False;;50;False;False;;Shellder
+2273;Aurora Beam;1;False;;;False;False;;Cloyster
+2274;Clamp;1;False;;;False;False;;Cloyster
+2275;Supersonic;1;False;;;False;False;;Cloyster
+2276;Withdraw;1;False;;;False;False;;Cloyster
+2277;Spike Cannon;50;False;;;False;False;;Cloyster
+2278;Ice Beam;;True;;13;False;False;;Cloyster
+2279;Leer;;True;;;False;False;;Cloyster
+2280;Tackle;;True;;;False;False;;Cloyster
+2281;Surf;;False;03;;False;False;;Cloyster
+2282;Toxic;;False;;06;False;False;;Cloyster
+2283;Take Down;;False;;09;False;False;;Cloyster
+2284;Double-Edge;;False;;10;False;False;;Cloyster
+2285;BubbleBeam;;False;;11;False;False;;Cloyster
+2286;Water Gun;;False;;12;False;False;;Cloyster
+2287;Blizzard;;False;;14;False;False;;Cloyster
+2288;Hyper Beam;;False;;15;False;False;;Cloyster
+2289;Rage;;False;;20;False;False;;Cloyster
+2290;Teleport;;False;;30;False;False;;Cloyster
+2291;Mimic;;False;;31;False;False;;Cloyster
+2292;Double Team;;False;;32;False;False;;Cloyster
+2293;Reflect;;False;;33;False;False;;Cloyster
+2294;Bide;;False;;34;False;False;;Cloyster
+2295;Selfdestruct;;False;;36;False;False;;Cloyster
+2296;Swift;;False;;39;False;False;;Cloyster
+2297;Rest;;False;;44;False;False;;Cloyster
+2298;Explosion;;False;;47;False;False;;Cloyster
+2299;Tri Attack;;False;;49;False;False;;Cloyster
+2300;Substitute;;False;;50;False;False;;Cloyster
+2301;Confuse Ray;1;False;;;False;False;;Gastly
+2302;Lick;1;False;;;False;False;;Gastly
+2303;Night Shade;1;False;;;False;False;;Gastly
+2304;Hypnosis;27;False;;;False;False;;Gastly
+2305;Dream Eater;35;False;;42;False;False;;Gastly
+2306;Toxic;;False;;06;False;False;;Gastly
+2307;Rage;;False;;20;False;False;;Gastly
+2308;Mega Drain;;False;;21;False;False;;Gastly
+2309;Thunderbolt;;False;;24;False;False;;Gastly
+2310;Thunder;;False;;25;False;False;;Gastly
+2311;Psychic;;False;;29;False;False;;Gastly
+2312;Mimic;;False;;31;False;False;;Gastly
+2313;Double Team;;False;;32;False;False;;Gastly
+2314;Bide;;False;;34;False;False;;Gastly
+2315;Selfdestruct;;False;;36;False;False;;Gastly
+2316;Rest;;False;;44;False;False;;Gastly
+2317;Psywave;;False;;46;False;False;;Gastly
+2318;Explosion;;False;;47;False;False;;Gastly
+2319;Substitute;;False;;50;False;False;;Gastly
+2320;Confuse Ray;1;False;;;False;False;;Haunter
+2321;Lick;1;False;;;False;False;;Haunter
+2322;Night Shade;1;False;;;False;False;;Haunter
+2323;Hypnosis;29;False;;;False;False;;Haunter
+2324;Dream Eater;38;False;;42;False;False;;Haunter
+2325;Toxic;;False;;06;False;False;;Haunter
+2326;Rage;;False;;20;False;False;;Haunter
+2327;Mega Drain;;False;;21;False;False;;Haunter
+2328;Thunderbolt;;False;;24;False;False;;Haunter
+2329;Thunder;;False;;25;False;False;;Haunter
+2330;Psychic;;False;;29;False;False;;Haunter
+2331;Mimic;;False;;31;False;False;;Haunter
+2332;Double Team;;False;;32;False;False;;Haunter
+2333;Bide;;False;;34;False;False;;Haunter
+2334;Selfdestruct;;False;;36;False;False;;Haunter
+2335;Rest;;False;;44;False;False;;Haunter
+2336;Psywave;;False;;46;False;False;;Haunter
+2337;Explosion;;False;;47;False;False;;Haunter
+2338;Substitute;;False;;50;False;False;;Haunter
+2339;Confuse Ray;1;False;;;False;False;;Gengar
+2340;Lick;1;False;;;False;False;;Gengar
+2341;Night Shade;1;False;;;False;False;;Gengar
+2342;Hypnosis;29;False;;;False;False;;Gengar
+2343;Dream Eater;38;False;;42;False;False;;Gengar
+2344;Strength;;False;04;;False;False;;Gengar
+2345;Mega Punch;;False;;01;False;False;;Gengar
+2346;Mega Kick;;False;;05;False;False;;Gengar
+2347;Toxic;;False;;06;False;False;;Gengar
+2348;Body Slam;;False;;08;False;False;;Gengar
+2349;Take Down;;False;;09;False;False;;Gengar
+2350;Double-Edge;;False;;10;False;False;;Gengar
+2351;Hyper Beam;;False;;15;False;False;;Gengar
+2352;Submission;;False;;17;False;False;;Gengar
+2353;Counter;;False;;18;False;False;;Gengar
+2354;Seismic Toss;;False;;19;False;False;;Gengar
+2355;Rage;;False;;20;False;False;;Gengar
+2356;Mega Drain;;False;;21;False;False;;Gengar
+2357;Thunderbolt;;False;;24;False;False;;Gengar
+2358;Thunder;;False;;25;False;False;;Gengar
+2359;Psychic;;False;;29;False;False;;Gengar
+2360;Mimic;;False;;31;False;False;;Gengar
+2361;Double Team;;False;;32;False;False;;Gengar
+2362;Bide;;False;;34;False;False;;Gengar
+2363;Metronome;;False;;35;False;False;;Gengar
+2364;Selfdestruct;;False;;36;False;False;;Gengar
+2365;Skull Bash;;False;;40;False;False;;Gengar
+2366;Rest;;False;;44;False;False;;Gengar
+2367;Psywave;;False;;46;False;False;;Gengar
+2368;Explosion;;False;;47;False;False;;Gengar
+2369;Substitute;;False;;50;False;False;;Gengar
+2370;Screech;1;False;;;False;False;;Onix
+2371;Tackle;1;False;;;False;False;;Onix
+2372;Bind;15;False;;;False;False;;Onix
+2373;Rock Throw;19;False;;;False;False;;Onix
+2374;Rage;25;False;;20;False;False;;Onix
+2375;Slam;33;False;;;False;False;;Onix
+2376;Harden;43;False;;;False;False;;Onix
+2377;Strength;;False;04;;False;False;;Onix
+2378;Toxic;;False;;06;False;False;;Onix
+2379;Body Slam;;False;;08;False;False;;Onix
+2380;Take Down;;False;;09;False;False;;Onix
+2381;Double-Edge;;False;;10;False;False;;Onix
+2382;Earthquake;;False;;26;False;False;;Onix
+2383;Fissure;;False;;27;False;False;;Onix
+2384;Dig;;False;;28;False;False;;Onix
+2385;Mimic;;False;;31;False;False;;Onix
+2386;Double Team;;False;;32;False;False;;Onix
+2387;Bide;;False;;34;False;False;;Onix
+2388;Selfdestruct;;False;;36;False;False;;Onix
+2389;Skull Bash;;False;;40;False;False;;Onix
+2390;Rest;;False;;44;False;False;;Onix
+2391;Explosion;;False;;47;False;False;;Onix
+2392;Rock Slide;;False;;48;False;False;;Onix
+2393;Substitute;;False;;50;False;False;;Onix
+2394;Hypnosis;1;False;;;False;False;;Drowzee
+2395;Pound;1;False;;;False;False;;Drowzee
+2396;Disable;12;False;;;False;False;;Drowzee
+2397;Confusion;17;False;;;False;False;;Drowzee
+2398;Headbutt;24;False;;;False;False;;Drowzee
+2399;Poison Gas;29;False;;;False;False;;Drowzee
+2400;Psychic;32;False;;29;False;False;;Drowzee
+2401;Meditate;37;False;;;False;False;;Drowzee
+2402;Flash;;False;05;;False;False;;Drowzee
+2403;Mega Punch;;False;;01;False;False;;Drowzee
+2404;Mega Kick;;False;;05;False;False;;Drowzee
+2405;Toxic;;False;;06;False;False;;Drowzee
+2406;Body Slam;;False;;08;False;False;;Drowzee
+2407;Take Down;;False;;09;False;False;;Drowzee
+2408;Double-Edge;;False;;10;False;False;;Drowzee
+2409;Submission;;False;;17;False;False;;Drowzee
+2410;Counter;;False;;18;False;False;;Drowzee
+2411;Seismic Toss;;False;;19;False;False;;Drowzee
+2412;Rage;;False;;20;False;False;;Drowzee
+2413;Teleport;;False;;30;False;False;;Drowzee
+2414;Mimic;;False;;31;False;False;;Drowzee
+2415;Double Team;;False;;32;False;False;;Drowzee
+2416;Reflect;;False;;33;False;False;;Drowzee
+2417;Bide;;False;;34;False;False;;Drowzee
+2418;Metronome;;False;;35;False;False;;Drowzee
+2419;Skull Bash;;False;;40;False;False;;Drowzee
+2420;Dream Eater;;False;;42;False;False;;Drowzee
+2421;Rest;;False;;44;False;False;;Drowzee
+2422;Thunder Wave;;False;;45;False;False;;Drowzee
+2423;Psywave;;False;;46;False;False;;Drowzee
+2424;Tri Attack;;False;;49;False;False;;Drowzee
+2425;Substitute;;False;;50;False;False;;Drowzee
+2426;Confusion;1;False;;;False;False;;Hypno
+2427;Confusion;17;False;;;False;False;;Hypno
+2428;Disable;1;False;;;False;False;;Hypno
+2429;Disable;12;False;;;False;False;;Hypno
+2430;Hypnosis;1;False;;;False;False;;Hypno
+2431;Pound;1;False;;;False;False;;Hypno
+2432;Headbutt;24;False;;;False;False;;Hypno
+2433;Poison Gas;33;False;;;False;False;;Hypno
+2434;Psychic;37;False;;29;False;False;;Hypno
+2435;Meditate;43;False;;;False;False;;Hypno
+2436;Flash;;False;05;;False;False;;Hypno
+2437;Mega Punch;;False;;01;False;False;;Hypno
+2438;Mega Kick;;False;;05;False;False;;Hypno
+2439;Toxic;;False;;06;False;False;;Hypno
+2440;Body Slam;;False;;08;False;False;;Hypno
+2441;Take Down;;False;;09;False;False;;Hypno
+2442;Double-Edge;;False;;10;False;False;;Hypno
+2443;Hyper Beam;;False;;15;False;False;;Hypno
+2444;Submission;;False;;17;False;False;;Hypno
+2445;Counter;;False;;18;False;False;;Hypno
+2446;Seismic Toss;;False;;19;False;False;;Hypno
+2447;Rage;;False;;20;False;False;;Hypno
+2448;Teleport;;False;;30;False;False;;Hypno
+2449;Mimic;;False;;31;False;False;;Hypno
+2450;Double Team;;False;;32;False;False;;Hypno
+2451;Reflect;;False;;33;False;False;;Hypno
+2452;Bide;;False;;34;False;False;;Hypno
+2453;Metronome;;False;;35;False;False;;Hypno
+2454;Skull Bash;;False;;40;False;False;;Hypno
+2455;Dream Eater;;False;;42;False;False;;Hypno
+2456;Rest;;False;;44;False;False;;Hypno
+2457;Thunder Wave;;False;;45;False;False;;Hypno
+2458;Psywave;;False;;46;False;False;;Hypno
+2459;Tri Attack;;False;;49;False;False;;Hypno
+2460;Substitute;;False;;50;False;False;;Hypno
+2461;Bubble;1;False;;;False;False;;Krabby
+2462;Leer;1;False;;;False;False;;Krabby
+2463;ViceGrip;20;False;;;False;False;;Krabby
+2464;Guillotine;25;False;;;False;False;;Krabby
+2465;Stomp;30;False;;;False;False;;Krabby
+2466;Crabhammer;35;False;;;False;False;;Krabby
+2467;Harden;40;False;;;False;False;;Krabby
+2468;Cut;;False;01;;False;False;;Krabby
+2469;Surf;;False;03;;False;False;;Krabby
+2470;Strength;;False;04;;False;False;;Krabby
+2471;Swords Dance;;False;;03;False;False;;Krabby
+2472;Toxic;;False;;06;False;False;;Krabby
+2473;Body Slam;;False;;08;False;False;;Krabby
+2474;Take Down;;False;;09;False;False;;Krabby
+2475;Double-Edge;;False;;10;False;False;;Krabby
+2476;BubbleBeam;;False;;11;False;False;;Krabby
+2477;Water Gun;;False;;12;False;False;;Krabby
+2478;Ice Beam;;False;;13;False;False;;Krabby
+2479;Blizzard;;False;;14;False;False;;Krabby
+2480;Rage;;False;;20;False;False;;Krabby
+2481;Mimic;;False;;31;False;False;;Krabby
+2482;Double Team;;False;;32;False;False;;Krabby
+2483;Bide;;False;;34;False;False;;Krabby
+2484;Rest;;False;;44;False;False;;Krabby
+2485;Substitute;;False;;50;False;False;;Krabby
+2486;Screech;1;False;;;False;False;;Voltorb
+2487;Tackle;1;False;;;False;False;;Voltorb
+2488;SonicBoom;17;False;;;False;False;;Voltorb
+2489;Selfdestruct;22;False;;36;False;False;;Voltorb
+2490;Light Screen;29;False;;;False;False;;Voltorb
+2491;Swift;36;False;;39;False;False;;Voltorb
+2492;Explosion;43;False;;47;False;False;;Voltorb
+2493;Flash;;False;05;;False;False;;Voltorb
+2494;Toxic;;False;;06;False;False;;Voltorb
+2495;Take Down;;False;;09;False;False;;Voltorb
+2496;Rage;;False;;20;False;False;;Voltorb
+2497;Thunderbolt;;False;;24;False;False;;Voltorb
+2498;Thunder;;False;;25;False;False;;Voltorb
+2499;Teleport;;False;;30;False;False;;Voltorb
+2500;Mimic;;False;;31;False;False;;Voltorb
+2501;Double Team;;False;;32;False;False;;Voltorb
+2502;Reflect;;False;;33;False;False;;Voltorb
+2503;Bide;;False;;34;False;False;;Voltorb
+2504;Rest;;False;;44;False;False;;Voltorb
+2505;Thunder Wave;;False;;45;False;False;;Voltorb
+2506;Substitute;;False;;50;False;False;;Voltorb
+2507;Bubble;1;False;;;False;False;;Kingler
+2508;Leer;1;False;;;False;False;;Kingler
+2509;ViceGrip;1;False;;;False;False;;Kingler
+2510;ViceGrip;20;False;;;False;False;;Kingler
+2511;Guillotine;25;False;;;False;False;;Kingler
+2512;Stomp;34;False;;;False;False;;Kingler
+2513;Crabhammer;42;False;;;False;False;;Kingler
+2514;Harden;49;False;;;False;False;;Kingler
+2515;Cut;;False;01;;False;False;;Kingler
+2516;Surf;;False;03;;False;False;;Kingler
+2517;Strength;;False;04;;False;False;;Kingler
+2518;Swords Dance;;False;;03;False;False;;Kingler
+2519;Toxic;;False;;06;False;False;;Kingler
+2520;Body Slam;;False;;08;False;False;;Kingler
+2521;Take Down;;False;;09;False;False;;Kingler
+2522;Double-Edge;;False;;10;False;False;;Kingler
+2523;BubbleBeam;;False;;11;False;False;;Kingler
+2524;Water Gun;;False;;12;False;False;;Kingler
+2525;Ice Beam;;False;;13;False;False;;Kingler
+2526;Blizzard;;False;;14;False;False;;Kingler
+2527;Hyper Beam;;False;;15;False;False;;Kingler
+2528;Rage;;False;;20;False;False;;Kingler
+2529;Mimic;;False;;31;False;False;;Kingler
+2530;Double Team;;False;;32;False;False;;Kingler
+2531;Bide;;False;;34;False;False;;Kingler
+2532;Rest;;False;;44;False;False;;Kingler
+2533;Substitute;;False;;50;False;False;;Kingler
+2534;Screech;1;False;;;False;False;;Electrode
+2535;SonicBoom;1;False;;;False;False;;Electrode
+2536;SonicBoom;17;False;;;False;False;;Electrode
+2537;Tackle;1;False;;;False;False;;Electrode
+2538;Selfdestruct;22;False;;36;False;False;;Electrode
+2539;Light Screen;29;False;;;False;False;;Electrode
+2540;Swift;40;False;;39;False;False;;Electrode
+2541;Explosion;50;False;;47;False;False;;Electrode
+2542;Flash;;False;05;;False;False;;Electrode
+2543;Toxic;;False;;06;False;False;;Electrode
+2544;Take Down;;False;;09;False;False;;Electrode
+2545;Hyper Beam;;False;;15;False;False;;Electrode
+2546;Rage;;False;;20;False;False;;Electrode
+2547;Thunderbolt;;False;;24;False;False;;Electrode
+2548;Thunder;;False;;25;False;False;;Electrode
+2549;Teleport;;False;;30;False;False;;Electrode
+2550;Mimic;;False;;31;False;False;;Electrode
+2551;Double Team;;False;;32;False;False;;Electrode
+2552;Reflect;;False;;33;False;False;;Electrode
+2553;Bide;;False;;34;False;False;;Electrode
+2554;Skull Bash;;False;;40;False;False;;Electrode
+2555;Rest;;False;;44;False;False;;Electrode
+2556;Thunder Wave;;False;;45;False;False;;Electrode
+2557;Substitute;;False;;50;False;False;;Electrode
+2558;Barrage;1;False;;;False;False;;Exeggcute
+2559;Hypnosis;1;False;;;False;False;;Exeggcute
+2560;Reflect;25;False;;33;False;False;;Exeggcute
+2561;Leech Seed;28;False;;;False;False;;Exeggcute
+2562;Stun Spore;32;False;;;False;False;;Exeggcute
+2563;PoisonPowder;37;False;;;False;False;;Exeggcute
+2564;SolarBeam;42;False;;;False;False;;Exeggcute
+2565;Sleep Powder;48;False;;;False;False;;Exeggcute
+2566;Toxic;;False;;06;False;False;;Exeggcute
+2567;Take Down;;False;;09;False;False;;Exeggcute
+2568;Double-Edge;;False;;10;False;False;;Exeggcute
+2569;Rage;;False;;20;False;False;;Exeggcute
+2570;Psychic;;False;;29;False;False;;Exeggcute
+2571;Teleport;;False;;30;False;False;;Exeggcute
+2572;Mimic;;False;;31;False;False;;Exeggcute
+2573;Double Team;;False;;32;False;False;;Exeggcute
+2574;Bide;;False;;34;False;False;;Exeggcute
+2575;Selfdestruct;;False;;36;False;False;;Exeggcute
+2576;Egg Bomb;;False;;37;False;False;;Exeggcute
+2577;Rest;;False;;44;False;False;;Exeggcute
+2578;Psywave;;False;;46;False;False;;Exeggcute
+2579;Explosion;;False;;47;False;False;;Exeggcute
+2580;Substitute;;False;;50;False;False;;Exeggcute
+2581;Barrage;1;False;;;False;False;;Exeggutor
+2582;Hypnosis;1;False;;;False;False;;Exeggutor
+2583;Stomp;28;False;;;False;False;;Exeggutor
+2584;Leech Seed;;True;;;False;False;;Exeggutor
+2585;PoisonPowder;;True;;;False;False;;Exeggutor
+2586;Reflect;;True;;33;False;False;;Exeggutor
+2587;Sleep Powder;;True;;;False;False;;Exeggutor
+2588;SolarBeam;;True;;22;False;False;;Exeggutor
+2589;Stun Spore;;True;;;False;False;;Exeggutor
+2590;Strength;;False;04;;False;False;;Exeggutor
+2591;Toxic;;False;;06;False;False;;Exeggutor
+2592;Take Down;;False;;09;False;False;;Exeggutor
+2593;Double-Edge;;False;;10;False;False;;Exeggutor
+2594;Hyper Beam;;False;;15;False;False;;Exeggutor
+2595;Rage;;False;;20;False;False;;Exeggutor
+2596;Mega Drain;;False;;21;False;False;;Exeggutor
+2597;Psychic;;False;;29;False;False;;Exeggutor
+2598;Teleport;;False;;30;False;False;;Exeggutor
+2599;Mimic;;False;;31;False;False;;Exeggutor
+2600;Double Team;;False;;32;False;False;;Exeggutor
+2601;Bide;;False;;34;False;False;;Exeggutor
+2602;Selfdestruct;;False;;36;False;False;;Exeggutor
+2603;Egg Bomb;;False;;37;False;False;;Exeggutor
+2604;Rest;;False;;44;False;False;;Exeggutor
+2605;Psywave;;False;;46;False;False;;Exeggutor
+2606;Explosion;;False;;47;False;False;;Exeggutor
+2607;Substitute;;False;;50;False;False;;Exeggutor
+2608;Bone Club;1;False;;;False;False;;Marowak
+2609;Focus Energy;1;False;;;False;False;;Marowak
+2610;Focus Energy;33;False;;;False;False;;Marowak
+2611;Growl;1;False;;;False;False;;Marowak
+2612;Leer;1;False;;;False;False;;Marowak
+2613;Leer;25;False;;;False;False;;Marowak
+2614;Thrash;41;False;;;False;False;;Marowak
+2615;Bonemerang;48;False;;;False;False;;Marowak
+2616;Rage;55;False;;20;False;False;;Marowak
+2617;Strength;;False;04;;False;False;;Marowak
+2618;Mega Punch;;False;;01;False;False;;Marowak
+2619;Mega Kick;;False;;05;False;False;;Marowak
+2620;Toxic;;False;;06;False;False;;Marowak
+2621;Body Slam;;False;;08;False;False;;Marowak
+2622;Take Down;;False;;09;False;False;;Marowak
+2623;Double-Edge;;False;;10;False;False;;Marowak
+2624;BubbleBeam;;False;;11;False;False;;Marowak
+2625;Water Gun;;False;;12;False;False;;Marowak
+2626;Ice Beam;;False;;13;False;False;;Marowak
+2627;Blizzard;;False;;14;False;False;;Marowak
+2628;Hyper Beam;;False;;15;False;False;;Marowak
+2629;Submission;;False;;17;False;False;;Marowak
+2630;Counter;;False;;18;False;False;;Marowak
+2631;Seismic Toss;;False;;19;False;False;;Marowak
+2632;Earthquake;;False;;26;False;False;;Marowak
+2633;Fissure;;False;;27;False;False;;Marowak
+2634;Dig;;False;;28;False;False;;Marowak
+2635;Mimic;;False;;31;False;False;;Marowak
+2636;Double Team;;False;;32;False;False;;Marowak
+2637;Bide;;False;;34;False;False;;Marowak
+2638;Fire Blast;;False;;38;False;False;;Marowak
+2639;Skull Bash;;False;;40;False;False;;Marowak
+2640;Rest;;False;;44;False;False;;Marowak
+2641;Substitute;;False;;50;False;False;;Marowak
+2642;Bone Club;1;False;;;False;False;;Cubone
+2643;Growl;1;False;;;False;False;;Cubone
+2644;Leer;25;False;;;False;False;;Cubone
+2645;Focus Energy;31;False;;;False;False;;Cubone
+2646;Thrash;38;False;;;False;False;;Cubone
+2647;Bonemerang;43;False;;;False;False;;Cubone
+2648;Rage;46;False;;20;False;False;;Cubone
+2649;Strength;;False;04;;False;False;;Cubone
+2650;Mega Punch;;False;;01;False;False;;Cubone
+2651;Mega Kick;;False;;05;False;False;;Cubone
+2652;Toxic;;False;;06;False;False;;Cubone
+2653;Body Slam;;False;;08;False;False;;Cubone
+2654;Take Down;;False;;09;False;False;;Cubone
+2655;Double-Edge;;False;;10;False;False;;Cubone
+2656;BubbleBeam;;False;;11;False;False;;Cubone
+2657;Water Gun;;False;;12;False;False;;Cubone
+2658;Ice Beam;;False;;13;False;False;;Cubone
+2659;Blizzard;;False;;14;False;False;;Cubone
+2660;Submission;;False;;17;False;False;;Cubone
+2661;Counter;;False;;18;False;False;;Cubone
+2662;Seismic Toss;;False;;19;False;False;;Cubone
+2663;Earthquake;;False;;26;False;False;;Cubone
+2664;Fissure;;False;;27;False;False;;Cubone
+2665;Dig;;False;;28;False;False;;Cubone
+2666;Mimic;;False;;31;False;False;;Cubone
+2667;Double Team;;False;;32;False;False;;Cubone
+2668;Bide;;False;;34;False;False;;Cubone
+2669;Fire Blast;;False;;38;False;False;;Cubone
+2670;Skull Bash;;False;;40;False;False;;Cubone
+2671;Rest;;False;;44;False;False;;Cubone
+2672;Substitute;;False;;50;False;False;;Cubone
+2673;Double Kick;1;False;;;False;False;;Hitmonlee
+2674;Meditate;1;False;;;False;False;;Hitmonlee
+2675;Rolling Kick;33;False;;;False;False;;Hitmonlee
+2676;Jump Kick;38;False;;;False;False;;Hitmonlee
+2677;Focus Energy;43;False;;;False;False;;Hitmonlee
+2678;Hi Jump Kick;48;False;;;False;False;;Hitmonlee
+2679;Mega Kick;53;False;;05;False;False;;Hitmonlee
+2680;Strength;;False;04;;False;False;;Hitmonlee
+2681;Mega Punch;;False;;01;False;False;;Hitmonlee
+2682;Toxic;;False;;06;False;False;;Hitmonlee
+2683;Body Slam;;False;;08;False;False;;Hitmonlee
+2684;Take Down;;False;;09;False;False;;Hitmonlee
+2685;Double-Edge;;False;;10;False;False;;Hitmonlee
+2686;Submission;;False;;17;False;False;;Hitmonlee
+2687;Counter;;False;;18;False;False;;Hitmonlee
+2688;Seismic Toss;;False;;19;False;False;;Hitmonlee
+2689;Rage;;False;;20;False;False;;Hitmonlee
+2690;Mimic;;False;;31;False;False;;Hitmonlee
+2691;Double Team;;False;;32;False;False;;Hitmonlee
+2692;Bide;;False;;34;False;False;;Hitmonlee
+2693;Metronome;;False;;35;False;False;;Hitmonlee
+2694;Swift;;False;;39;False;False;;Hitmonlee
+2695;Skull Bash;;False;;40;False;False;;Hitmonlee
+2696;Rest;;False;;44;False;False;;Hitmonlee
+2697;Substitute;;False;;50;False;False;;Hitmonlee
+2698;Agility;1;False;;;False;False;;Hitmonchan
+2699;Comet Punch;1;False;;;False;False;;Hitmonchan
+2700;Fire Punch;33;False;;;False;False;;Hitmonchan
+2701;Ice Punch;38;False;;;False;False;;Hitmonchan
+2702;ThunderPunch;43;False;;;False;False;;Hitmonchan
+2703;Mega Punch;48;False;;01;False;False;;Hitmonchan
+2704;Counter;53;False;;18;False;False;;Hitmonchan
+2705;Strength;;False;04;;False;False;;Hitmonchan
+2706;Mega Kick;;False;;05;False;False;;Hitmonchan
+2707;Toxic;;False;;06;False;False;;Hitmonchan
+2708;Body Slam;;False;;08;False;False;;Hitmonchan
+2709;Take Down;;False;;09;False;False;;Hitmonchan
+2710;Double-Edge;;False;;10;False;False;;Hitmonchan
+2711;Submission;;False;;17;False;False;;Hitmonchan
+2712;Seismic Toss;;False;;19;False;False;;Hitmonchan
+2713;Rage;;False;;20;False;False;;Hitmonchan
+2714;Mimic;;False;;31;False;False;;Hitmonchan
+2715;Double Team;;False;;32;False;False;;Hitmonchan
+2716;Bide;;False;;34;False;False;;Hitmonchan
+2717;Metronome;;False;;35;False;False;;Hitmonchan
+2718;Swift;;False;;39;False;False;;Hitmonchan
+2719;Skull Bash;;False;;40;False;False;;Hitmonchan
+2720;Rest;;False;;44;False;False;;Hitmonchan
+2721;Substitute;;False;;50;False;False;;Hitmonchan
+2722;Supersonic;1;False;;;False;False;;Lickitung
+2723;Wrap;1;False;;;False;False;;Lickitung
+2724;Stomp;7;False;;;False;False;;Lickitung
+2725;Disable;15;False;;;False;False;;Lickitung
+2726;Defense Curl;23;False;;;False;False;;Lickitung
+2727;Slam;31;False;;;False;False;;Lickitung
+2728;Screech;39;False;;;False;False;;Lickitung
+2729;Cut;;False;01;;False;False;;Lickitung
+2730;Surf;;False;03;;False;False;;Lickitung
+2731;Strength;;False;04;;False;False;;Lickitung
+2732;Mega Punch;;False;;01;False;False;;Lickitung
+2733;Swords Dance;;False;;03;False;False;;Lickitung
+2734;Mega Kick;;False;;05;False;False;;Lickitung
+2735;Toxic;;False;;06;False;False;;Lickitung
+2736;Body Slam;;False;;08;False;False;;Lickitung
+2737;Take Down;;False;;09;False;False;;Lickitung
+2738;Double-Edge;;False;;10;False;False;;Lickitung
+2739;BubbleBeam;;False;;11;False;False;;Lickitung
+2740;Water Gun;;False;;12;False;False;;Lickitung
+2741;Ice Beam;;False;;13;False;False;;Lickitung
+2742;Blizzard;;False;;14;False;False;;Lickitung
+2743;Hyper Beam;;False;;15;False;False;;Lickitung
+2744;Submission;;False;;17;False;False;;Lickitung
+2745;Counter;;False;;18;False;False;;Lickitung
+2746;Seismic Toss;;False;;19;False;False;;Lickitung
+2747;Rage;;False;;20;False;False;;Lickitung
+2748;Thunderbolt;;False;;24;False;False;;Lickitung
+2749;Thunder;;False;;25;False;False;;Lickitung
+2750;Earthquake;;False;;26;False;False;;Lickitung
+2751;Fissure;;False;;27;False;False;;Lickitung
+2752;Mimic;;False;;31;False;False;;Lickitung
+2753;Double Team;;False;;32;False;False;;Lickitung
+2754;Bide;;False;;34;False;False;;Lickitung
+2755;Fire Blast;;False;;38;False;False;;Lickitung
+2756;Skull Bash;;False;;40;False;False;;Lickitung
+2757;Rest;;False;;44;False;False;;Lickitung
+2758;Substitute;;False;;50;False;False;;Lickitung
+2759;Smog;1;False;;;False;False;;Koffing
+2760;Tackle;1;False;;;False;False;;Koffing
+2761;Sludge;32;False;;;False;False;;Koffing
+2762;SmokeScreen;37;False;;;False;False;;Koffing
+2763;Selfdestruct;40;False;;36;False;False;;Koffing
+2764;Haze;45;False;;;False;False;;Koffing
+2765;Explosion;48;False;;47;False;False;;Koffing
+2766;Toxic;;False;;06;False;False;;Koffing
+2767;Rage;;False;;20;False;False;;Koffing
+2768;Thunderbolt;;False;;24;False;False;;Koffing
+2769;Thunder;;False;;25;False;False;;Koffing
+2770;Mimic;;False;;31;False;False;;Koffing
+2771;Double Team;;False;;32;False;False;;Koffing
+2772;Bide;;False;;34;False;False;;Koffing
+2773;Fire Blast;;False;;38;False;False;;Koffing
+2774;Rest;;False;;44;False;False;;Koffing
+2775;Substitute;;False;;50;False;False;;Koffing
+2776;Sludge;1;False;;;False;False;;Weezing
+2777;Sludge;32;False;;;False;False;;Weezing
+2778;Smog;1;False;;;False;False;;Weezing
+2779;Tackle;1;False;;;False;False;;Weezing
+2780;SmokeScreen;39;False;;;False;False;;Weezing
+2781;Selfdestruct;43;False;;36;False;False;;Weezing
+2782;Haze;49;False;;;False;False;;Weezing
+2783;Explosion;53;False;;47;False;False;;Weezing
+2784;Toxic;;False;;06;False;False;;Weezing
+2785;Hyper Beam;;False;;15;False;False;;Weezing
+2786;Rage;;False;;20;False;False;;Weezing
+2787;Thunderbolt;;False;;24;False;False;;Weezing
+2788;Thunder;;False;;25;False;False;;Weezing
+2789;Mimic;;False;;31;False;False;;Weezing
+2790;Double Team;;False;;32;False;False;;Weezing
+2791;Bide;;False;;34;False;False;;Weezing
+2792;Fire Blast;;False;;38;False;False;;Weezing
+2793;Rest;;False;;44;False;False;;Weezing
+2794;Substitute;;False;;50;False;False;;Weezing
+2795;Horn Attack;1;False;;;False;False;;Rhyhorn
+2796;Stomp;30;False;;;False;False;;Rhyhorn
+2797;Tail Whip;35;False;;;False;False;;Rhyhorn
+2798;Fury Attack;40;False;;;False;False;;Rhyhorn
+2799;Horn Drill;45;False;;07;False;False;;Rhyhorn
+2800;Leer;50;False;;;False;False;;Rhyhorn
+2801;Take Down;55;False;;09;False;False;;Rhyhorn
+2802;Strength;;False;04;;False;False;;Rhyhorn
+2803;Toxic;;False;;06;False;False;;Rhyhorn
+2804;Body Slam;;False;;08;False;False;;Rhyhorn
+2805;Double-Edge;;False;;10;False;False;;Rhyhorn
+2806;Rage;;False;;20;False;False;;Rhyhorn
+2807;Thunderbolt;;False;;24;False;False;;Rhyhorn
+2808;Thunder;;False;;25;False;False;;Rhyhorn
+2809;Earthquake;;False;;26;False;False;;Rhyhorn
+2810;Fissure;;False;;27;False;False;;Rhyhorn
+2811;Dig;;False;;28;False;False;;Rhyhorn
+2812;Mimic;;False;;31;False;False;;Rhyhorn
+2813;Double Team;;False;;32;False;False;;Rhyhorn
+2814;Bide;;False;;34;False;False;;Rhyhorn
+2815;Fire Blast;;False;;38;False;False;;Rhyhorn
+2816;Skull Bash;;False;;40;False;False;;Rhyhorn
+2817;Rest;;False;;44;False;False;;Rhyhorn
+2818;Rock Slide;;False;;48;False;False;;Rhyhorn
+2819;Substitute;;False;;50;False;False;;Rhyhorn
+2820;Fury Attack;1;False;;;False;False;;Rhydon
+2821;Fury Attack;40;False;;;False;False;;Rhydon
+2822;Horn Attack;1;False;;;False;False;;Rhydon
+2823;Stomp;1;False;;;False;False;;Rhydon
+2824;Stomp;30;False;;;False;False;;Rhydon
+2825;Tail Whip;1;False;;;False;False;;Rhydon
+2826;Tail Whip;35;False;;;False;False;;Rhydon
+2827;Horn Drill;48;False;;07;False;False;;Rhydon
+2828;Leer;55;False;;;False;False;;Rhydon
+2829;Take Down;64;False;;09;False;False;;Rhydon
+2830;Surf;;False;03;;False;False;;Rhydon
+2831;Strength;;False;04;;False;False;;Rhydon
+2832;Mega Punch;;False;;01;False;False;;Rhydon
+2833;Mega Kick;;False;;05;False;False;;Rhydon
+2834;Toxic;;False;;06;False;False;;Rhydon
+2835;Body Slam;;False;;08;False;False;;Rhydon
+2836;Double-Edge;;False;;10;False;False;;Rhydon
+2837;BubbleBeam;;False;;11;False;False;;Rhydon
+2838;Water Gun;;False;;12;False;False;;Rhydon
+2839;Ice Beam;;False;;13;False;False;;Rhydon
+2840;Blizzard;;False;;14;False;False;;Rhydon
+2841;Hyper Beam;;False;;15;False;False;;Rhydon
+2842;Pay Day;;False;;16;False;False;;Rhydon
+2843;Submission;;False;;17;False;False;;Rhydon
+2844;Counter;;False;;18;False;False;;Rhydon
+2845;Seismic Toss;;False;;19;False;False;;Rhydon
+2846;Rage;;False;;20;False;False;;Rhydon
+2847;Thunderbolt;;False;;24;False;False;;Rhydon
+2848;Thunder;;False;;25;False;False;;Rhydon
+2849;Earthquake;;False;;26;False;False;;Rhydon
+2850;Fissure;;False;;27;False;False;;Rhydon
+2851;Dig;;False;;28;False;False;;Rhydon
+2852;Mimic;;False;;31;False;False;;Rhydon
+2853;Double Team;;False;;32;False;False;;Rhydon
+2854;Bide;;False;;34;False;False;;Rhydon
+2855;Fire Blast;;False;;38;False;False;;Rhydon
+2856;Skull Bash;;False;;40;False;False;;Rhydon
+2857;Rest;;False;;44;False;False;;Rhydon
+2858;Rock Slide;;False;;48;False;False;;Rhydon
+2859;Substitute;;False;;50;False;False;;Rhydon
+2860;DoubleSlap;1;False;;;False;False;;Chansey
+2861;Pound;1;False;;;False;False;;Chansey
+2862;Sing;24;False;;;False;False;;Chansey
+2863;Growl;30;False;;;False;False;;Chansey
+2864;Minimize;38;False;;;False;False;;Chansey
+2865;Defense Curl;44;False;;;False;False;;Chansey
+2866;Light Screen;48;False;;;False;False;;Chansey
+2867;Double-Edge;54;False;;10;False;False;;Chansey
+2868;Strength;;False;04;;False;False;;Chansey
+2869;Flash;;False;05;;False;False;;Chansey
+2870;Mega Punch;;False;;01;False;False;;Chansey
+2871;Mega Kick;;False;;05;False;False;;Chansey
+2872;Toxic;;False;;06;False;False;;Chansey
+2873;Body Slam;;False;;08;False;False;;Chansey
+2874;Take Down;;False;;09;False;False;;Chansey
+2875;BubbleBeam;;False;;11;False;False;;Chansey
+2876;Water Gun;;False;;12;False;False;;Chansey
+2877;Ice Beam;;False;;13;False;False;;Chansey
+2878;Blizzard;;False;;14;False;False;;Chansey
+2879;Hyper Beam;;False;;15;False;False;;Chansey
+2880;Submission;;False;;17;False;False;;Chansey
+2881;Counter;;False;;18;False;False;;Chansey
+2882;Seismic Toss;;False;;19;False;False;;Chansey
+2883;Rage;;False;;20;False;False;;Chansey
+2884;SolarBeam;;False;;22;False;False;;Chansey
+2885;Thunderbolt;;False;;24;False;False;;Chansey
+2886;Thunder;;False;;25;False;False;;Chansey
+2887;Psychic;;False;;29;False;False;;Chansey
+2888;Teleport;;False;;30;False;False;;Chansey
+2889;Mimic;;False;;31;False;False;;Chansey
+2890;Double Team;;False;;32;False;False;;Chansey
+2891;Reflect;;False;;33;False;False;;Chansey
+2892;Bide;;False;;34;False;False;;Chansey
+2893;Metronome;;False;;35;False;False;;Chansey
+2894;Egg Bomb;;False;;37;False;False;;Chansey
+2895;Fire Blast;;False;;38;False;False;;Chansey
+2896;Skull Bash;;False;;40;False;False;;Chansey
+2897;Softboiled;;False;;41;False;False;;Chansey
+2898;Rest;;False;;44;False;False;;Chansey
+2899;Thunder Wave;;False;;45;False;False;;Chansey
+2900;Psywave;;False;;46;False;False;;Chansey
+2901;Tri Attack;;False;;49;False;False;;Chansey
+2902;Substitute;;False;;50;False;False;;Chansey
+2903;Bind;1;False;;;False;False;;Tangela
+2904;Constrict;1;False;;;False;False;;Tangela
+2905;Absorb;29;False;;;False;False;;Tangela
+2906;PoisonPowder;32;False;;;False;False;;Tangela
+2907;Stun Spore;36;False;;;False;False;;Tangela
+2908;Sleep Powder;39;False;;;False;False;;Tangela
+2909;Slam;45;False;;;False;False;;Tangela
+2910;Growth;49;False;;;False;False;;Tangela
+2911;Cut;;False;01;;False;False;;Tangela
+2912;Swords Dance;;False;;03;False;False;;Tangela
+2913;Toxic;;False;;06;False;False;;Tangela
+2914;Body Slam;;False;;08;False;False;;Tangela
+2915;Take Down;;False;;09;False;False;;Tangela
+2916;Double-Edge;;False;;10;False;False;;Tangela
+2917;Hyper Beam;;False;;15;False;False;;Tangela
+2918;Rage;;False;;20;False;False;;Tangela
+2919;Mega Drain;;False;;21;False;False;;Tangela
+2920;SolarBeam;;False;;22;False;False;;Tangela
+2921;Mimic;;False;;31;False;False;;Tangela
+2922;Double Team;;False;;32;False;False;;Tangela
+2923;Bide;;False;;34;False;False;;Tangela
+2924;Skull Bash;;False;;40;False;False;;Tangela
+2925;Rest;;False;;44;False;False;;Tangela
+2926;Substitute;;False;;50;False;False;;Tangela
+2927;Comet Punch;1;False;;;False;False;;Kangaskhan
+2928;Rage;1;False;;20;False;False;;Kangaskhan
+2929;Bite;26;False;;;False;False;;Kangaskhan
+2930;Tail Whip;31;False;;;False;False;;Kangaskhan
+2931;Mega Punch;36;False;;01;False;False;;Kangaskhan
+2932;Leer;41;False;;;False;False;;Kangaskhan
+2933;Dizzy Punch;46;False;;;False;False;;Kangaskhan
+2934;Surf;;False;03;;False;False;;Kangaskhan
+2935;Strength;;False;04;;False;False;;Kangaskhan
+2936;Mega Kick;;False;;05;False;False;;Kangaskhan
+2937;Toxic;;False;;06;False;False;;Kangaskhan
+2938;Body Slam;;False;;08;False;False;;Kangaskhan
+2939;Take Down;;False;;09;False;False;;Kangaskhan
+2940;Double-Edge;;False;;10;False;False;;Kangaskhan
+2941;BubbleBeam;;False;;11;False;False;;Kangaskhan
+2942;Water Gun;;False;;12;False;False;;Kangaskhan
+2943;Ice Beam;;False;;13;False;False;;Kangaskhan
+2944;Blizzard;;False;;14;False;False;;Kangaskhan
+2945;Hyper Beam;;False;;15;False;False;;Kangaskhan
+2946;Submission;;False;;17;False;False;;Kangaskhan
+2947;Counter;;False;;18;False;False;;Kangaskhan
+2948;Seismic Toss;;False;;19;False;False;;Kangaskhan
+2949;Thunderbolt;;False;;24;False;False;;Kangaskhan
+2950;Thunder;;False;;25;False;False;;Kangaskhan
+2951;Earthquake;;False;;26;False;False;;Kangaskhan
+2952;Fissure;;False;;27;False;False;;Kangaskhan
+2953;Mimic;;False;;31;False;False;;Kangaskhan
+2954;Double Team;;False;;32;False;False;;Kangaskhan
+2955;Bide;;False;;34;False;False;;Kangaskhan
+2956;Fire Blast;;False;;38;False;False;;Kangaskhan
+2957;Skull Bash;;False;;40;False;False;;Kangaskhan
+2958;Rest;;False;;44;False;False;;Kangaskhan
+2959;Rock Slide;;False;;48;False;False;;Kangaskhan
+2960;Substitute;;False;;50;False;False;;Kangaskhan
+2961;Bubble;1;False;;;False;False;;Horsea
+2962;SmokeScreen;19;False;;;False;False;;Horsea
+2963;Leer;24;False;;;False;False;;Horsea
+2964;Water Gun;30;False;;12;False;False;;Horsea
+2965;Agility;37;False;;;False;False;;Horsea
+2966;Hydro Pump;45;False;;;False;False;;Horsea
+2967;Surf;;False;03;;False;False;;Horsea
+2968;Toxic;;False;;06;False;False;;Horsea
+2969;Take Down;;False;;09;False;False;;Horsea
+2970;Double-Edge;;False;;10;False;False;;Horsea
+2971;BubbleBeam;;False;;11;False;False;;Horsea
+2972;Ice Beam;;False;;13;False;False;;Horsea
+2973;Blizzard;;False;;14;False;False;;Horsea
+2974;Rage;;False;;20;False;False;;Horsea
+2975;Mimic;;False;;31;False;False;;Horsea
+2976;Double Team;;False;;32;False;False;;Horsea
+2977;Bide;;False;;34;False;False;;Horsea
+2978;Swift;;False;;39;False;False;;Horsea
+2979;Skull Bash;;False;;40;False;False;;Horsea
+2980;Rest;;False;;44;False;False;;Horsea
+2981;Substitute;;False;;50;False;False;;Horsea
+2982;Bubble;1;False;;;False;False;;Seadra
+2983;SmokeScreen;1;False;;;False;False;;Seadra
+2984;SmokeScreen;19;False;;;False;False;;Seadra
+2985;Leer;24;False;;;False;False;;Seadra
+2986;Water Gun;30;False;;12;False;False;;Seadra
+2987;Agility;41;False;;;False;False;;Seadra
+2988;Hydro Pump;52;False;;;False;False;;Seadra
+2989;Surf;;False;03;;False;False;;Seadra
+2990;Toxic;;False;;06;False;False;;Seadra
+2991;Take Down;;False;;09;False;False;;Seadra
+2992;Double-Edge;;False;;10;False;False;;Seadra
+2993;BubbleBeam;;False;;11;False;False;;Seadra
+2994;Ice Beam;;False;;13;False;False;;Seadra
+2995;Blizzard;;False;;14;False;False;;Seadra
+2996;Hyper Beam;;False;;15;False;False;;Seadra
+2997;Rage;;False;;20;False;False;;Seadra
+2998;Mimic;;False;;31;False;False;;Seadra
+2999;Double Team;;False;;32;False;False;;Seadra
+3000;Bide;;False;;34;False;False;;Seadra
+3001;Swift;;False;;39;False;False;;Seadra
+3002;Skull Bash;;False;;40;False;False;;Seadra
+3003;Rest;;False;;44;False;False;;Seadra
+3004;Substitute;;False;;50;False;False;;Seadra
+3005;Peck;1;False;;;False;False;;Goldeen
+3006;Tail Whip;1;False;;;False;False;;Goldeen
+3007;Supersonic;19;False;;;False;False;;Goldeen
+3008;Horn Attack;24;False;;;False;False;;Goldeen
+3009;Fury Attack;30;False;;;False;False;;Goldeen
+3010;Waterfall;37;False;;;False;False;;Goldeen
+3011;Horn Drill;45;False;;07;False;False;;Goldeen
+3012;Agility;54;False;;;False;False;;Goldeen
+3013;Surf;;False;03;;False;False;;Goldeen
+3014;Toxic;;False;;06;False;False;;Goldeen
+3015;Take Down;;False;;09;False;False;;Goldeen
+3016;Double-Edge;;False;;10;False;False;;Goldeen
+3017;BubbleBeam;;False;;11;False;False;;Goldeen
+3018;Water Gun;;False;;12;False;False;;Goldeen
+3019;Ice Beam;;False;;13;False;False;;Goldeen
+3020;Blizzard;;False;;14;False;False;;Goldeen
+3021;Rage;;False;;20;False;False;;Goldeen
+3022;Mimic;;False;;31;False;False;;Goldeen
+3023;Double Team;;False;;32;False;False;;Goldeen
+3024;Bide;;False;;34;False;False;;Goldeen
+3025;Swift;;False;;39;False;False;;Goldeen
+3026;Skull Bash;;False;;40;False;False;;Goldeen
+3027;Rest;;False;;44;False;False;;Goldeen
+3028;Substitute;;False;;50;False;False;;Goldeen
+3029;Tackle;1;False;;;False;False;;Staryu
+3030;Water Gun;17;False;;12;False;False;;Staryu
+3031;Harden;22;False;;;False;False;;Staryu
+3032;Recover;27;False;;;False;False;;Staryu
+3033;Swift;32;False;;39;False;False;;Staryu
+3034;Minimize;37;False;;;False;False;;Staryu
+3035;Light Screen;42;False;;;False;False;;Staryu
+3036;Hydro Pump;47;False;;;False;False;;Staryu
+3037;Surf;;False;03;;False;False;;Staryu
+3038;Flash;;False;05;;False;False;;Staryu
+3039;Toxic;;False;;06;False;False;;Staryu
+3040;Take Down;;False;;09;False;False;;Staryu
+3041;Double-Edge;;False;;10;False;False;;Staryu
+3042;BubbleBeam;;False;;11;False;False;;Staryu
+3043;Ice Beam;;False;;13;False;False;;Staryu
+3044;Blizzard;;False;;14;False;False;;Staryu
+3045;Rage;;False;;20;False;False;;Staryu
+3046;Thunderbolt;;False;;24;False;False;;Staryu
+3047;Thunder;;False;;25;False;False;;Staryu
+3048;Psychic;;False;;29;False;False;;Staryu
+3049;Teleport;;False;;30;False;False;;Staryu
+3050;Mimic;;False;;31;False;False;;Staryu
+3051;Double Team;;False;;32;False;False;;Staryu
+3052;Reflect;;False;;33;False;False;;Staryu
+3053;Bide;;False;;34;False;False;;Staryu
+3054;Skull Bash;;False;;40;False;False;;Staryu
+3055;Rest;;False;;44;False;False;;Staryu
+3056;Thunder Wave;;False;;45;False;False;;Staryu
+3057;Psywave;;False;;46;False;False;;Staryu
+3058;Tri Attack;;False;;49;False;False;;Staryu
+3059;Substitute;;False;;50;False;False;;Staryu
+3060;Peck;1;False;;;False;False;;Seaking
+3061;Supersonic;1;False;;;False;False;;Seaking
+3062;Supersonic;19;False;;;False;False;;Seaking
+3063;Tail Whip;1;False;;;False;False;;Seaking
+3064;Horn Attack;24;False;;;False;False;;Seaking
+3065;Fury Attack;30;False;;;False;False;;Seaking
+3066;Waterfall;39;False;;;False;False;;Seaking
+3067;Horn Drill;48;False;;07;False;False;;Seaking
+3068;Agility;54;False;;;False;False;;Seaking
+3069;Surf;;False;03;;False;False;;Seaking
+3070;Toxic;;False;;06;False;False;;Seaking
+3071;Take Down;;False;;09;False;False;;Seaking
+3072;Double-Edge;;False;;10;False;False;;Seaking
+3073;BubbleBeam;;False;;11;False;False;;Seaking
+3074;Water Gun;;False;;12;False;False;;Seaking
+3075;Ice Beam;;False;;13;False;False;;Seaking
+3076;Blizzard;;False;;14;False;False;;Seaking
+3077;Hyper Beam;;False;;15;False;False;;Seaking
+3078;Rage;;False;;20;False;False;;Seaking
+3079;Mimic;;False;;31;False;False;;Seaking
+3080;Double Team;;False;;32;False;False;;Seaking
+3081;Bide;;False;;34;False;False;;Seaking
+3082;Swift;;False;;39;False;False;;Seaking
+3083;Skull Bash;;False;;40;False;False;;Seaking
+3084;Rest;;False;;44;False;False;;Seaking
+3085;Substitute;;False;;50;False;False;;Seaking
+3086;Harden;1;False;;;False;False;;Starmie
+3087;Tackle;1;False;;;False;False;;Starmie
+3088;Water Gun;1;False;;12;False;False;;Starmie
+3089;Hydro Pump;;True;;;False;False;;Starmie
+3090;Light Screen;;True;;;False;False;;Starmie
+3091;Minimize;;True;;;False;False;;Starmie
+3092;Recover;;True;;;False;False;;Starmie
+3093;Swift;;True;;39;False;False;;Starmie
+3094;Surf;;False;03;;False;False;;Starmie
+3095;Flash;;False;05;;False;False;;Starmie
+3096;Toxic;;False;;06;False;False;;Starmie
+3097;Take Down;;False;;09;False;False;;Starmie
+3098;Double-Edge;;False;;10;False;False;;Starmie
+3099;BubbleBeam;;False;;11;False;False;;Starmie
+3100;Ice Beam;;False;;13;False;False;;Starmie
+3101;Blizzard;;False;;14;False;False;;Starmie
+3102;Hyper Beam;;False;;15;False;False;;Starmie
+3103;Rage;;False;;20;False;False;;Starmie
+3104;Thunderbolt;;False;;24;False;False;;Starmie
+3105;Thunder;;False;;25;False;False;;Starmie
+3106;Psychic;;False;;29;False;False;;Starmie
+3107;Teleport;;False;;30;False;False;;Starmie
+3108;Mimic;;False;;31;False;False;;Starmie
+3109;Double Team;;False;;32;False;False;;Starmie
+3110;Reflect;;False;;33;False;False;;Starmie
+3111;Bide;;False;;34;False;False;;Starmie
+3112;Skull Bash;;False;;40;False;False;;Starmie
+3113;Rest;;False;;44;False;False;;Starmie
+3114;Thunder Wave;;False;;45;False;False;;Starmie
+3115;Psywave;;False;;46;False;False;;Starmie
+3116;Tri Attack;;False;;49;False;False;;Starmie
+3117;Substitute;;False;;50;False;False;;Starmie
+3118;Quick Attack;1;False;;;False;False;;Scyther
+3119;Leer;17;False;;;False;False;;Scyther
+3120;Focus Energy;20;False;;;False;False;;Scyther
+3121;Double Team;24;False;;32;False;False;;Scyther
+3122;Slash;29;False;;;False;False;;Scyther
+3123;Swords Dance;35;False;;03;False;False;;Scyther
+3124;Agility;42;False;;;False;False;;Scyther
+3125;Cut;;False;01;;False;False;;Scyther
+3126;Toxic;;False;;06;False;False;;Scyther
+3127;Take Down;;False;;09;False;False;;Scyther
+3128;Double-Edge;;False;;10;False;False;;Scyther
+3129;Hyper Beam;;False;;15;False;False;;Scyther
+3130;Rage;;False;;20;False;False;;Scyther
+3131;Mimic;;False;;31;False;False;;Scyther
+3132;Bide;;False;;34;False;False;;Scyther
+3133;Swift;;False;;39;False;False;;Scyther
+3134;Skull Bash;;False;;40;False;False;;Scyther
+3135;Rest;;False;;44;False;False;;Scyther
+3136;Substitute;;False;;50;False;False;;Scyther
+3137;Lovely Kiss;1;False;;;False;False;;Jynx
+3138;Pound;1;False;;;False;False;;Jynx
+3139;Lick;18;False;;;False;False;;Jynx
+3140;DoubleSlap;23;False;;;False;False;;Jynx
+3141;Ice Punch;31;False;;;False;False;;Jynx
+3142;Body Slam;39;False;;08;False;False;;Jynx
+3143;Thrash;47;False;;;False;False;;Jynx
+3144;Blizzard;58;False;;14;False;False;;Jynx
+3145;Mega Punch;;False;;01;False;False;;Jynx
+3146;Mega Kick;;False;;05;False;False;;Jynx
+3147;Toxic;;False;;06;False;False;;Jynx
+3148;Take Down;;False;;09;False;False;;Jynx
+3149;Double-Edge;;False;;10;False;False;;Jynx
+3150;BubbleBeam;;False;;11;False;False;;Jynx
+3151;Water Gun;;False;;12;False;False;;Jynx
+3152;Ice Beam;;False;;13;False;False;;Jynx
+3153;Hyper Beam;;False;;15;False;False;;Jynx
+3154;Submission;;False;;17;False;False;;Jynx
+3155;Counter;;False;;18;False;False;;Jynx
+3156;Seismic Toss;;False;;19;False;False;;Jynx
+3157;Rage;;False;;20;False;False;;Jynx
+3158;Psychic;;False;;29;False;False;;Jynx
+3159;Teleport;;False;;30;False;False;;Jynx
+3160;Mimic;;False;;31;False;False;;Jynx
+3161;Double Team;;False;;32;False;False;;Jynx
+3162;Reflect;;False;;33;False;False;;Jynx
+3163;Bide;;False;;34;False;False;;Jynx
+3164;Metronome;;False;;35;False;False;;Jynx
+3165;Skull Bash;;False;;40;False;False;;Jynx
+3166;Rest;;False;;44;False;False;;Jynx
+3167;Psywave;;False;;46;False;False;;Jynx
+3168;Substitute;;False;;50;False;False;;Jynx
+3169;Leer;1;False;;;False;False;;Electabuzz
+3170;Quick Attack;1;False;;;False;False;;Electabuzz
+3171;ThunderShock;34;False;;;False;False;;Electabuzz
+3172;Screech;37;False;;;False;False;;Electabuzz
+3173;ThunderPunch;42;False;;;False;False;;Electabuzz
+3174;Light Screen;49;False;;;False;False;;Electabuzz
+3175;Thunder;54;False;;25;False;False;;Electabuzz
+3176;Strength;;False;04;;False;False;;Electabuzz
+3177;Flash;;False;05;;False;False;;Electabuzz
+3178;Mega Punch;;False;;01;False;False;;Electabuzz
+3179;Mega Kick;;False;;05;False;False;;Electabuzz
+3180;Toxic;;False;;06;False;False;;Electabuzz
+3181;Body Slam;;False;;08;False;False;;Electabuzz
+3182;Take Down;;False;;09;False;False;;Electabuzz
+3183;Double-Edge;;False;;10;False;False;;Electabuzz
+3184;Hyper Beam;;False;;15;False;False;;Electabuzz
+3185;Submission;;False;;17;False;False;;Electabuzz
+3186;Counter;;False;;18;False;False;;Electabuzz
+3187;Seismic Toss;;False;;19;False;False;;Electabuzz
+3188;Rage;;False;;20;False;False;;Electabuzz
+3189;Thunderbolt;;False;;24;False;False;;Electabuzz
+3190;Psychic;;False;;29;False;False;;Electabuzz
+3191;Teleport;;False;;30;False;False;;Electabuzz
+3192;Mimic;;False;;31;False;False;;Electabuzz
+3193;Double Team;;False;;32;False;False;;Electabuzz
+3194;Reflect;;False;;33;False;False;;Electabuzz
+3195;Bide;;False;;34;False;False;;Electabuzz
+3196;Metronome;;False;;35;False;False;;Electabuzz
+3197;Swift;;False;;39;False;False;;Electabuzz
+3198;Skull Bash;;False;;40;False;False;;Electabuzz
+3199;Rest;;False;;44;False;False;;Electabuzz
+3200;Thunder Wave;;False;;45;False;False;;Electabuzz
+3201;Psywave;;False;;46;False;False;;Electabuzz
+3202;Substitute;;False;;50;False;False;;Electabuzz
+3203;Ember;1;False;;;False;False;;Magmar
+3204;Leer;36;False;;;False;False;;Magmar
+3205;Confuse Ray;39;False;;;False;False;;Magmar
+3206;Fire Punch;43;False;;;False;False;;Magmar
+3207;SmokeScreen;48;False;;;False;False;;Magmar
+3208;Smog;52;False;;;False;False;;Magmar
+3209;Flamethrower;55;False;;;False;False;;Magmar
+3210;Strength;;False;04;;False;False;;Magmar
+3211;Mega Punch;;False;;01;False;False;;Magmar
+3212;Mega Kick;;False;;05;False;False;;Magmar
+3213;Toxic;;False;;06;False;False;;Magmar
+3214;Body Slam;;False;;08;False;False;;Magmar
+3215;Take Down;;False;;09;False;False;;Magmar
+3216;Double-Edge;;False;;10;False;False;;Magmar
+3217;Hyper Beam;;False;;15;False;False;;Magmar
+3218;Submission;;False;;17;False;False;;Magmar
+3219;Counter;;False;;18;False;False;;Magmar
+3220;Seismic Toss;;False;;19;False;False;;Magmar
+3221;Rage;;False;;20;False;False;;Magmar
+3222;Psychic;;False;;29;False;False;;Magmar
+3223;Teleport;;False;;30;False;False;;Magmar
+3224;Mimic;;False;;31;False;False;;Magmar
+3225;Double Team;;False;;32;False;False;;Magmar
+3226;Bide;;False;;34;False;False;;Magmar
+3227;Metronome;;False;;35;False;False;;Magmar
+3228;Fire Blast;;False;;38;False;False;;Magmar
+3229;Skull Bash;;False;;40;False;False;;Magmar
+3230;Rest;;False;;44;False;False;;Magmar
+3231;Psywave;;False;;46;False;False;;Magmar
+3232;Substitute;;False;;50;False;False;;Magmar
+3233;ViceGrip;1;False;;;False;False;;Pinsir
+3234;Seismic Toss;25;False;;19;False;False;;Pinsir
+3235;Guillotine;30;False;;;False;False;;Pinsir
+3236;Focus Energy;36;False;;;False;False;;Pinsir
+3237;Harden;43;False;;;False;False;;Pinsir
+3238;Slash;49;False;;;False;False;;Pinsir
+3239;Swords Dance;54;False;;03;False;False;;Pinsir
+3240;Cut;;False;01;;False;False;;Pinsir
+3241;Strength;;False;04;;False;False;;Pinsir
+3242;Toxic;;False;;06;False;False;;Pinsir
+3243;Body Slam;;False;;08;False;False;;Pinsir
+3244;Take Down;;False;;09;False;False;;Pinsir
+3245;Double-Edge;;False;;10;False;False;;Pinsir
+3246;Hyper Beam;;False;;15;False;False;;Pinsir
+3247;Submission;;False;;17;False;False;;Pinsir
+3248;Rage;;False;;20;False;False;;Pinsir
+3249;Mimic;;False;;31;False;False;;Pinsir
+3250;Double Team;;False;;32;False;False;;Pinsir
+3251;Bide;;False;;34;False;False;;Pinsir
+3252;Rest;;False;;44;False;False;;Pinsir
+3253;Substitute;;False;;50;False;False;;Pinsir
+3254;Tackle;1;False;;;False;False;;Tauros
+3255;Stomp;21;False;;;False;False;;Tauros
+3256;Tail Whip;28;False;;;False;False;;Tauros
+3257;Leer;35;False;;;False;False;;Tauros
+3258;Rage;44;False;;20;False;False;;Tauros
+3259;Take Down;51;False;;09;False;False;;Tauros
+3260;Strength;;False;04;;False;False;;Tauros
+3261;Toxic;;False;;06;False;False;;Tauros
+3262;Horn Drill;;False;;07;False;False;;Tauros
+3263;Body Slam;;False;;08;False;False;;Tauros
+3264;Double-Edge;;False;;10;False;False;;Tauros
+3265;Ice Beam;;False;;13;False;False;;Tauros
+3266;Blizzard;;False;;14;False;False;;Tauros
+3267;Hyper Beam;;False;;15;False;False;;Tauros
+3268;Thunderbolt;;False;;24;False;False;;Tauros
+3269;Thunder;;False;;25;False;False;;Tauros
+3270;Earthquake;;False;;26;False;False;;Tauros
+3271;Fissure;;False;;27;False;False;;Tauros
+3272;Mimic;;False;;31;False;False;;Tauros
+3273;Double Team;;False;;32;False;False;;Tauros
+3274;Bide;;False;;34;False;False;;Tauros
+3275;Fire Blast;;False;;38;False;False;;Tauros
+3276;Skull Bash;;False;;40;False;False;;Tauros
+3277;Rest;;False;;44;False;False;;Tauros
+3278;Substitute;;False;;50;False;False;;Tauros
+3279;Splash;1;False;;;False;False;;Magikarp
+3280;Tackle;15;False;;;False;False;;Magikarp
+3281;Bite;1;False;;;False;False;;Gyarados
+3282;Bite;20;False;;;False;False;;Gyarados
+3283;Dragon Rage;1;False;;23;False;False;;Gyarados
+3284;Dragon Rage;25;False;;23;False;False;;Gyarados
+3285;Hydro Pump;1;False;;;False;False;;Gyarados
+3286;Hydro Pump;41;False;;;False;False;;Gyarados
+3287;Leer;1;False;;;False;False;;Gyarados
+3288;Leer;32;False;;;False;False;;Gyarados
+3289;Hyper Beam;52;False;;15;False;False;;Gyarados
+3290;Splash;;True;;;False;False;;Gyarados
+3291;Tackle;;True;;;False;False;;Gyarados
+3292;Surf;;False;03;;False;False;;Gyarados
+3293;Strength;;False;04;;False;False;;Gyarados
+3294;Toxic;;False;;06;False;False;;Gyarados
+3295;Body Slam;;False;;08;False;False;;Gyarados
+3296;Take Down;;False;;09;False;False;;Gyarados
+3297;Double-Edge;;False;;10;False;False;;Gyarados
+3298;BubbleBeam;;False;;11;False;False;;Gyarados
+3299;Water Gun;;False;;12;False;False;;Gyarados
+3300;Ice Beam;;False;;13;False;False;;Gyarados
+3301;Blizzard;;False;;14;False;False;;Gyarados
+3302;Rage;;False;;20;False;False;;Gyarados
+3303;Thunderbolt;;False;;24;False;False;;Gyarados
+3304;Thunder;;False;;25;False;False;;Gyarados
+3305;Mimic;;False;;31;False;False;;Gyarados
+3306;Double Team;;False;;32;False;False;;Gyarados
+3307;Reflect;;False;;33;False;False;;Gyarados
+3308;Bide;;False;;34;False;False;;Gyarados
+3309;Fire Blast;;False;;38;False;False;;Gyarados
+3310;Skull Bash;;False;;40;False;False;;Gyarados
+3311;Rest;;False;;44;False;False;;Gyarados
+3312;Substitute;;False;;50;False;False;;Gyarados
+3313;Growl;1;False;;;False;False;;Lapras
+3314;Water Gun;1;False;;12;False;False;;Lapras
+3315;Sing;16;False;;;False;False;;Lapras
+3316;Mist;20;False;;;False;False;;Lapras
+3317;Body Slam;25;False;;08;False;False;;Lapras
+3318;Confuse Ray;31;False;;;False;False;;Lapras
+3319;Ice Beam;38;False;;13;False;False;;Lapras
+3320;Hydro Pump;46;False;;;False;False;;Lapras
+3321;Surf;;False;03;;False;False;;Lapras
+3322;Strength;;False;04;;False;False;;Lapras
+3323;Toxic;;False;;06;False;False;;Lapras
+3324;Horn Drill;;False;;07;False;False;;Lapras
+3325;Take Down;;False;;09;False;False;;Lapras
+3326;Double-Edge;;False;;10;False;False;;Lapras
+3327;BubbleBeam;;False;;11;False;False;;Lapras
+3328;Blizzard;;False;;14;False;False;;Lapras
+3329;Hyper Beam;;False;;15;False;False;;Lapras
+3330;Rage;;False;;20;False;False;;Lapras
+3331;SolarBeam;;False;;22;False;False;;Lapras
+3332;Dragon Rage;;False;;23;False;False;;Lapras
+3333;Thunderbolt;;False;;24;False;False;;Lapras
+3334;Thunder;;False;;25;False;False;;Lapras
+3335;Psychic;;False;;29;False;False;;Lapras
+3336;Mimic;;False;;31;False;False;;Lapras
+3337;Double Team;;False;;32;False;False;;Lapras
+3338;Reflect;;False;;33;False;False;;Lapras
+3339;Bide;;False;;34;False;False;;Lapras
+3340;Skull Bash;;False;;40;False;False;;Lapras
+3341;Rest;;False;;44;False;False;;Lapras
+3342;Psywave;;False;;46;False;False;;Lapras
+3343;Substitute;;False;;50;False;False;;Lapras
+3344;Transform;1;False;;;False;False;;Ditto
+3345;Sand-Attack;1;False;;;False;False;;Eevee
+3346;Tackle;1;False;;;False;False;;Eevee
+3347;Quick Attack;27;False;;;False;False;;Eevee
+3348;Tail Whip;31;False;;;False;False;;Eevee
+3349;Bite;37;False;;;False;False;;Eevee
+3350;Take Down;45;False;;09;False;False;;Eevee
+3351;Toxic;;False;;06;False;False;;Eevee
+3352;Body Slam;;False;;08;False;False;;Eevee
+3353;Double-Edge;;False;;10;False;False;;Eevee
+3354;Rage;;False;;20;False;False;;Eevee
+3355;Mimic;;False;;31;False;False;;Eevee
+3356;Double Team;;False;;32;False;False;;Eevee
+3357;Reflect;;False;;33;False;False;;Eevee
+3358;Bide;;False;;34;False;False;;Eevee
+3359;Swift;;False;;39;False;False;;Eevee
+3360;Skull Bash;;False;;40;False;False;;Eevee
+3361;Rest;;False;;44;False;False;;Eevee
+3362;Substitute;;False;;50;False;False;;Eevee
+3363;Quick Attack;1;False;;;False;False;;Vaporeon
+3364;Quick Attack;27;False;;;False;False;;Vaporeon
+3365;Sand-Attack;1;False;;;False;False;;Vaporeon
+3366;Tackle;1;False;;;False;False;;Vaporeon
+3367;Water Gun;1;False;;12;False;False;;Vaporeon
+3368;Water Gun;31;False;;12;False;False;;Vaporeon
+3369;Tail Whip;37;False;;;False;False;;Vaporeon
+3370;Bite;40;False;;;False;False;;Vaporeon
+3371;Acid Armor;42;False;;;False;False;;Vaporeon
+3372;Haze;44;False;;;False;False;;Vaporeon
+3373;Mist;48;False;;;False;False;;Vaporeon
+3374;Hydro Pump;54;False;;;False;False;;Vaporeon
+3375;Take Down;;True;;09;False;False;;Vaporeon
+3376;Surf;;False;03;;False;False;;Vaporeon
+3377;Toxic;;False;;06;False;False;;Vaporeon
+3378;Body Slam;;False;;08;False;False;;Vaporeon
+3379;Double-Edge;;False;;10;False;False;;Vaporeon
+3380;BubbleBeam;;False;;11;False;False;;Vaporeon
+3381;Ice Beam;;False;;13;False;False;;Vaporeon
+3382;Blizzard;;False;;14;False;False;;Vaporeon
+3383;Hyper Beam;;False;;15;False;False;;Vaporeon
+3384;Rage;;False;;20;False;False;;Vaporeon
+3385;Mimic;;False;;31;False;False;;Vaporeon
+3386;Double Team;;False;;32;False;False;;Vaporeon
+3387;Reflect;;False;;33;False;False;;Vaporeon
+3388;Bide;;False;;34;False;False;;Vaporeon
+3389;Swift;;False;;39;False;False;;Vaporeon
+3390;Skull Bash;;False;;40;False;False;;Vaporeon
+3391;Rest;;False;;44;False;False;;Vaporeon
+3392;Substitute;;False;;50;False;False;;Vaporeon
+3393;Quick Attack;1;False;;;False;False;;Jolteon
+3394;Quick Attack;27;False;;;False;False;;Jolteon
+3395;Sand-Attack;1;False;;;False;False;;Jolteon
+3396;Tackle;1;False;;;False;False;;Jolteon
+3397;ThunderShock;1;False;;;False;False;;Jolteon
+3398;ThunderShock;31;False;;;False;False;;Jolteon
+3399;Tail Whip;37;False;;;False;False;;Jolteon
+3400;Thunder Wave;40;False;;45;False;False;;Jolteon
+3401;Double Kick;42;False;;;False;False;;Jolteon
+3402;Agility;44;False;;;False;False;;Jolteon
+3403;Pin Missile;48;False;;;False;False;;Jolteon
+3404;Thunder;54;False;;25;False;False;;Jolteon
+3405;Bite;;True;;;False;False;;Jolteon
+3406;Take Down;;True;;09;False;False;;Jolteon
+3407;Flash;;False;05;;False;False;;Jolteon
+3408;Toxic;;False;;06;False;False;;Jolteon
+3409;Body Slam;;False;;08;False;False;;Jolteon
+3410;Double-Edge;;False;;10;False;False;;Jolteon
+3411;Hyper Beam;;False;;15;False;False;;Jolteon
+3412;Rage;;False;;20;False;False;;Jolteon
+3413;Thunderbolt;;False;;24;False;False;;Jolteon
+3414;Mimic;;False;;31;False;False;;Jolteon
+3415;Double Team;;False;;32;False;False;;Jolteon
+3416;Reflect;;False;;33;False;False;;Jolteon
+3417;Bide;;False;;34;False;False;;Jolteon
+3418;Swift;;False;;39;False;False;;Jolteon
+3419;Skull Bash;;False;;40;False;False;;Jolteon
+3420;Rest;;False;;44;False;False;;Jolteon
+3421;Substitute;;False;;50;False;False;;Jolteon
+3422;Ember;1;False;;;False;False;;Flareon
+3423;Ember;31;False;;;False;False;;Flareon
+3424;Quick Attack;1;False;;;False;False;;Flareon
+3425;Quick Attack;27;False;;;False;False;;Flareon
+3426;Sand-Attack;1;False;;;False;False;;Flareon
+3427;Tackle;1;False;;;False;False;;Flareon
+3428;Tail Whip;37;False;;;False;False;;Flareon
+3429;Bite;40;False;;;False;False;;Flareon
+3430;Leer;42;False;;;False;False;;Flareon
+3431;Fire Spin;44;False;;;False;False;;Flareon
+3432;Rage;48;False;;20;False;False;;Flareon
+3433;Flamethrower;54;False;;;False;False;;Flareon
+3434;Take Down;;True;;09;False;False;;Flareon
+3435;Toxic;;False;;06;False;False;;Flareon
+3436;Body Slam;;False;;08;False;False;;Flareon
+3437;Double-Edge;;False;;10;False;False;;Flareon
+3438;Hyper Beam;;False;;15;False;False;;Flareon
+3439;Mimic;;False;;31;False;False;;Flareon
+3440;Double Team;;False;;32;False;False;;Flareon
+3441;Reflect;;False;;33;False;False;;Flareon
+3442;Bide;;False;;34;False;False;;Flareon
+3443;Fire Blast;;False;;38;False;False;;Flareon
+3444;Swift;;False;;39;False;False;;Flareon
+3445;Skull Bash;;False;;40;False;False;;Flareon
+3446;Rest;;False;;44;False;False;;Flareon
+3447;Substitute;;False;;50;False;False;;Flareon
+3448;Conversion;1;False;;;False;False;;Porygon
+3449;Sharpen;1;False;;;False;False;;Porygon
+3450;Tackle;1;False;;;False;False;;Porygon
+3451;Psybeam;23;False;;;False;False;;Porygon
+3452;Recover;28;False;;;False;False;;Porygon
+3453;Agility;35;False;;;False;False;;Porygon
+3454;Tri Attack;42;False;;49;False;False;;Porygon
+3455;Flash;;False;05;;False;False;;Porygon
+3456;Toxic;;False;;06;False;False;;Porygon
+3457;Take Down;;False;;09;False;False;;Porygon
+3458;Double-Edge;;False;;10;False;False;;Porygon
+3459;Ice Beam;;False;;13;False;False;;Porygon
+3460;Blizzard;;False;;14;False;False;;Porygon
+3461;Hyper Beam;;False;;15;False;False;;Porygon
+3462;Rage;;False;;20;False;False;;Porygon
+3463;Thunderbolt;;False;;24;False;False;;Porygon
+3464;Thunder;;False;;25;False;False;;Porygon
+3465;Psychic;;False;;29;False;False;;Porygon
+3466;Teleport;;False;;30;False;False;;Porygon
+3467;Mimic;;False;;31;False;False;;Porygon
+3468;Double Team;;False;;32;False;False;;Porygon
+3469;Reflect;;False;;33;False;False;;Porygon
+3470;Bide;;False;;34;False;False;;Porygon
+3471;Swift;;False;;39;False;False;;Porygon
+3472;Skull Bash;;False;;40;False;False;;Porygon
+3473;Rest;;False;;44;False;False;;Porygon
+3474;Thunder Wave;;False;;45;False;False;;Porygon
+3475;Psywave;;False;;46;False;False;;Porygon
+3476;Substitute;;False;;50;False;False;;Porygon
+3477;Horn Attack;1;False;;;False;False;;Omastar
+3478;Horn Attack;34;False;;;False;False;;Omastar
+3479;Water Gun;1;False;;12;False;False;;Omastar
+3480;Withdraw;1;False;;;False;False;;Omastar
+3481;Leer;39;False;;;False;False;;Omastar
+3482;Spike Cannon;44;False;;;False;False;;Omastar
+3483;Hydro Pump;49;False;;;False;False;;Omastar
+3484;Surf;;False;03;;False;False;;Omastar
+3485;Toxic;;False;;06;False;False;;Omastar
+3486;Horn Drill;;False;;07;False;False;;Omastar
+3487;Body Slam;;False;;08;False;False;;Omastar
+3488;Take Down;;False;;09;False;False;;Omastar
+3489;Double-Edge;;False;;10;False;False;;Omastar
+3490;BubbleBeam;;False;;11;False;False;;Omastar
+3491;Ice Beam;;False;;13;False;False;;Omastar
+3492;Blizzard;;False;;14;False;False;;Omastar
+3493;Hyper Beam;;False;;15;False;False;;Omastar
+3494;Submission;;False;;17;False;False;;Omastar
+3495;Seismic Toss;;False;;19;False;False;;Omastar
+3496;Rage;;False;;20;False;False;;Omastar
+3497;Mimic;;False;;31;False;False;;Omastar
+3498;Double Team;;False;;32;False;False;;Omastar
+3499;Reflect;;False;;33;False;False;;Omastar
+3500;Bide;;False;;34;False;False;;Omastar
+3501;Skull Bash;;False;;40;False;False;;Omastar
+3502;Rest;;False;;44;False;False;;Omastar
+3503;Substitute;;False;;50;False;False;;Omastar
+3504;Water Gun;1;False;;12;False;False;;Omanyte
+3505;Withdraw;1;False;;;False;False;;Omanyte
+3506;Horn Attack;34;False;;;False;False;;Omanyte
+3507;Leer;39;False;;;False;False;;Omanyte
+3508;Spike Cannon;46;False;;;False;False;;Omanyte
+3509;Hydro Pump;53;False;;;False;False;;Omanyte
+3510;Surf;;False;03;;False;False;;Omanyte
+3511;Toxic;;False;;06;False;False;;Omanyte
+3512;Body Slam;;False;;08;False;False;;Omanyte
+3513;Take Down;;False;;09;False;False;;Omanyte
+3514;Double-Edge;;False;;10;False;False;;Omanyte
+3515;BubbleBeam;;False;;11;False;False;;Omanyte
+3516;Ice Beam;;False;;13;False;False;;Omanyte
+3517;Blizzard;;False;;14;False;False;;Omanyte
+3518;Rage;;False;;20;False;False;;Omanyte
+3519;Mimic;;False;;31;False;False;;Omanyte
+3520;Double Team;;False;;32;False;False;;Omanyte
+3521;Reflect;;False;;33;False;False;;Omanyte
+3522;Bide;;False;;34;False;False;;Omanyte
+3523;Rest;;False;;44;False;False;;Omanyte
+3524;Substitute;;False;;50;False;False;;Omanyte
+3525;Harden;1;False;;;False;False;;Kabuto
+3526;Scratch;1;False;;;False;False;;Kabuto
+3527;Absorb;34;False;;;False;False;;Kabuto
+3528;Slash;39;False;;;False;False;;Kabuto
+3529;Leer;44;False;;;False;False;;Kabuto
+3530;Hydro Pump;49;False;;;False;False;;Kabuto
+3531;Surf;;False;03;;False;False;;Kabuto
+3532;Toxic;;False;;06;False;False;;Kabuto
+3533;Body Slam;;False;;08;False;False;;Kabuto
+3534;Take Down;;False;;09;False;False;;Kabuto
+3535;Double-Edge;;False;;10;False;False;;Kabuto
+3536;BubbleBeam;;False;;11;False;False;;Kabuto
+3537;Water Gun;;False;;12;False;False;;Kabuto
+3538;Ice Beam;;False;;13;False;False;;Kabuto
+3539;Blizzard;;False;;14;False;False;;Kabuto
+3540;Rage;;False;;20;False;False;;Kabuto
+3541;Mimic;;False;;31;False;False;;Kabuto
+3542;Double Team;;False;;32;False;False;;Kabuto
+3543;Reflect;;False;;33;False;False;;Kabuto
+3544;Bide;;False;;34;False;False;;Kabuto
+3545;Rest;;False;;44;False;False;;Kabuto
+3546;Substitute;;False;;50;False;False;;Kabuto
+3547;Absorb;1;False;;;False;False;;Kabutops
+3548;Absorb;34;False;;;False;False;;Kabutops
+3549;Harden;1;False;;;False;False;;Kabutops
+3550;Scratch;1;False;;;False;False;;Kabutops
+3551;Slash;39;False;;;False;False;;Kabutops
+3552;Leer;46;False;;;False;False;;Kabutops
+3553;Hydro Pump;53;False;;;False;False;;Kabutops
+3554;Surf;;False;03;;False;False;;Kabutops
+3555;Razor Wind;;False;;02;False;False;;Kabutops
+3556;Swords Dance;;False;;03;False;False;;Kabutops
+3557;Mega Kick;;False;;05;False;False;;Kabutops
+3558;Toxic;;False;;06;False;False;;Kabutops
+3559;Body Slam;;False;;08;False;False;;Kabutops
+3560;Take Down;;False;;09;False;False;;Kabutops
+3561;Double-Edge;;False;;10;False;False;;Kabutops
+3562;BubbleBeam;;False;;11;False;False;;Kabutops
+3563;Water Gun;;False;;12;False;False;;Kabutops
+3564;Ice Beam;;False;;13;False;False;;Kabutops
+3565;Blizzard;;False;;14;False;False;;Kabutops
+3566;Hyper Beam;;False;;15;False;False;;Kabutops
+3567;Submission;;False;;17;False;False;;Kabutops
+3568;Seismic Toss;;False;;19;False;False;;Kabutops
+3569;Rage;;False;;20;False;False;;Kabutops
+3570;Mimic;;False;;31;False;False;;Kabutops
+3571;Double Team;;False;;32;False;False;;Kabutops
+3572;Reflect;;False;;33;False;False;;Kabutops
+3573;Bide;;False;;34;False;False;;Kabutops
+3574;Skull Bash;;False;;40;False;False;;Kabutops
+3575;Rest;;False;;44;False;False;;Kabutops
+3576;Substitute;;False;;50;False;False;;Kabutops
+3577;Agility;1;False;;;False;False;;Aerodactyl
+3578;Wing Attack;1;False;;;False;False;;Aerodactyl
+3579;Supersonic;33;False;;;False;False;;Aerodactyl
+3580;Bite;38;False;;;False;False;;Aerodactyl
+3581;Take Down;45;False;;09;False;False;;Aerodactyl
+3582;Hyper Beam;54;False;;15;False;False;;Aerodactyl
+3583;Fly;;False;02;;False;False;;Aerodactyl
+3584;Razor Wind;;False;;02;False;False;;Aerodactyl
+3585;Whirlwind;;False;;04;False;False;;Aerodactyl
+3586;Toxic;;False;;06;False;False;;Aerodactyl
+3587;Double-Edge;;False;;10;False;False;;Aerodactyl
+3588;Rage;;False;;20;False;False;;Aerodactyl
+3589;Dragon Rage;;False;;23;False;False;;Aerodactyl
+3590;Mimic;;False;;31;False;False;;Aerodactyl
+3591;Double Team;;False;;32;False;False;;Aerodactyl
+3592;Reflect;;False;;33;False;False;;Aerodactyl
+3593;Bide;;False;;34;False;False;;Aerodactyl
+3594;Fire Blast;;False;;38;False;False;;Aerodactyl
+3595;Swift;;False;;39;False;False;;Aerodactyl
+3596;Sky Attack;;False;;43;False;False;;Aerodactyl
+3597;Rest;;False;;44;False;False;;Aerodactyl
+3598;Substitute;;False;;50;False;False;;Aerodactyl
+3599;Amnesia;1;False;;;False;False;;Snorlax
+3600;Headbutt;1;False;;;False;False;;Snorlax
+3601;Rest;1;False;;44;False;False;;Snorlax
+3602;Body Slam;35;False;;08;False;False;;Snorlax
+3603;Harden;41;False;;;False;False;;Snorlax
+3604;Double-Edge;48;False;;10;False;False;;Snorlax
+3605;Hyper Beam;56;False;;15;False;False;;Snorlax
+3606;Surf;;False;03;;False;False;;Snorlax
+3607;Strength;;False;04;;False;False;;Snorlax
+3608;Mega Punch;;False;;01;False;False;;Snorlax
+3609;Mega Kick;;False;;05;False;False;;Snorlax
+3610;Toxic;;False;;06;False;False;;Snorlax
+3611;Take Down;;False;;09;False;False;;Snorlax
+3612;BubbleBeam;;False;;11;False;False;;Snorlax
+3613;Water Gun;;False;;12;False;False;;Snorlax
+3614;Ice Beam;;False;;13;False;False;;Snorlax
+3615;Blizzard;;False;;14;False;False;;Snorlax
+3616;Pay Day;;False;;16;False;False;;Snorlax
+3617;Submission;;False;;17;False;False;;Snorlax
+3618;Counter;;False;;18;False;False;;Snorlax
+3619;Seismic Toss;;False;;19;False;False;;Snorlax
+3620;Rage;;False;;20;False;False;;Snorlax
+3621;SolarBeam;;False;;22;False;False;;Snorlax
+3622;Thunderbolt;;False;;24;False;False;;Snorlax
+3623;Thunder;;False;;25;False;False;;Snorlax
+3624;Earthquake;;False;;26;False;False;;Snorlax
+3625;Fissure;;False;;27;False;False;;Snorlax
+3626;Psychic;;False;;29;False;False;;Snorlax
+3627;Mimic;;False;;31;False;False;;Snorlax
+3628;Double Team;;False;;32;False;False;;Snorlax
+3629;Reflect;;False;;33;False;False;;Snorlax
+3630;Bide;;False;;34;False;False;;Snorlax
+3631;Metronome;;False;;35;False;False;;Snorlax
+3632;Selfdestruct;;False;;36;False;False;;Snorlax
+3633;Fire Blast;;False;;38;False;False;;Snorlax
+3634;Skull Bash;;False;;40;False;False;;Snorlax
+3635;Psywave;;False;;46;False;False;;Snorlax
+3636;Rock Slide;;False;;48;False;False;;Snorlax
+3637;Substitute;;False;;50;False;False;;Snorlax
+3638;Ice Beam;1;False;;13;False;False;;Articuno
+3639;Peck;1;False;;;False;False;;Articuno
+3640;Blizzard;51;False;;14;False;False;;Articuno
+3641;Agility;55;False;;;False;False;;Articuno
+3642;Mist;60;False;;;False;False;;Articuno
+3643;Fly;;False;02;;False;False;;Articuno
+3644;Razor Wind;;False;;02;False;False;;Articuno
+3645;Whirlwind;;False;;04;False;False;;Articuno
+3646;Toxic;;False;;06;False;False;;Articuno
+3647;Take Down;;False;;09;False;False;;Articuno
+3648;Double-Edge;;False;;10;False;False;;Articuno
+3649;BubbleBeam;;False;;11;False;False;;Articuno
+3650;Water Gun;;False;;12;False;False;;Articuno
+3651;Hyper Beam;;False;;15;False;False;;Articuno
+3652;Rage;;False;;20;False;False;;Articuno
+3653;Mimic;;False;;31;False;False;;Articuno
+3654;Double Team;;False;;32;False;False;;Articuno
+3655;Reflect;;False;;33;False;False;;Articuno
+3656;Bide;;False;;34;False;False;;Articuno
+3657;Swift;;False;;39;False;False;;Articuno
+3658;Sky Attack;;False;;43;False;False;;Articuno
+3659;Rest;;False;;44;False;False;;Articuno
+3660;Substitute;;False;;50;False;False;;Articuno
+3661;Fire Spin;1;False;;;False;False;;Moltres
+3662;Peck;1;False;;;False;False;;Moltres
+3663;Leer;51;False;;;False;False;;Moltres
+3664;Agility;55;False;;;False;False;;Moltres
+3665;Sky Attack;60;False;;43;False;False;;Moltres
+3666;Fly;;False;02;;False;False;;Moltres
+3667;Razor Wind;;False;;02;False;False;;Moltres
+3668;Whirlwind;;False;;04;False;False;;Moltres
+3669;Toxic;;False;;06;False;False;;Moltres
+3670;Take Down;;False;;09;False;False;;Moltres
+3671;Double-Edge;;False;;10;False;False;;Moltres
+3672;Hyper Beam;;False;;15;False;False;;Moltres
+3673;Rage;;False;;20;False;False;;Moltres
+3674;Mimic;;False;;31;False;False;;Moltres
+3675;Double Team;;False;;32;False;False;;Moltres
+3676;Reflect;;False;;33;False;False;;Moltres
+3677;Bide;;False;;34;False;False;;Moltres
+3678;Fire Blast;;False;;38;False;False;;Moltres
+3679;Swift;;False;;39;False;False;;Moltres
+3680;Rest;;False;;44;False;False;;Moltres
+3681;Substitute;;False;;50;False;False;;Moltres
+3682;Drill Peck;1;False;;;False;False;;Zapdos
+3683;ThunderShock;1;False;;;False;False;;Zapdos
+3684;Thunder;51;False;;25;False;False;;Zapdos
+3685;Agility;55;False;;;False;False;;Zapdos
+3686;Light Screen;60;False;;;False;False;;Zapdos
+3687;Fly;;False;02;;False;False;;Zapdos
+3688;Flash;;False;05;;False;False;;Zapdos
+3689;Razor Wind;;False;;02;False;False;;Zapdos
+3690;Whirlwind;;False;;04;False;False;;Zapdos
+3691;Toxic;;False;;06;False;False;;Zapdos
+3692;Take Down;;False;;09;False;False;;Zapdos
+3693;Double-Edge;;False;;10;False;False;;Zapdos
+3694;Hyper Beam;;False;;15;False;False;;Zapdos
+3695;Rage;;False;;20;False;False;;Zapdos
+3696;Thunderbolt;;False;;24;False;False;;Zapdos
+3697;Mimic;;False;;31;False;False;;Zapdos
+3698;Double Team;;False;;32;False;False;;Zapdos
+3699;Reflect;;False;;33;False;False;;Zapdos
+3700;Bide;;False;;34;False;False;;Zapdos
+3701;Swift;;False;;39;False;False;;Zapdos
+3702;Sky Attack;;False;;43;False;False;;Zapdos
+3703;Rest;;False;;44;False;False;;Zapdos
+3704;Thunder Wave;;False;;45;False;False;;Zapdos
+3705;Substitute;;False;;50;False;False;;Zapdos
+3706;Leer;1;False;;;False;False;;Dratini
+3707;Wrap;1;False;;;False;False;;Dratini
+3708;Thunder Wave;10;False;;45;False;False;;Dratini
+3709;Agility;20;False;;;False;False;;Dratini
+3710;Slam;30;False;;;False;False;;Dratini
+3711;Dragon Rage;40;False;;23;False;False;;Dratini
+3712;Hyper Beam;50;False;;;False;False;;Dratini
+3713;Surf;;False;03;;False;False;;Dratini
+3714;Toxic;;False;;06;False;False;;Dratini
+3715;Body Slam;;False;;08;False;False;;Dratini
+3716;Take Down;;False;;09;False;False;;Dratini
+3717;Double-Edge;;False;;10;False;False;;Dratini
+3718;BubbleBeam;;False;;11;False;False;;Dratini
+3719;Water Gun;;False;;12;False;False;;Dratini
+3720;Ice Beam;;False;;13;False;False;;Dratini
+3721;Blizzard;;False;;14;False;False;;Dratini
+3722;Rage;;False;;20;False;False;;Dratini
+3723;Thunderbolt;;False;;24;False;False;;Dratini
+3724;Thunder;;False;;25;False;False;;Dratini
+3725;Mimic;;False;;31;False;False;;Dratini
+3726;Double Team;;False;;32;False;False;;Dratini
+3727;Reflect;;False;;33;False;False;;Dratini
+3728;Bide;;False;;34;False;False;;Dratini
+3729;Fire Blast;;False;;38;False;False;;Dratini
+3730;Swift;;False;;39;False;False;;Dratini
+3731;Skull Bash;;False;;40;False;False;;Dratini
+3732;Rest;;False;;44;False;False;;Dratini
+3733;Substitute;;False;;50;False;False;;Dratini
+3734;Leer;1;False;;;False;False;;Dragonair
+3735;Thunder Wave;1;False;;45;False;False;;Dragonair
+3736;Thunder Wave;10;False;;45;False;False;;Dragonair
+3737;Wrap;1;False;;;False;False;;Dragonair
+3738;Agility;20;False;;;False;False;;Dragonair
+3739;Slam;35;False;;;False;False;;Dragonair
+3740;Dragon Rage;45;False;;23;False;False;;Dragonair
+3741;Hyper Beam;55;False;;;False;False;;Dragonair
+3742;Surf;;False;03;;False;False;;Dragonair
+3743;Toxic;;False;;06;False;False;;Dragonair
+3744;Horn Drill;;False;;07;False;False;;Dragonair
+3745;Body Slam;;False;;08;False;False;;Dragonair
+3746;Take Down;;False;;09;False;False;;Dragonair
+3747;Double-Edge;;False;;10;False;False;;Dragonair
+3748;BubbleBeam;;False;;11;False;False;;Dragonair
+3749;Water Gun;;False;;12;False;False;;Dragonair
+3750;Ice Beam;;False;;13;False;False;;Dragonair
+3751;Blizzard;;False;;14;False;False;;Dragonair
+3752;Rage;;False;;20;False;False;;Dragonair
+3753;Thunderbolt;;False;;24;False;False;;Dragonair
+3754;Thunder;;False;;25;False;False;;Dragonair
+3755;Mimic;;False;;31;False;False;;Dragonair
+3756;Double Team;;False;;32;False;False;;Dragonair
+3757;Reflect;;False;;33;False;False;;Dragonair
+3758;Bide;;False;;34;False;False;;Dragonair
+3759;Fire Blast;;False;;38;False;False;;Dragonair
+3760;Swift;;False;;39;False;False;;Dragonair
+3761;Skull Bash;;False;;40;False;False;;Dragonair
+3762;Rest;;False;;44;False;False;;Dragonair
+3763;Substitute;;False;;50;False;False;;Dragonair
+3764;Agility;1;False;;;False;False;;Dragonite
+3765;Agility;20;False;;;False;False;;Dragonite
+3766;Leer;1;False;;;False;False;;Dragonite
+3767;Thunder Wave;1;False;;45;False;False;;Dragonite
+3768;Thunder Wave;10;False;;45;False;False;;Dragonite
+3769;Wrap;1;False;;;False;False;;Dragonite
+3770;Slam;35;False;;;False;False;;Dragonite
+3771;Dragon Rage;45;False;;23;False;False;;Dragonite
+3772;Hyper Beam;60;False;;15;False;False;;Dragonite
+3773;Surf;;False;03;;False;False;;Dragonite
+3774;Strength;;False;04;;False;False;;Dragonite
+3775;Razor Wind;;False;;02;False;False;;Dragonite
+3776;Toxic;;False;;06;False;False;;Dragonite
+3777;Horn Drill;;False;;07;False;False;;Dragonite
+3778;Body Slam;;False;;08;False;False;;Dragonite
+3779;Take Down;;False;;09;False;False;;Dragonite
+3780;Double-Edge;;False;;10;False;False;;Dragonite
+3781;BubbleBeam;;False;;11;False;False;;Dragonite
+3782;Water Gun;;False;;12;False;False;;Dragonite
+3783;Ice Beam;;False;;13;False;False;;Dragonite
+3784;Blizzard;;False;;14;False;False;;Dragonite
+3785;Rage;;False;;20;False;False;;Dragonite
+3786;Thunderbolt;;False;;24;False;False;;Dragonite
+3787;Thunder;;False;;25;False;False;;Dragonite
+3788;Mimic;;False;;31;False;False;;Dragonite
+3789;Double Team;;False;;32;False;False;;Dragonite
+3790;Reflect;;False;;33;False;False;;Dragonite
+3791;Bide;;False;;34;False;False;;Dragonite
+3792;Fire Blast;;False;;38;False;False;;Dragonite
+3793;Swift;;False;;39;False;False;;Dragonite
+3794;Skull Bash;;False;;40;False;False;;Dragonite
+3795;Rest;;False;;44;False;False;;Dragonite
+3796;Substitute;;False;;50;False;False;;Dragonite
+3797;Confusion;1;False;;;False;False;;Mewtwo
+3798;Disable;1;False;;;False;False;;Mewtwo
+3799;Psychic;1;False;;29;False;False;;Mewtwo
+3800;Psychic;66;False;;29;False;False;;Mewtwo
+3801;Swift;1;False;;;False;False;;Mewtwo
+3802;Barrier;63;False;;;False;False;;Mewtwo
+3803;Recover;70;False;;;False;False;;Mewtwo
+3804;Mist;75;False;;;False;False;;Mewtwo
+3805;Amnesia;81;False;;;False;False;;Mewtwo
+3806;Strength;;False;04;;False;False;;Mewtwo
+3807;Flash;;False;05;;False;False;;Mewtwo
+3808;Mega Punch;;False;;01;False;False;;Mewtwo
+3809;Mega Kick;;False;;05;False;False;;Mewtwo
+3810;Toxic;;False;;06;False;False;;Mewtwo
+3811;Body Slam;;False;;08;False;False;;Mewtwo
+3812;Take Down;;False;;09;False;False;;Mewtwo
+3813;Double-Edge;;False;;10;False;False;;Mewtwo
+3814;BubbleBeam;;False;;11;False;False;;Mewtwo
+3815;Water Gun;;False;;12;False;False;;Mewtwo
+3816;Ice Beam;;False;;13;False;False;;Mewtwo
+3817;Blizzard;;False;;14;False;False;;Mewtwo
+3818;Hyper Beam;;False;;15;False;False;;Mewtwo
+3819;Pay Day;;False;;16;False;False;;Mewtwo
+3820;Submission;;False;;17;False;False;;Mewtwo
+3821;Counter;;False;;18;False;False;;Mewtwo
+3822;Seismic Toss;;False;;19;False;False;;Mewtwo
+3823;Rage;;False;;20;False;False;;Mewtwo
+3824;SolarBeam;;False;;22;False;False;;Mewtwo
+3825;Thunderbolt;;False;;24;False;False;;Mewtwo
+3826;Thunder;;False;;25;False;False;;Mewtwo
+3827;Teleport;;False;;30;False;False;;Mewtwo
+3828;Mimic;;False;;31;False;False;;Mewtwo
+3829;Double Team;;False;;32;False;False;;Mewtwo
+3830;Reflect;;False;;33;False;False;;Mewtwo
+3831;Bide;;False;;34;False;False;;Mewtwo
+3832;Metronome;;False;;35;False;False;;Mewtwo
+3833;Selfdestruct;;False;;36;False;False;;Mewtwo
+3834;Fire Blast;;False;;38;False;False;;Mewtwo
+3835;Skull Bash;;False;;40;False;False;;Mewtwo
+3836;Rest;;False;;44;False;False;;Mewtwo
+3837;Thunder Wave;;False;;45;False;False;;Mewtwo
+3838;Psywave;;False;;46;False;False;;Mewtwo
+3839;Tri Attack;;False;;49;False;False;;Mewtwo
+3840;Substitute;;False;;50;False;False;;Mewtwo
+3841;Pound;1;False;;;False;False;;Mew
+3842;Transform;10;False;;;False;False;;Mew
+3843;Mega Punch;20;False;;01;False;False;;Mew
+3844;Metronome;30;False;;35;False;False;;Mew
+3845;Psychic;40;False;;29;False;False;;Mew
+3846;Cut;;False;01;;False;False;;Mew
+3847;Fly;;False;02;;False;False;;Mew
+3848;Surf;;False;03;;False;False;;Mew
+3849;Strength;;False;04;;False;False;;Mew
+3850;Flash;;False;05;;False;False;;Mew
+3851;Razor Wind;;False;;02;False;False;;Mew
+3852;Swords Dance;;False;;03;False;False;;Mew
+3853;Whirlwind;;False;;04;False;False;;Mew
+3854;Mega Kick;;False;;05;False;False;;Mew
+3855;Toxic;;False;;06;False;False;;Mew
+3856;Horn Drill;;False;;07;False;False;;Mew
+3857;Body Slam;;False;;08;False;False;;Mew
+3858;Take Down;;False;;09;False;False;;Mew
+3859;Double-Edge;;False;;10;False;False;;Mew
+3860;BubbleBeam;;False;;11;False;False;;Mew
+3861;Water Gun;;False;;12;False;False;;Mew
+3862;Ice Beam;;False;;13;False;False;;Mew
+3863;Blizzard;;False;;14;False;False;;Mew
+3864;Hyper Beam;;False;;15;False;False;;Mew
+3865;Pay Day;;False;;16;False;False;;Mew
+3866;Submission;;False;;17;False;False;;Mew
+3867;Counter;;False;;18;False;False;;Mew
+3868;Seismic Toss;;False;;19;False;False;;Mew
+3869;Rage;;False;;20;False;False;;Mew
+3870;Mega Drain;;False;;21;False;False;;Mew
+3871;SolarBeam;;False;;22;False;False;;Mew
+3872;Dragon Rage;;False;;23;False;False;;Mew
+3873;Thunderbolt;;False;;24;False;False;;Mew
+3874;Thunder;;False;;25;False;False;;Mew
+3875;Earthquake;;False;;26;False;False;;Mew
+3876;Fissure;;False;;27;False;False;;Mew
+3877;Dig;;False;;28;False;False;;Mew
+3878;Teleport;;False;;30;False;False;;Mew
+3879;Mimic;;False;;31;False;False;;Mew
+3880;Double Team;;False;;32;False;False;;Mew
+3881;Reflect;;False;;33;False;False;;Mew
+3882;Bide;;False;;34;False;False;;Mew
+3883;Selfdestruct;;False;;36;False;False;;Mew
+3884;Egg Bomb;;False;;37;False;False;;Mew
+3885;Fire Blast;;False;;38;False;False;;Mew
+3886;Swift;;False;;39;False;False;;Mew
+3887;Skull Bash;;False;;40;False;False;;Mew
+3888;Softboiled;;False;;41;False;False;;Mew
+3889;Dream Eater;;False;;42;False;False;;Mew
+3890;Sky Attack;;False;;43;False;False;;Mew
+3891;Rest;;False;;44;False;False;;Mew
+3892;Thunder Wave;;False;;45;False;False;;Mew
+3893;Psywave;;False;;46;False;False;;Mew
+3894;Explosion;;False;;47;False;False;;Mew
+3895;Rock Slide;;False;;48;False;False;;Mew
+3896;Tri Attack;;False;;49;False;False;;Mew
+3897;Substitute;;False;;50;False;False;;Mew

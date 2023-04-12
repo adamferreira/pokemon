@@ -1,0 +1,123 @@
+Name;Total;HP;Attack;Defense;Sp. Atk;Sp. Def;Speed;Type1;Type2;PokedexId
+Rattata Alolan Rattata;253;30;56;35;25;35;72;Dark;Normal;0019
+Raticate Alolan Raticate;413;75;71;70;40;80;77;Dark;Normal;0020
+Pikachu Partner Pikachu;430;45;80;50;75;60;120;Electric;;0025
+Raichu Alolan Raichu;485;60;85;50;95;85;110;Electric;Psychic;0026
+Sandshrew Alolan Sandshrew;300;50;75;90;10;35;40;Ice;Steel;0027
+Sandslash Alolan Sandslash;450;75;100;120;25;65;65;Ice;Steel;0028
+Vulpix Alolan Vulpix;299;38;41;40;50;65;65;Ice;;0037
+Ninetales Alolan Ninetales;505;73;67;75;81;100;109;Ice;Fairy;0038
+Diglett Alolan Diglett;265;10;55;30;35;45;90;Ground;Steel;0050
+Dugtrio Alolan Dugtrio;425;35;100;60;50;70;110;Ground;Steel;0051
+Meowth Alolan Meowth;290;40;35;35;50;40;90;Dark;;0052
+Persian Alolan Persian;440;65;60;60;75;65;115;Dark;;0053
+Geodude Alolan Geodude;300;40;80;100;30;30;20;Rock;Electric;0074
+Graveler Alolan Graveler;390;55;95;115;45;45;35;Rock;Electric;0075
+Golem Alolan Golem;495;80;120;130;55;65;45;Rock;Electric;0076
+Grimer Alolan Grimer;325;80;80;50;40;50;25;Poison;Dark;0088
+Muk Alolan Muk;500;105;105;75;65;100;50;Poison;Dark;0089
+Exeggutor Alolan Exeggutor;530;95;105;85;125;75;45;Grass;Dragon;0103
+Marowak Alolan Marowak;425;60;80;110;50;80;45;Fire;Ghost;0105
+Eevee Partner Eevee;435;65;75;70;65;85;75;Normal;;0133
+Greninja Ash-Greninja;640;72;145;67;153;71;132;Water;Dark;0658
+Zygarde 10% Forme;486;54;100;71;61;85;115;Dragon;Ground;0718
+Zygarde Complete Forme;708;216;100;121;91;95;85;Dragon;Ground;0718
+Rowlet;320;68;55;55;50;50;42;Grass;Flying;0722
+Dartrix;420;78;75;75;70;70;52;Grass;Flying;0723
+Decidueye;530;78;107;75;100;100;70;Grass;Ghost;0724
+Litten;320;45;65;40;60;40;70;Fire;;0725
+Torracat;420;65;85;50;80;50;90;Fire;;0726
+Incineroar;530;95;115;90;80;90;60;Fire;Dark;0727
+Popplio;320;50;54;54;66;56;40;Water;;0728
+Brionne;420;60;69;69;91;81;50;Water;;0729
+Primarina;530;80;74;74;126;116;60;Water;Fairy;0730
+Pikipek;265;35;75;30;30;30;65;Normal;Flying;0731
+Trumbeak;355;55;85;50;40;50;75;Normal;Flying;0732
+Toucannon;485;80;120;75;75;75;60;Normal;Flying;0733
+Yungoos;253;48;70;30;30;30;45;Normal;;0734
+Gumshoos;418;88;110;60;55;60;45;Normal;;0735
+Grubbin;300;47;62;45;55;45;46;Bug;;0736
+Charjabug;400;57;82;95;55;75;36;Bug;Electric;0737
+Vikavolt;500;77;70;90;145;75;43;Bug;Electric;0738
+Crabrawler;338;47;82;57;42;47;63;Fighting;;0739
+Crabominable;478;97;132;77;62;67;43;Fighting;Ice;0740
+Oricorio Baile Style;476;75;70;70;98;70;93;Fire;Flying;0741
+Oricorio Pom-Pom Style;476;75;70;70;98;70;93;Electric;Flying;0741
+Oricorio Pa'u Style;476;75;70;70;98;70;93;Psychic;Flying;0741
+Oricorio Sensu Style;476;75;70;70;98;70;93;Ghost;Flying;0741
+Cutiefly;304;40;45;40;55;40;84;Bug;Fairy;0742
+Ribombee;464;60;55;60;95;70;124;Bug;Fairy;0743
+Rockruff;280;45;65;40;30;40;60;Rock;;0744
+Rockruff Own Tempo Rockruff;280;45;65;40;30;40;60;Rock;;0744
+Lycanroc Midday Form;487;75;115;65;55;65;112;Rock;;0745
+Lycanroc Midnight Form;487;85;115;75;55;75;82;Rock;;0745
+Lycanroc Dusk Form;487;75;117;65;55;65;110;Rock;;0745
+Wishiwashi Solo Form;175;45;20;20;25;25;40;Water;;0746
+Wishiwashi School Form;620;45;140;130;140;135;30;Water;;0746
+Mareanie;305;50;53;62;43;52;45;Poison;Water;0747
+Toxapex;495;50;63;152;53;142;35;Poison;Water;0748
+Mudbray;385;70;100;70;45;55;45;Ground;;0749
+Mudsdale;500;100;125;100;55;85;35;Ground;;0750
+Dewpider;269;38;40;52;40;72;27;Water;Bug;0751
+Araquanid;454;68;70;92;50;132;42;Water;Bug;0752
+Fomantis;250;40;55;35;50;35;35;Grass;;0753
+Lurantis;480;70;105;90;80;90;45;Grass;;0754
+Morelull;285;40;35;55;65;75;15;Grass;Fairy;0755
+Shiinotic;405;60;45;80;90;100;30;Grass;Fairy;0756
+Salandit;320;48;44;40;71;40;77;Poison;Fire;0757
+Salazzle;480;68;64;60;111;60;117;Poison;Fire;0758
+Stufful;340;70;75;50;45;50;50;Normal;Fighting;0759
+Bewear;500;120;125;80;55;60;60;Normal;Fighting;0760
+Bounsweet;210;42;30;38;30;38;32;Grass;;0761
+Steenee;290;52;40;48;40;48;62;Grass;;0762
+Tsareena;510;72;120;98;50;98;72;Grass;;0763
+Comfey;485;51;52;90;82;110;100;Fairy;;0764
+Oranguru;490;90;60;80;90;110;60;Normal;Psychic;0765
+Passimian;490;100;120;90;40;60;80;Fighting;;0766
+Wimpod;230;25;35;40;20;30;80;Bug;Water;0767
+Golisopod;530;75;125;140;60;90;40;Bug;Water;0768
+Sandygast;320;55;55;80;70;45;15;Ghost;Ground;0769
+Palossand;480;85;75;110;100;75;35;Ghost;Ground;0770
+Pyukumuku;410;55;60;130;30;130;5;Water;;0771
+Type: Null;534;95;95;95;95;95;59;Normal;;0772
+Silvally;570;95;95;95;95;95;95;Normal;;0773
+Minior Meteor Form;440;60;60;100;60;100;60;Rock;Flying;0774
+Minior Core Form;500;60;100;60;100;60;120;Rock;Flying;0774
+Komala;480;65;115;65;75;95;65;Normal;;0775
+Turtonator;485;60;78;135;91;85;36;Fire;Dragon;0776
+Togedemaru;435;65;98;63;40;73;96;Electric;Steel;0777
+Mimikyu;476;55;90;80;50;105;96;Ghost;Fairy;0778
+Bruxish;475;68;105;70;70;70;92;Water;Psychic;0779
+Drampa;485;78;60;85;135;91;36;Normal;Dragon;0780
+Dhelmise;517;70;131;100;86;90;40;Ghost;Grass;0781
+Jangmo-o;300;45;55;65;45;45;45;Dragon;;0782
+Hakamo-o;420;55;75;90;65;70;65;Dragon;Fighting;0783
+Kommo-o;600;75;110;125;100;105;85;Dragon;Fighting;0784
+Tapu Koko;570;70;115;85;95;75;130;Electric;Fairy;0785
+Tapu Lele;570;70;85;75;130;115;95;Psychic;Fairy;0786
+Tapu Bulu;570;70;130;115;85;95;75;Grass;Fairy;0787
+Tapu Fini;570;70;75;115;95;130;85;Water;Fairy;0788
+Cosmog;200;43;29;31;29;31;37;Psychic;;0789
+Cosmoem;400;43;29;131;29;131;37;Psychic;;0790
+Solgaleo;680;137;137;107;113;89;97;Psychic;Steel;0791
+Lunala;680;137;113;89;137;107;97;Psychic;Ghost;0792
+Nihilego;570;109;53;47;127;131;103;Rock;Poison;0793
+Buzzwole;570;107;139;139;53;53;79;Bug;Fighting;0794
+Pheromosa;570;71;137;37;137;37;151;Bug;Fighting;0795
+Xurkitree;570;83;89;71;173;71;83;Electric;;0796
+Celesteela;570;97;101;103;107;101;61;Steel;Flying;0797
+Kartana;570;59;181;131;59;31;109;Grass;Steel;0798
+Guzzlord;570;223;101;53;97;53;43;Dark;Dragon;0799
+Necrozma;600;97;107;101;127;89;79;Psychic;;0800
+Necrozma Dusk Mane Necrozma;680;97;157;127;113;109;77;Psychic;Steel;0800
+Necrozma Dawn Wings Necrozma;680;97;113;109;157;127;77;Psychic;Ghost;0800
+Necrozma Ultra Necrozma;754;97;167;97;167;97;129;Psychic;Dragon;0800
+Magearna;600;80;95;115;130;115;65;Steel;Fairy;0801
+Marshadow;600;90;125;80;90;90;125;Fighting;Ghost;0802
+Poipole;420;67;73;67;73;67;73;Poison;;0803
+Naganadel;540;73;73;73;127;73;121;Poison;Dragon;0804
+Stakataka;570;61;131;211;53;101;13;Rock;Steel;0805
+Blacephalon;570;53;127;53;151;79;107;Fire;Ghost;0806
+Zeraora;600;88;112;75;102;80;143;Electric;;0807
+Meltan;300;46;65;65;55;35;34;Steel;;0808
+Melmetal;600;135;143;143;80;65;34;Steel;;0809

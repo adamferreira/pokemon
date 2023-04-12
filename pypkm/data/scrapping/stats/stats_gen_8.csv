@@ -1,0 +1,148 @@
+Name;Total;HP;Attack;Defense;Sp. Atk;Sp. Def;Speed;Type1;Type2;PokedexId
+Meowth Galarian Meowth;290;50;65;55;40;40;40;Steel;;0052
+Growlithe Hisuian Growlithe;350;60;75;45;65;50;55;Fire;Rock;0058
+Arcanine Hisuian Arcanine;555;95;115;80;95;80;90;Fire;Rock;0059
+Ponyta Galarian Ponyta;410;50;85;55;65;65;90;Psychic;;0077
+Rapidash Galarian Rapidash;500;65;100;70;80;80;105;Psychic;Fairy;0078
+Slowpoke Galarian Slowpoke;315;90;65;65;40;40;15;Psychic;;0079
+Slowbro Galarian Slowbro;490;95;100;95;100;70;30;Poison;Psychic;0080
+Farfetch'd Galarian Farfetch'd;377;52;95;55;58;62;55;Fighting;;0083
+Voltorb Hisuian Voltorb;330;40;30;50;55;55;100;Electric;Grass;0100
+Electrode Hisuian Electrode;490;60;50;70;80;80;150;Electric;Grass;0101
+Weezing Galarian Weezing;490;65;90;120;85;70;60;Poison;Fairy;0110
+Mr. Mime Galarian Mr. Mime;460;50;65;65;90;90;100;Ice;Psychic;0122
+Articuno Galarian Articuno;580;90;85;85;125;100;95;Psychic;Flying;0144
+Zapdos Galarian Zapdos;580;90;125;90;85;90;100;Fighting;Flying;0145
+Moltres Galarian Moltres;580;90;85;90;100;125;90;Dark;Flying;0146
+Typhlosion Hisuian Typhlosion;534;73;84;78;119;85;95;Fire;Ghost;0157
+Slowking Galarian Slowking;490;95;65;80;110;110;30;Poison;Psychic;0199
+Qwilfish Hisuian Qwilfish;440;65;95;85;55;55;85;Dark;Poison;0211
+Sneasel Hisuian Sneasel;430;55;95;55;35;75;115;Fighting;Poison;0215
+Corsola Galarian Corsola;410;60;55;100;65;100;30;Ghost;;0222
+Zigzagoon Galarian Zigzagoon;240;38;30;41;30;41;60;Dark;Normal;0263
+Linoone Galarian Linoone;420;78;70;61;50;61;100;Dark;Normal;0264
+Dialga Origin Forme;680;100;100;120;150;120;90;Steel;Dragon;0483
+Palkia Origin Forme;680;90;100;100;150;120;120;Water;Dragon;0484
+Samurott Hisuian Samurott;528;90;108;80;100;65;85;Water;Dark;0503
+Lilligant Hisuian Lilligant;480;70;105;75;50;75;105;Grass;Fighting;0549
+Basculin White-Striped Form;460;70;92;65;80;55;98;Water;;0550
+Darumaka Galarian Darumaka;315;70;90;45;15;45;50;Ice;;0554
+Darmanitan Galarian Standard Mode;480;105;140;55;30;55;95;Ice;;0555
+Darmanitan Galarian Zen Mode;540;105;160;55;30;55;135;Ice;Fire;0555
+Yamask Galarian Yamask;303;38;55;85;30;65;30;Ground;Ghost;0562
+Zorua Hisuian Zorua;330;35;60;40;85;40;70;Normal;Ghost;0570
+Zoroark Hisuian Zoroark;510;60;105;60;120;60;105;Normal;Ghost;0571
+Stunfisk Galarian Stunfisk;471;109;81;99;66;84;32;Ground;Steel;0618
+Braviary Hisuian Braviary;510;110;83;70;112;70;65;Psychic;Flying;0628
+Sliggoo Hisuian Sliggoo;452;58;75;83;83;113;40;Steel;Dragon;0705
+Goodra Hisuian Goodra;600;80;100;100;110;150;60;Steel;Dragon;0706
+Avalugg Hisuian Avalugg;514;95;127;184;34;36;38;Ice;Rock;0713
+Decidueye Hisuian Decidueye;530;88;112;80;95;95;60;Grass;Fighting;0724
+Grookey;310;50;65;50;40;40;65;Grass;;0810
+Thwackey;420;70;85;70;55;60;80;Grass;;0811
+Rillaboom;530;100;125;90;60;70;85;Grass;;0812
+Scorbunny;310;50;71;40;40;40;69;Fire;;0813
+Raboot;420;65;86;60;55;60;94;Fire;;0814
+Cinderace;530;80;116;75;65;75;119;Fire;;0815
+Sobble;310;50;40;40;70;40;70;Water;;0816
+Drizzile;420;65;60;55;95;55;90;Water;;0817
+Inteleon;530;70;85;65;125;65;120;Water;;0818
+Skwovet;275;70;55;55;35;35;25;Normal;;0819
+Greedent;460;120;95;95;55;75;20;Normal;;0820
+Rookidee;245;38;47;35;33;35;57;Flying;;0821
+Corvisquire;365;68;67;55;43;55;77;Flying;;0822
+Corviknight;495;98;87;105;53;85;67;Flying;Steel;0823
+Blipbug;180;25;20;20;25;45;45;Bug;;0824
+Dottler;335;50;35;80;50;90;30;Bug;Psychic;0825
+Orbeetle;505;60;45;110;80;120;90;Bug;Psychic;0826
+Nickit;245;40;28;28;47;52;50;Dark;;0827
+Thievul;455;70;58;58;87;92;90;Dark;;0828
+Gossifleur;250;40;40;60;40;60;10;Grass;;0829
+Eldegoss;460;60;50;90;80;120;60;Grass;;0830
+Wooloo;270;42;40;55;40;45;48;Normal;;0831
+Dubwool;490;72;80;100;60;90;88;Normal;;0832
+Chewtle;284;50;64;50;38;38;44;Water;;0833
+Drednaw;485;90;115;90;48;68;74;Water;Rock;0834
+Yamper;270;59;45;50;40;50;26;Electric;;0835
+Boltund;490;69;90;60;90;60;121;Electric;;0836
+Rolycoly;240;30;40;50;40;50;30;Rock;;0837
+Carkol;410;80;60;90;60;70;50;Rock;Fire;0838
+Coalossal;510;110;80;120;80;90;30;Rock;Fire;0839
+Applin;260;40;40;80;40;40;20;Grass;Dragon;0840
+Flapple;485;70;110;80;95;60;70;Grass;Dragon;0841
+Appletun;485;110;85;80;100;80;30;Grass;Dragon;0842
+Silicobra;315;52;57;75;35;50;46;Ground;;0843
+Sandaconda;510;72;107;125;65;70;71;Ground;;0844
+Cramorant;475;70;85;55;85;95;85;Flying;Water;0845
+Arrokuda;280;41;63;40;40;30;66;Water;;0846
+Barraskewda;490;61;123;60;60;50;136;Water;;0847
+Toxel;242;40;38;35;54;35;40;Electric;Poison;0848
+Toxtricity Amped Form;502;75;98;70;114;70;75;Electric;Poison;0849
+Toxtricity Low Key Form;502;75;98;70;114;70;75;Electric;Poison;0849
+Sizzlipede;305;50;65;45;50;50;45;Fire;Bug;0850
+Centiskorch;525;100;115;65;90;90;65;Fire;Bug;0851
+Clobbopus;310;50;68;60;50;50;32;Fighting;;0852
+Grapploct;480;80;118;90;70;80;42;Fighting;;0853
+Sinistea;308;40;45;45;74;54;50;Ghost;;0854
+Polteageist;508;60;65;65;134;114;70;Ghost;;0855
+Hatenna;265;42;30;45;56;53;39;Psychic;;0856
+Hattrem;370;57;40;65;86;73;49;Psychic;;0857
+Hatterene;510;57;90;95;136;103;29;Psychic;Fairy;0858
+Impidimp;265;45;45;30;55;40;50;Dark;Fairy;0859
+Morgrem;370;65;60;45;75;55;70;Dark;Fairy;0860
+Grimmsnarl;510;95;120;65;95;75;60;Dark;Fairy;0861
+Obstagoon;520;93;90;101;60;81;95;Dark;Normal;0862
+Perrserker;440;70;110;100;50;60;50;Steel;;0863
+Cursola;510;60;95;50;145;130;30;Ghost;;0864
+Sirfetch'd;507;62;135;95;68;82;65;Fighting;;0865
+Mr. Rime;520;80;85;75;110;100;70;Ice;Psychic;0866
+Runerigus;483;58;95;145;50;105;30;Ground;Ghost;0867
+Milcery;270;45;40;40;50;61;34;Fairy;;0868
+Alcremie;495;65;60;75;110;121;64;Fairy;;0869
+Falinks;470;65;100;100;70;60;75;Fighting;;0870
+Pincurchin;435;48;101;95;91;85;15;Electric;;0871
+Snom;185;30;25;35;45;30;20;Ice;Bug;0872
+Frosmoth;475;70;65;60;125;90;65;Ice;Bug;0873
+Stonjourner;470;100;125;135;20;20;70;Rock;;0874
+Eiscue Ice Face;470;75;80;110;65;90;50;Ice;;0875
+Eiscue Noice Face;470;75;80;70;65;50;130;Ice;;0875
+Indeedee Male;475;60;65;55;105;95;95;Psychic;Normal;0876
+Indeedee Female;475;70;55;65;95;105;85;Psychic;Normal;0876
+Morpeko Full Belly Mode;436;58;95;58;70;58;97;Electric;Dark;0877
+Morpeko Hangry Mode;436;58;95;58;70;58;97;Electric;Dark;0877
+Cufant;330;72;80;49;40;49;40;Steel;;0878
+Copperajah;500;122;130;69;80;69;30;Steel;;0879
+Dracozolt;505;90;100;90;80;70;75;Electric;Dragon;0880
+Arctozolt;505;90;100;90;90;80;55;Electric;Ice;0881
+Dracovish;505;90;90;100;70;80;75;Water;Dragon;0882
+Arctovish;505;90;90;100;80;90;55;Water;Ice;0883
+Duraludon;535;70;95;115;120;50;85;Steel;Dragon;0884
+Dreepy;270;28;60;30;40;30;82;Dragon;Ghost;0885
+Drakloak;410;68;80;50;60;50;102;Dragon;Ghost;0886
+Dragapult;600;88;120;75;100;75;142;Dragon;Ghost;0887
+Zacian Hero of Many Battles;660;92;120;115;80;115;138;Fairy;;0888
+Zacian Crowned Sword;700;92;150;115;80;115;148;Fairy;Steel;0888
+Zamazenta Hero of Many Battles;660;92;120;115;80;115;138;Fighting;;0889
+Zamazenta Crowned Shield;700;92;120;140;80;140;128;Fighting;Steel;0889
+Eternatus;690;140;85;95;145;95;130;Poison;Dragon;0890
+Eternatus Eternamax;1125;255;115;250;125;250;130;Poison;Dragon;0890
+Kubfu;385;60;90;60;53;50;72;Fighting;;0891
+Urshifu Single Strike Style;550;100;130;100;63;60;97;Fighting;Dark;0892
+Urshifu Rapid Strike Style;550;100;130;100;63;60;97;Fighting;Water;0892
+Zarude;600;105;120;105;70;95;105;Dark;Grass;0893
+Regieleki;580;80;100;50;100;50;200;Electric;;0894
+Regidrago;580;200;100;50;100;50;80;Dragon;;0895
+Glastrier;580;100;145;130;65;110;30;Ice;;0896
+Spectrier;580;100;65;60;145;80;130;Ghost;;0897
+Calyrex;500;100;80;80;80;80;80;Psychic;Grass;0898
+Calyrex Ice Rider;680;100;165;150;85;130;50;Psychic;Ice;0898
+Calyrex Shadow Rider;680;100;85;80;165;100;150;Psychic;Ghost;0898
+Wyrdeer;525;103;105;72;105;75;65;Normal;Psychic;0899
+Kleavor;500;70;130;95;45;75;85;Bug;Rock;0900
+Ursaluna;550;130;140;105;45;80;50;Ground;Normal;0901
+Basculegion Male;530;120;112;65;80;75;78;Water;Ghost;0902
+Basculegion Female;530;120;92;65;100;75;78;Water;Ghost;0902
+Sneasler;510;80;130;60;40;80;120;Fighting;Poison;0903
+Overqwil;510;85;115;95;65;65;85;Dark;Poison;0904
+Enamorus Incarnate Forme;580;74;115;70;135;80;106;Fairy;Flying;0905
+Enamorus Therian Forme;580;74;115;110;135;100;46;Fairy;Flying;0905

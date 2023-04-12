@@ -1,0 +1,166 @@
+Name;Total;HP;Attack;Defense;Sp. Atk;Sp. Def;Speed;Type1;Type2;PokedexId
+Victini;600;100;100;100;100;100;100;Psychic;Fire;0494
+Snivy;308;45;45;55;45;55;63;Grass;;0495
+Servine;413;60;60;75;60;75;83;Grass;;0496
+Serperior;528;75;75;95;75;95;113;Grass;;0497
+Tepig;308;65;63;45;45;45;45;Fire;;0498
+Pignite;418;90;93;55;70;55;55;Fire;Fighting;0499
+Emboar;528;110;123;65;100;65;65;Fire;Fighting;0500
+Oshawott;308;55;55;45;63;45;45;Water;;0501
+Dewott;413;75;75;60;83;60;60;Water;;0502
+Samurott;528;95;100;85;108;70;70;Water;;0503
+Patrat;255;45;55;39;35;39;42;Normal;;0504
+Watchog;420;60;85;69;60;69;77;Normal;;0505
+Lillipup;275;45;60;45;25;45;55;Normal;;0506
+Herdier;370;65;80;65;35;65;60;Normal;;0507
+Stoutland;500;85;110;90;45;90;80;Normal;;0508
+Purrloin;281;41;50;37;50;37;66;Dark;;0509
+Liepard;446;64;88;50;88;50;106;Dark;;0510
+Pansage;316;50;53;48;53;48;64;Grass;;0511
+Simisage;498;75;98;63;98;63;101;Grass;;0512
+Pansear;316;50;53;48;53;48;64;Fire;;0513
+Simisear;498;75;98;63;98;63;101;Fire;;0514
+Panpour;316;50;53;48;53;48;64;Water;;0515
+Simipour;498;75;98;63;98;63;101;Water;;0516
+Munna;292;76;25;45;67;55;24;Psychic;;0517
+Musharna;487;116;55;85;107;95;29;Psychic;;0518
+Pidove;264;50;55;50;36;30;43;Normal;Flying;0519
+Tranquill;358;62;77;62;50;42;65;Normal;Flying;0520
+Unfezant;488;80;115;80;65;55;93;Normal;Flying;0521
+Blitzle;295;45;60;32;50;32;76;Electric;;0522
+Zebstrika;497;75;100;63;80;63;116;Electric;;0523
+Roggenrola;280;55;75;85;25;25;15;Rock;;0524
+Boldore;390;70;105;105;50;40;20;Rock;;0525
+Gigalith;515;85;135;130;60;80;25;Rock;;0526
+Woobat;323;65;45;43;55;43;72;Psychic;Flying;0527
+Swoobat;425;67;57;55;77;55;114;Psychic;Flying;0528
+Drilbur;328;60;85;40;30;45;68;Ground;;0529
+Excadrill;508;110;135;60;50;65;88;Ground;Steel;0530
+Audino;445;103;60;86;60;86;50;Normal;;0531
+Timburr;305;75;80;55;25;35;35;Fighting;;0532
+Gurdurr;405;85;105;85;40;50;40;Fighting;;0533
+Conkeldurr;505;105;140;95;55;65;45;Fighting;;0534
+Tympole;294;50;50;40;50;40;64;Water;;0535
+Palpitoad;384;75;65;55;65;55;69;Water;Ground;0536
+Seismitoad;509;105;95;75;85;75;74;Water;Ground;0537
+Throh;465;120;100;85;30;85;45;Fighting;;0538
+Sawk;465;75;125;75;30;75;85;Fighting;;0539
+Sewaddle;310;45;53;70;40;60;42;Bug;Grass;0540
+Swadloon;380;55;63;90;50;80;42;Bug;Grass;0541
+Leavanny;500;75;103;80;70;80;92;Bug;Grass;0542
+Venipede;260;30;45;59;30;39;57;Bug;Poison;0543
+Whirlipede;360;40;55;99;40;79;47;Bug;Poison;0544
+Scolipede;485;60;100;89;55;69;112;Bug;Poison;0545
+Cottonee;280;40;27;60;37;50;66;Grass;Fairy;0546
+Whimsicott;480;60;67;85;77;75;116;Grass;Fairy;0547
+Petilil;280;45;35;50;70;50;30;Grass;;0548
+Lilligant;480;70;60;75;110;75;90;Grass;;0549
+Basculin Red-Striped Form;460;70;92;65;80;55;98;Water;;0550
+Basculin Blue-Striped Form;460;70;92;65;80;55;98;Water;;0550
+Sandile;292;50;72;35;35;35;65;Ground;Dark;0551
+Krokorok;351;60;82;45;45;45;74;Ground;Dark;0552
+Krookodile;519;95;117;80;65;70;92;Ground;Dark;0553
+Darumaka;315;70;90;45;15;45;50;Fire;;0554
+Darmanitan Standard Mode;480;105;140;55;30;55;95;Fire;;0555
+Darmanitan Zen Mode;540;105;30;105;140;105;55;Fire;Psychic;0555
+Maractus;461;75;86;67;106;67;60;Grass;;0556
+Dwebble;325;50;65;85;35;35;55;Bug;Rock;0557
+Crustle;485;70;105;125;65;75;45;Bug;Rock;0558
+Scraggy;348;50;75;70;35;70;48;Dark;Fighting;0559
+Scrafty;488;65;90;115;45;115;58;Dark;Fighting;0560
+Sigilyph;490;72;58;80;103;80;97;Psychic;Flying;0561
+Yamask;303;38;30;85;55;65;30;Ghost;;0562
+Cofagrigus;483;58;50;145;95;105;30;Ghost;;0563
+Tirtouga;355;54;78;103;53;45;22;Water;Rock;0564
+Carracosta;495;74;108;133;83;65;32;Water;Rock;0565
+Archen;401;55;112;45;74;45;70;Rock;Flying;0566
+Archeops;567;75;140;65;112;65;110;Rock;Flying;0567
+Trubbish;329;50;50;62;40;62;65;Poison;;0568
+Garbodor;474;80;95;82;60;82;75;Poison;;0569
+Zorua;330;40;65;40;80;40;65;Dark;;0570
+Zoroark;510;60;105;60;120;60;105;Dark;;0571
+Minccino;300;55;50;40;40;40;75;Normal;;0572
+Cinccino;470;75;95;60;65;60;115;Normal;;0573
+Gothita;290;45;30;50;55;65;45;Psychic;;0574
+Gothorita;390;60;45;70;75;85;55;Psychic;;0575
+Gothitelle;490;70;55;95;95;110;65;Psychic;;0576
+Solosis;290;45;30;40;105;50;20;Psychic;;0577
+Duosion;370;65;40;50;125;60;30;Psychic;;0578
+Reuniclus;490;110;65;75;125;85;30;Psychic;;0579
+Ducklett;305;62;44;50;44;50;55;Water;Flying;0580
+Swanna;473;75;87;63;87;63;98;Water;Flying;0581
+Vanillite;305;36;50;50;65;60;44;Ice;;0582
+Vanillish;395;51;65;65;80;75;59;Ice;;0583
+Vanilluxe;535;71;95;85;110;95;79;Ice;;0584
+Deerling;335;60;60;50;40;50;75;Normal;Grass;0585
+Sawsbuck;475;80;100;70;60;70;95;Normal;Grass;0586
+Emolga;428;55;75;60;75;60;103;Electric;Flying;0587
+Karrablast;315;50;75;45;40;45;60;Bug;;0588
+Escavalier;495;70;135;105;60;105;20;Bug;Steel;0589
+Foongus;294;69;55;45;55;55;15;Grass;Poison;0590
+Amoonguss;464;114;85;70;85;80;30;Grass;Poison;0591
+Frillish;335;55;40;50;65;85;40;Water;Ghost;0592
+Jellicent;480;100;60;70;85;105;60;Water;Ghost;0593
+Alomomola;470;165;75;80;40;45;65;Water;;0594
+Joltik;319;50;47;50;57;50;65;Bug;Electric;0595
+Galvantula;472;70;77;60;97;60;108;Bug;Electric;0596
+Ferroseed;305;44;50;91;24;86;10;Grass;Steel;0597
+Ferrothorn;489;74;94;131;54;116;20;Grass;Steel;0598
+Klink;300;40;55;70;45;60;30;Steel;;0599
+Klang;440;60;80;95;70;85;50;Steel;;0600
+Klinklang;520;60;100;115;70;85;90;Steel;;0601
+Tynamo;275;35;55;40;45;40;60;Electric;;0602
+Eelektrik;405;65;85;70;75;70;40;Electric;;0603
+Eelektross;515;85;115;80;105;80;50;Electric;;0604
+Elgyem;335;55;55;55;85;55;30;Psychic;;0605
+Beheeyem;485;75;75;75;125;95;40;Psychic;;0606
+Litwick;275;50;30;55;65;55;20;Ghost;Fire;0607
+Lampent;370;60;40;60;95;60;55;Ghost;Fire;0608
+Chandelure;520;60;55;90;145;90;80;Ghost;Fire;0609
+Axew;320;46;87;60;30;40;57;Dragon;;0610
+Fraxure;410;66;117;70;40;50;67;Dragon;;0611
+Haxorus;540;76;147;90;60;70;97;Dragon;;0612
+Cubchoo;305;55;70;40;60;40;40;Ice;;0613
+Beartic;505;95;130;80;70;80;50;Ice;;0614
+Cryogonal;515;80;50;50;95;135;105;Ice;;0615
+Shelmet;305;50;40;85;40;65;25;Bug;;0616
+Accelgor;495;80;70;40;100;60;145;Bug;;0617
+Stunfisk;471;109;66;84;81;99;32;Ground;Electric;0618
+Mienfoo;350;45;85;50;55;50;65;Fighting;;0619
+Mienshao;510;65;125;60;95;60;105;Fighting;;0620
+Druddigon;485;77;120;90;60;90;48;Dragon;;0621
+Golett;303;59;74;50;35;50;35;Ground;Ghost;0622
+Golurk;483;89;124;80;55;80;55;Ground;Ghost;0623
+Pawniard;340;45;85;70;40;40;60;Dark;Steel;0624
+Bisharp;490;65;125;100;60;70;70;Dark;Steel;0625
+Bouffalant;490;95;110;95;40;95;55;Normal;;0626
+Rufflet;350;70;83;50;37;50;60;Normal;Flying;0627
+Braviary;510;100;123;75;57;75;80;Normal;Flying;0628
+Vullaby;370;70;55;75;45;65;60;Dark;Flying;0629
+Mandibuzz;510;110;65;105;55;95;80;Dark;Flying;0630
+Heatmor;484;85;97;66;105;66;65;Fire;;0631
+Durant;484;58;109;112;48;48;109;Bug;Steel;0632
+Deino;300;52;65;50;45;50;38;Dark;Dragon;0633
+Zweilous;420;72;85;70;65;70;58;Dark;Dragon;0634
+Hydreigon;600;92;105;90;125;90;98;Dark;Dragon;0635
+Larvesta;360;55;85;55;50;55;60;Bug;Fire;0636
+Volcarona;550;85;60;65;135;105;100;Bug;Fire;0637
+Cobalion;580;91;90;129;90;72;108;Steel;Fighting;0638
+Terrakion;580;91;129;90;72;90;108;Rock;Fighting;0639
+Virizion;580;91;90;72;90;129;108;Grass;Fighting;0640
+Tornadus Incarnate Forme;580;79;115;70;125;80;111;Flying;;0641
+Tornadus Therian Forme;580;79;100;80;110;90;121;Flying;;0641
+Thundurus Incarnate Forme;580;79;115;70;125;80;111;Electric;Flying;0642
+Thundurus Therian Forme;580;79;105;70;145;80;101;Electric;Flying;0642
+Reshiram;680;100;120;100;150;120;90;Dragon;Fire;0643
+Zekrom;680;100;150;120;120;100;90;Dragon;Electric;0644
+Landorus Incarnate Forme;600;89;125;90;115;80;101;Ground;Flying;0645
+Landorus Therian Forme;600;89;145;90;105;80;91;Ground;Flying;0645
+Kyurem;660;125;130;90;130;90;95;Dragon;Ice;0646
+Kyurem White Kyurem;700;125;120;90;170;100;95;Dragon;Ice;0646
+Kyurem Black Kyurem;700;125;170;100;120;90;95;Dragon;Ice;0646
+Keldeo Ordinary Form;580;91;72;90;129;90;108;Water;Fighting;0647
+Keldeo Resolute Form;580;91;72;90;129;90;108;Water;Fighting;0647
+Meloetta Aria Forme;600;100;77;77;128;128;90;Normal;Psychic;0648
+Meloetta Pirouette Forme;600;100;128;90;77;77;128;Normal;Fighting;0648
+Genesect;600;71;120;95;120;95;99;Bug;Steel;0649

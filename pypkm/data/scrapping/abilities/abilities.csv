@@ -1,0 +1,1774 @@
+;PokedexId;Pokemon;Hidden ability;Second ability;Ability
+0;0015;Beedrill Mega Beedrill;;;Adaptability
+1;0133;Eevee;Anticipation;Run Away;Adaptability
+2;0448;Lucario Mega Lucario;;;Adaptability
+3;0474;Porygon-Z;Analytic ;Download;Adaptability
+4;0550;Basculin Red-Striped Form;Mold Breaker;Reckless;Adaptability
+5;0550;Basculin Blue-Striped Form;Mold Breaker;Rock Head;Adaptability
+6;0550;Basculin White-Striped Form;Mold Breaker;Rattled;Adaptability
+7;0902;Basculegion Male;Mold Breaker;Swift Swim;Adaptability
+8;0902;Basculegion Female;Mold Breaker;Swift Swim;Adaptability
+9;0127;Pinsir Mega Pinsir;;;Aerilate
+10;0373;Salamence Mega Salamence;;;Aerilate
+11;0339;Barboach;Hydration;Oblivious;Anticipation
+12;0340;Whiscash;Hydration;Oblivious;Anticipation
+13;0413;Wormadam Plant Cloak;Overcoat;;Anticipation
+14;0413;Wormadam Sandy Cloak;Overcoat;;Anticipation
+15;0413;Wormadam Trash Cloak;Overcoat;;Anticipation
+16;0453;Croagunk;Poison Touch;Dry Skin;Anticipation
+17;0454;Toxicroak;Poison Touch;Dry Skin;Anticipation
+18;0856;Hatenna;Magic Bounce;Healer;Anticipation
+19;0857;Hattrem;Magic Bounce;Healer;Anticipation
+20;0858;Hatterene;Magic Bounce;Healer;Anticipation
+21;0955;Flittle;Speed Boost;Frisk;Anticipation
+22;0425;Drifloon;Flare Boost;Unburden;Aftermath
+23;0426;Drifblim;Flare Boost;Unburden;Aftermath
+24;0434;Stunky;Keen Eye;Stench;Aftermath
+25;0435;Skuntank;Keen Eye;Stench;Aftermath
+26;0050;Diglett;Sand Force;Sand Veil;Arena Trap
+27;0051;Dugtrio;Sand Force;Sand Veil;Arena Trap
+28;0328;Trapinch;Sheer Force;Hyper Cutter;Arena Trap
+29;0384;Rayquaza;;;Air Lock
+30;0981;Farigiraf;Sap Sipper;Cud Chew;Armor Tail
+31;0915;Lechonk;Thick Fat;Gluttony;Aroma Veil
+32;0916;Oinkologne Female;Thick Fat;Gluttony;Aroma Veil
+33;0056;Mankey;Defiant;Vital Spirit;Anger Point
+34;0057;Primeape;Defiant;Vital Spirit;Anger Point
+35;0128;Tauros;Sheer Force;Intimidate;Anger Point
+36;0128;Tauros Combat Breed;Cud Chew;Intimidate;Anger Point
+37;0128;Tauros Blaze Breed;Cud Chew;Intimidate;Anger Point
+38;0128;Tauros Aqua Breed;Cud Chew;Intimidate;Anger Point
+39;0950;Klawf;Regenerator;Shell Armor;Anger Shell
+40;0898;Calyrex Ice Rider;;;As One
+41;0898;Calyrex Shadow Rider;;;As One
+42;0718;Zygarde 50% Forme;;Power Construct;Aura Break
+43;0718;Zygarde 10% Forme;;Power Construct;Aura Break
+44;0491;Darkrai;;;Bad Dreams
+45;0835;Yamper;Rattled;;Ball Fetch
+46;0737;Charjabug;;;Battery
+47;0140;Kabuto;Weak Armor;Swift Swim;Battle Armor
+48;0141;Kabutops;Weak Armor;Swift Swim;Battle Armor
+49;0347;Anorith;Swift Swim;;Battle Armor
+50;0348;Armaldo; Swift Swim;;Battle Armor
+51;0451;Skorupi;Keen Eye;Sniper;Battle Armor
+52;0452;Drapion;Keen Eye;Sniper;Battle Armor
+53;0772;Type: Null;;;Battle Armor
+54;0863;Perrserker;Steely Spirit;Tough Claws;Battle Armor
+55;0870;Falinks;Defiant;;Battle Armor
+56;0658;Greninja Ash-Greninja;;;Battle Bond
+57;1004;Chi-Yu;;;Beads of Ruin
+58;0793;Nihilego;;;Beast Boost
+59;0794;Buzzwole;;;Beast Boost
+60;0795;Pheromosa;;;Beast Boost
+61;0796;Xurkitree;;;Beast Boost
+62;0797;Celesteela;;;Beast Boost
+63;0798;Kartana;;;Beast Boost
+64;0799;Guzzlord;;;Beast Boost
+65;0803;Poipole;;;Beast Boost
+66;0804;Naganadel;;;Beast Boost
+67;0805;Stakataka;;;Beast Boost
+68;0806;Blacephalon;;;Beast Boost
+69;0146;Moltres Galarian Moltres;;;Berserk
+70;0780;Drampa;Cloud Nine;Sap Sipper;Berserk
+71;0519;Pidove;Rivalry;Super Luck;Big Pecks
+72;0520;Tranquill;Rivalry;Super Luck;Big Pecks
+73;0521;Unfezant;Rivalry;Super Luck;Big Pecks
+74;0580;Ducklett;Hydration;Keen Eye;Big Pecks
+75;0581;Swanna;Hydration;Keen Eye;Big Pecks
+76;0629;Vullaby;Weak Armor;Overcoat;Big Pecks
+77;0630;Mandibuzz;Weak Armor;Overcoat;Big Pecks
+78;0661;Fletchling;Gale Wings;;Big Pecks
+79;0962;Bombirdier;Rocky Payload;Keen Eye;Big Pecks
+80;0004;Charmander;Solar Power;;Blaze
+81;0005;Charmeleon;Solar Power;;Blaze
+82;0006;Charizard;Solar Power;;Blaze
+83;0155;Cyndaquil;Flash Fire;;Blaze
+84;0156;Quilava;Flash Fire;;Blaze
+85;0157;Typhlosion;Flash Fire;;Blaze
+86;0157;Typhlosion Hisuian Typhlosion;Frisk;;Blaze
+87;0255;Torchic;Speed Boost;;Blaze
+88;0256;Combusken;Speed Boost;;Blaze
+89;0257;Blaziken;Speed Boost;;Blaze
+90;0390;Chimchar;Iron Fist;;Blaze
+91;0391;Monferno;Iron Fist;;Blaze
+92;0392;Infernape;Iron Fist;;Blaze
+93;0498;Tepig;Thick Fat;;Blaze
+94;0499;Pignite;Thick Fat;;Blaze
+95;0500;Emboar;Reckless;;Blaze
+96;0653;Fennekin;Magician;;Blaze
+97;0654;Braixen;Magician;;Blaze
+98;0655;Delphox;Magician;;Blaze
+99;0725;Litten;Intimidate;;Blaze
+100;0726;Torracat;Intimidate;;Blaze
+101;0727;Incineroar;Intimidate;;Blaze
+102;0813;Scorbunny;Libero;;Blaze
+103;0814;Raboot;Libero;;Blaze
+104;0815;Cinderace;Libero;;Blaze
+105;0909;Fuecoco;Unaware;;Blaze
+106;0910;Crocalor;Unaware;;Blaze
+107;0911;Skeledirge;Unaware;;Blaze
+108;0659;Bunnelby;Huge Power;Pickup;Cheek Pouch
+109;0660;Diggersby;Huge Power;Pickup;Cheek Pouch
+110;0702;Dedenne;Plus;Pickup;Cheek Pouch
+111;0819;Skwovet;Gluttony;;Cheek Pouch
+112;0820;Greedent;Gluttony;;Cheek Pouch
+113;0925;Maushold Family of Four;Technician;Friend Guard;Cheek Pouch
+114;0925;Maushold Family of Three;Technician;Friend Guard;Cheek Pouch
+115;0782;Jangmo-o;Overcoat;Soundproof;Bulletproof
+116;0783;Hakamo-o;Overcoat;Soundproof;Bulletproof
+117;0784;Kommo-o;Overcoat;Soundproof;Bulletproof
+118;0901;Ursaluna;Unnerve;Guts;Bulletproof
+119;0896;Glastrier;;;Chilling Neigh
+120;0043;Oddish;Run Away;;Chlorophyll
+121;0044;Gloom;Stench;;Chlorophyll
+122;0045;Vileplume;Effect Spore;;Chlorophyll
+123;0069;Bellsprout;Gluttony;;Chlorophyll
+124;0070;Weepinbell;Gluttony;;Chlorophyll
+125;0071;Victreebel;Gluttony;;Chlorophyll
+126;0102;Exeggcute;Harvest;;Chlorophyll
+127;0103;Exeggutor;Harvest;;Chlorophyll
+128;0114;Tangela;Regenerator;Leaf Guard;Chlorophyll
+129;0182;Bellossom;Healer;;Chlorophyll
+130;0187;Hoppip;Infiltrator;Leaf Guard;Chlorophyll
+131;0188;Skiploom;Infiltrator;Leaf Guard;Chlorophyll
+132;0189;Jumpluff;Infiltrator;Leaf Guard;Chlorophyll
+133;0191;Sunkern;Early Bird;Solar Power;Chlorophyll
+134;0192;Sunflora;Early Bird ;Solar Power;Chlorophyll
+135;0273;Seedot;Pickpocket;Early Bird;Chlorophyll
+136;0274;Nuzleaf;Pickpocket;Early Bird;Chlorophyll
+137;0275;Shiftry;Pickpocket;Early Bird;Chlorophyll
+138;0357;Tropius;Harvest;Solar Power;Chlorophyll
+139;0420;Cherubi;;;Chlorophyll
+140;0465;Tangrowth;Regenerator;Leaf Guard;Chlorophyll
+141;0540;Sewaddle;Overcoat;Swarm;Chlorophyll
+142;0541;Swadloon;Overcoat;Leaf Guard;Chlorophyll
+143;0542;Leavanny;Overcoat;Swarm;Chlorophyll
+144;0548;Petilil;Leaf Guard;Own Tempo;Chlorophyll
+145;0549;Lilligant;Leaf Guard;Own Tempo;Chlorophyll
+146;0549;Lilligant Hisuian Lilligant;Leaf Guard;Hustle;Chlorophyll
+147;0556;Maractus;Storm Drain;Water Absorb;Chlorophyll
+148;0585;Deerling;Serene Grace;Sap Sipper;Chlorophyll
+149;0586;Sawsbuck;Serene Grace;Sap Sipper;Chlorophyll
+150;0951;Capsakid;Klutz;Insomnia;Chlorophyll
+151;0952;Scovillain;Moody;Insomnia;Chlorophyll
+152;0072;Tentacool;Rain Dish;Liquid Ooze;Clear Body
+153;0073;Tentacruel;Rain Dish;Liquid Ooze;Clear Body
+154;0374;Beldum;Light Metal;;Clear Body
+155;0375;Metang;Light Metal;;Clear Body
+156;0376;Metagross;Light Metal;;Clear Body
+157;0377;Regirock;Sturdy;;Clear Body
+158;0378;Regice;Ice Body;;Clear Body
+159;0379;Registeel;Light Metal;;Clear Body
+160;0703;Carbink;Sturdy;;Clear Body
+161;0719;Diancie;;;Clear Body
+162;0885;Dreepy;Cursed Body;Infiltrator;Clear Body
+163;0886;Drakloak;Cursed Body;Infiltrator;Clear Body
+164;0887;Dragapult;Cursed Body;Infiltrator;Clear Body
+165;0054;Psyduck;Swift Swim;Damp;Cloud Nine
+166;0055;Golduck;Swift Swim;Damp;Cloud Nine
+167;0352;Kecleon;Protean;;Color Change
+168;0775;Komala;;;Comatose
+169;0978;Tatsugiri Curly Form;Storm Drain;;Commander
+170;0039;Jigglypuff;Friend Guard;Cute Charm;Competitive
+171;0040;Wigglytuff;Frisk;Cute Charm;Competitive
+172;0144;Articuno Galarian Articuno;;;Competitive
+173;0174;Igglybuff;Friend Guard;Cute Charm;Competitive
+174;0350;Milotic;Cute Charm;Marvel Scale;Competitive
+175;0574;Gothita;Shadow Tag;Frisk;Competitive
+176;0575;Gothorita;Shadow Tag;Frisk;Competitive
+177;0576;Gothitelle;Shadow Tag;Frisk;Competitive
+178;0012;Butterfree;Tinted Lens;;Compound Eyes
+179;0048;Venonat;Run Away;Tinted Lens;Compound Eyes
+180;0193;Yanma;Frisk;Speed Boost;Compound Eyes
+181;0290;Nincada;Run Away;;Compound Eyes
+182;0595;Joltik;Swarm;Unnerve;Compound Eyes
+183;0596;Galvantula;Swarm;Unnerve;Compound Eyes
+184;0664;Scatterbug;Friend Guard;Shield Dust;Compound Eyes
+185;0666;Vivillon;Friend Guard;Shield Dust;Compound Eyes
+186;0824;Blipbug;Telepathy;Swarm;Compound Eyes
+187;0825;Dottler;Telepathy;Swarm;Compound Eyes
+188;0953;Rellor;Shed Skin;;Compound Eyes
+189;0686;Inkay;Infiltrator;Suction Cups;Contrary
+190;0687;Malamar;Infiltrator;Suction Cups;Contrary
+191;0757;Salandit;Oblivious;;Corrosion
+192;0758;Salazzle;Oblivious;;Corrosion
+193;0829;Gossifleur;Effect Spore;Regenerator;Cotton Down
+194;0830;Eldegoss;Effect Spore;Regenerator;Cotton Down
+195;0981;Farigiraf;Sap Sipper;Armor Tail;Cud Chew
+196;0199;Slowking Galarian Slowking;Regenerator;Own Tempo;Curious Medicine
+197;0094;Gengar;;;Cursed Body
+198;0105;Marowak Alolan Marowak;Rock Head;Lightning Rod;Cursed Body
+199;0592;Frillish;Damp;Water Absorb;Cursed Body
+200;0593;Jellicent;Damp;Water Absorb;Cursed Body
+201;0035;Clefairy;Friend Guard;Magic Guard;Cute Charm
+202;0036;Clefable;Unaware;Magic Guard;Cute Charm
+203;0039;Jigglypuff;Friend Guard;Competitive;Cute Charm
+204;0040;Wigglytuff;Frisk;Competitive;Cute Charm
+205;0173;Cleffa;Friend Guard;Magic Guard;Cute Charm
+206;0174;Igglybuff;Friend Guard;Competitive;Cute Charm
+207;0300;Skitty;Wonder Skin;Normalize;Cute Charm
+208;0301;Delcatty;Wonder Skin;Normalize;Cute Charm
+209;0428;Lopunny;Limber;Klutz;Cute Charm
+210;0572;Minccino;Skill Link;Technician;Cute Charm
+211;0573;Cinccino;Skill Link;Technician;Cute Charm
+212;0700;Sylveon;Pixilate;;Cute Charm
+213;0905;Enamorus Incarnate Forme;Contrary;;Cute Charm
+214;0054;Psyduck;Swift Swim;Cloud Nine;Damp
+215;0055;Golduck;Swift Swim;Cloud Nine;Damp
+216;0060;Poliwag;Swift Swim;Water Absorb;Damp
+217;0061;Poliwhirl;Swift Swim;Water Absorb;Damp
+218;0062;Poliwrath;Swift Swim;Water Absorb;Damp
+219;0186;Politoed;Drizzle;Water Absorb;Damp
+220;0194;Wooper;Unaware;Water Absorb;Damp
+221;0195;Quagsire;Unaware;Water Absorb;Damp
+222;0741;Oricorio Baile Style;;;Dancer
+223;0741;Oricorio Pom-Pom Style;;;Dancer
+224;0741;Oricorio Pa'u Style;;;Dancer
+225;0741;Oricorio Sensu Style;;;Dancer
+226;0717;Yveltal;;;Dark Aura
+227;0889;Zamazenta Hero of Many Battles;;;Dauntless Shield
+228;0889;Zamazenta Crowned Shield;;;Dauntless Shield
+229;0779;Bruxish;Wonder Skin;Strong Jaw;Dazzling
+230;0566;Archen;;;Defeatist
+231;0567;Archeops;;;Defeatist
+232;0145;Zapdos Galarian Zapdos;;;Defiant
+233;0624;Pawniard;Pressure;Inner Focus;Defiant
+234;0625;Bisharp;Pressure;Inner Focus;Defiant
+235;0983;Kingambit;Pressure;Supreme Overlord;Defiant
+236;0384;Rayquaza Mega Rayquaza;;;Delta Stream
+237;0383;Groudon Primal Groudon;;;Desolate Land
+238;0778;Mimikyu;;;Disguise
+239;0137;Porygon;Analytic;Trace;Download
+240;0233;Porygon2;Analytic;Trace;Download
+241;0474;Porygon-Z;Analytic;Adaptability;Download
+242;0649;Genesect;;;Download
+243;0279;Pelipper;Rain Dish;Keen Eye;Drizzle
+244;0382;Kyogre;;;Drizzle
+245;0006;Charizard Mega Charizard Y;;;Drought
+246;0324;Torkoal;Shell Armor;White Smoke;Drought
+247;0383;Groudon;— ;;Drought
+248;0046;Paras;Damp;Effect Spore;Dry Skin
+249;0047;Parasect;Damp;Effect Spore;Dry Skin
+250;0453;Croagunk;Poison Touch;Anticipation;Dry Skin
+251;0454;Toxicroak;Poison Touch;Anticipation;Dry Skin
+252;0694;Helioptile;Solar Power;Sand Veil;Dry Skin
+253;0695;Heliolisk;Solar Power;Sand Veil;Dry Skin
+254;0084;Doduo;Tangled Feet;Run Away;Early Bird
+255;0085;Dodrio;Tangled Feet;Run Away;Early Bird
+256;0115;Kangaskhan;Inner Focus;Scrappy;Early Bird
+257;0165;Ledyba;Rattled;Swarm;Early Bird
+258;0166;Ledian;Iron Fist;Swarm;Early Bird
+259;0177;Natu;Magic Bounce;Synchronize;Early Bird
+260;0178;Xatu;Magic Bounce;Synchronize;Early Bird
+261;0203;Girafarig;Sap Sipper;Inner Focus;Early Bird
+262;0228;Houndour;Unnerve;Flash Fire;Early Bird
+263;0229;Houndoom;Unnerve;Flash Fire;Early Bird
+264;0273;Seedot;Pickpocket;Chlorophyll;Early Bird
+265;0274;Nuzleaf;Pickpocket;Chlorophyll;Early Bird
+266;0275;Shiftry;Pickpocket;Chlorophyll;Early Bird
+267;0928;Smoliv;Harvest;;Early Bird
+268;0929;Dolliv;Harvest;;Early Bird
+269;0968;Orthworm;Sand Veil;;Earth Eater
+270;0046;Paras;Damp;Dry Skin;Effect Spore
+271;0047;Parasect;Damp;Dry Skin;Effect Spore
+272;0285;Shroomish;Quick Feet;Poison Heal;Effect Spore
+273;0286;Breloom;Technician;Poison Heal;Effect Spore
+274;0590;Foongus;Regenerator;;Effect Spore
+275;0591;Amoonguss;Regenerator;;Effect Spore
+276;0755;Morelull;Rain Dish;Illuminate;Effect Spore
+277;0756;Shiinotic;Rain Dish;Illuminate;Effect Spore
+278;0785;Tapu Koko;Telepathy;;Electric Surge
+279;0939;Bellibolt;Damp;Static;Electromorphosis
+280;0768;Golisopod;;;Emergency Exit
+281;0716;Xerneas;;;Fairy Aura
+282;0122;Mr. Mime;Technician;Soundproof;Filter
+283;0306;Aggron Mega Aggron;;;Filter
+284;0439;Mime Jr.;Technician;Soundproof;Filter
+285;0126;Magmar;Vital Spirit;;Flame Body
+286;0218;Slugma;Weak Armor;Magma Armor;Flame Body
+287;0219;Magcargo;Weak Armor;Magma Armor;Flame Body
+288;0240;Magby;Vital Spirit;;Flame Body
+289;0467;Magmortar;Vital Spirit;;Flame Body
+290;0607;Litwick;Infiltrator;Flash Fire;Flame Body
+291;0608;Lampent;Infiltrator;Flash Fire;Flame Body
+292;0609;Chandelure;Infiltrator;Flash Fire;Flame Body
+293;0636;Larvesta;Swarm;;Flame Body
+294;0637;Volcarona;Swarm;;Flame Body
+295;0662;Fletchinder;Gale Wings;;Flame Body
+296;0663;Talonflame;Gale Wings;;Flame Body
+297;0838;Carkol;Flash Fire;Steam Engine;Flame Body
+298;0839;Coalossal;Flash Fire;Steam Engine;Flame Body
+299;0037;Vulpix;Drought;;Flash Fire
+300;0038;Ninetales;Drought;;Flash Fire
+301;0058;Growlithe;Justified;Intimidate;Flash Fire
+302;0058;Growlithe Hisuian Growlithe;Rock Head;Intimidate;Flash Fire
+303;0059;Arcanine;Justified;Intimidate;Flash Fire
+304;0059;Arcanine Hisuian Arcanine;Rock Head;Intimidate;Flash Fire
+305;0077;Ponyta;Flame Body;Run Away;Flash Fire
+306;0078;Rapidash;Flame Body;Run Away;Flash Fire
+307;0136;Flareon;Guts;;Flash Fire
+308;0228;Houndour;Unnerve;Early Bird;Flash Fire
+309;0229;Houndoom;Unnerve;Early Bird;Flash Fire
+310;0485;Heatran;Flame Body;;Flash Fire
+311;0607;Litwick;Infiltrator;Flame Body;Flash Fire
+312;0608;Lampent;Infiltrator;Flame Body;Flash Fire
+313;0609;Chandelure;Infiltrator;Flame Body;Flash Fire
+314;0631;Heatmor;White Smoke;Gluttony;Flash Fire
+315;0850;Sizzlipede;Flame Body;White Smoke;Flash Fire
+316;0851;Centiskorch;Flame Body;White Smoke;Flash Fire
+317;0935;Charcadet;Flame Body;;Flash Fire
+318;0936;Armarouge;Weak Armor;;Flash Fire
+319;0937;Ceruledge;Weak Armor;;Flash Fire
+320;0421;Cherrim;;;Flower Gift
+321;0669;Flabébé;Symbiosis;;Flower Veil
+322;0670;Floette;Symbiosis;;Flower Veil
+323;0671;Florges;Symbiosis;;Flower Veil
+324;0764;Comfey;Natural Cure;Triage;Flower Veil
+325;0759;Stufful;Cute Charm;Klutz;Fluffy
+326;0760;Bewear;Unnerve;Klutz;Fluffy
+327;0831;Wooloo;Bulletproof;Run Away;Fluffy
+328;0832;Dubwool;Bulletproof;Steadfast;Fluffy
+329;0351;Castform;;;Forecast
+330;0351;Castform Sunny Form;;;Forecast
+331;0351;Castform Rainy Form;;;Forecast
+332;0351;Castform Snowy Form;;;Forecast
+333;0096;Drowzee;Inner Focus;Insomnia;Forewarn
+334;0097;Hypno;Inner Focus;Insomnia;Forewarn
+335;0124;Jynx;Dry Skin;Oblivious;Forewarn
+336;0238;Smoochum;Hydration;Oblivious;Forewarn
+337;0517;Munna;Telepathy;Synchronize;Forewarn
+338;0518;Musharna;Telepathy;Synchronize;Forewarn
+339;0925;Maushold Family of Four;Technician;Cheek Pouch;Friend Guard
+340;0925;Maushold Family of Three;Technician;Cheek Pouch;Friend Guard
+341;0103;Exeggutor Alolan Exeggutor;Harvest;;Frisk
+342;0234;Stantler;Sap Sipper;Intimidate;Frisk
+343;0353;Shuppet;Cursed Body;Insomnia;Frisk
+344;0354;Banette;Cursed Body;Insomnia;Frisk
+345;0574;Gothita;Shadow Tag;Competitive;Frisk
+346;0575;Gothorita;Shadow Tag;Competitive;Frisk
+347;0576;Gothitelle;Shadow Tag;Competitive;Frisk
+348;0708;Phantump;Harvest;Natural Cure;Frisk
+349;0709;Trevenant;Harvest;Natural Cure;Frisk
+350;0710;Pumpkaboo Average Size;Insomnia;Pickup;Frisk
+351;0710;Pumpkaboo Small Size;Insomnia;Pickup;Frisk
+352;0710;Pumpkaboo Large Size;Insomnia;Pickup;Frisk
+353;0710;Pumpkaboo Super Size;Insomnia;Pickup;Frisk
+354;0711;Gourgeist Average Size;Insomnia;Pickup;Frisk
+355;0711;Gourgeist Small Size;Insomnia;Pickup;Frisk
+356;0711;Gourgeist Large Size;Insomnia;Pickup;Frisk
+357;0711;Gourgeist Super Size;Insomnia;Pickup;Frisk
+358;0714;Noibat;Telepathy;Infiltrator;Frisk
+359;0715;Noivern;Telepathy;Infiltrator;Frisk
+360;0826;Orbeetle;Telepathy;Swarm;Frisk
+361;0859;Impidimp;Pickpocket;Prankster;Frisk
+362;0860;Morgrem;Pickpocket;Prankster;Frisk
+363;0861;Grimmsnarl;Pickpocket;Prankster;Frisk
+364;0899;Wyrdeer;Sap Sipper;Intimidate;Frisk
+365;0955;Flittle;Speed Boost;Anticipation;Frisk
+366;0956;Espathra;Speed Boost;Opportunist;Frisk
+367;0791;Solgaleo;;;Full Metal Body
+368;0053;Persian Alolan Persian;Rattled;Technician;Fur Coat
+369;0676;Furfrou;;;Fur Coat
+370;0019;Rattata Alolan Rattata;Thick Fat;Hustle;Gluttony
+371;0020;Raticate Alolan Raticate;Thick Fat;Hustle;Gluttony
+372;0079;Slowpoke Galarian Slowpoke;Regenerator;Own Tempo;Gluttony
+373;0088;Grimer Alolan Grimer;Power of Alchemy;Poison Touch;Gluttony
+374;0089;Muk Alolan Muk;Power of Alchemy;Poison Touch;Gluttony
+375;0213;Shuckle;Contrary;Sturdy;Gluttony
+376;0263;Zigzagoon;Quick Feet;Pickup;Gluttony
+377;0263;Zigzagoon Galarian Zigzagoon;Quick Feet;Pickup;Gluttony
+378;0264;Linoone;Quick Feet;Pickup;Gluttony
+379;0264;Linoone Galarian Linoone;Quick Feet;Pickup;Gluttony
+380;0511;Pansage;Overgrow;;Gluttony
+381;0512;Simisage;Overgrow;;Gluttony
+382;0513;Pansear;Blaze;;Gluttony
+383;0514;Simisear;Blaze;;Gluttony
+384;0515;Panpour;Torrent;;Gluttony
+385;0516;Simipour;Torrent;;Gluttony
+386;0631;Heatmor;White Smoke;Flash Fire;Gluttony
+387;0840;Applin;Bulletproof;Ripen;Gluttony
+388;0841;Flapple;Hustle;Ripen;Gluttony
+389;0842;Appletun;Thick Fat;Ripen;Gluttony
+390;0915;Lechonk;Thick Fat;Aroma Veil;Gluttony
+391;0916;Oinkologne Male;Thick Fat;Lingering Aroma;Gluttony
+392;0916;Oinkologne Female;Thick Fat;Aroma Veil;Gluttony
+393;1000;Gholdengo;;;Good as Gold
+394;0555;Darmanitan Galarian Standard Mode;Zen Mode;;Gorilla Tactics
+395;0555;Darmanitan Galarian Zen Mode;Zen Mode;;Gorilla Tactics
+396;0960;Wiglett;Sand Veil;Rattled;Gooey
+397;0961;Wugtrio;Sand Veil;Rattled;Gooey
+398;0787;Tapu Bulu;Telepathy;;Grassy Surge
+399;0897;Spectrier;;;Grim Neigh
+400;0943;Mabosstiff;Stakeout;Intimidate;Guard Dog
+401;0845;Cramorant;;;Gulp Missile
+402;0019;Rattata;Hustle;Run Away;Guts
+403;0020;Raticate;Hustle;Run Away;Guts
+404;0066;Machop;Steadfast;No Guard;Guts
+405;0067;Machoke;Steadfast;No Guard;Guts
+406;0068;Machamp;Steadfast;No Guard;Guts
+407;0214;Heracross;Moxie;Swarm;Guts
+408;0217;Ursaring;Unnerve;Quick Feet;Guts
+409;0236;Tyrogue;Vital Spirit;Steadfast;Guts
+410;0246;Larvitar;Sand Veil;;Guts
+411;0276;Taillow;Scrappy;;Guts
+412;0277;Swellow;Scrappy;;Guts
+413;0296;Makuhita;Sheer Force;Thick Fat;Guts
+414;0297;Hariyama;Sheer Force;Thick Fat;Guts
+415;0532;Timburr;Iron Fist;Sheer Force;Guts
+416;0533;Gurdurr;Iron Fist;Sheer Force;Guts
+417;0534;Conkeldurr;Iron Fist;Sheer Force;Guts
+418;0538;Throh;Mold Breaker;Inner Focus;Guts
+419;0862;Obstagoon;Defiant;Reckless;Guts
+420;0901;Ursaluna;Unnerve;Bulletproof;Guts
+421;1008;Miraidon;;;Hadron Engine
+422;0531;Audino;Klutz;Regenerator;Healer
+423;0531;Audino Mega Audino;;;Healer
+424;0594;Alomomola;Regenerator;Hydration;Healer
+425;0682;Spritzee;Aroma Veil;;Healer
+426;0683;Aromatisse;Aroma Veil;;Healer
+427;0856;Hatenna;Magic Bounce;Anticipation;Healer
+428;0857;Hattrem;Magic Bounce;Anticipation;Healer
+429;0858;Hatterene;Magic Bounce;Anticipation;Healer
+430;0436;Bronzor;Heavy Metal;Levitate;Heatproof
+431;0437;Bronzong;Heavy Metal;Levitate;Heatproof
+432;0837;Rolycoly;Flash Fire;Steam Engine;Heatproof
+433;0884;Duraludon;Stalwart;Light Metal;Heavy Metal
+434;0415;Combee;Hustle;;Honey Gather
+435;0742;Cutiefly;Sweet Veil;Shield Dust;Honey Gather
+436;0743;Ribombee;Sweet Veil;Shield Dust;Honey Gather
+437;0183;Marill;Sap Sipper;Thick Fat;Huge Power
+438;0184;Azumarill;Sap Sipper;Thick Fat;Huge Power
+439;0298;Azurill;Sap Sipper;Thick Fat;Huge Power
+440;0303;Mawile Mega Mawile; —;;Huge Power
+441;0877;Morpeko Full Belly Mode;;;Hunger Switch
+442;0877;Morpeko Hangry Mode;;;Hunger Switch
+443;0019;Rattata Alolan Rattata;Thick Fat;Gluttony;Hustle
+444;0020;Raticate Alolan Raticate;Thick Fat;Gluttony;Hustle
+445;0175;Togepi;Super Luck;Serene Grace;Hustle
+446;0176;Togetic;Super Luck;Serene Grace;Hustle
+447;0222;Corsola;Regenerator;Natural Cure;Hustle
+448;0223;Remoraid;Moody;Sniper;Hustle
+449;0225;Delibird;Insomnia;Vital Spirit;Hustle
+450;0468;Togekiss;Super Luck;Serene Grace;Hustle
+451;0549;Lilligant Hisuian Lilligant;Leaf Guard;Chlorophyll;Hustle
+452;0554;Darumaka;Inner Focus;;Hustle
+453;0554;Darumaka Galarian Darumaka;Inner Focus;;Hustle
+454;0632;Durant;Truant;Swarm;Hustle
+455;0633;Deino;;;Hustle
+456;0634;Zweilous;;;Hustle
+457;0880;Dracozolt;Sand Rush;Volt Absorb;Hustle
+458;0931;Squawkabilly Green Plumage;Guts;Intimidate;Hustle
+459;0931;Squawkabilly Blue Plumage;Guts;Intimidate;Hustle
+460;0931;Squawkabilly Yellow Plumage;Sheer Force;Intimidate;Hustle
+461;0931;Squawkabilly White Plumage;Sheer Force;Intimidate;Hustle
+462;0086;Seel;Ice Body;Thick Fat;Hydration
+463;0087;Dewgong;Ice Body;Thick Fat;Hydration
+464;0278;Wingull;Rain Dish;Keen Eye;Hydration
+465;0489;Phione;;;Hydration
+466;0490;Manaphy;;;Hydration
+467;0535;Tympole;Water Absorb;Swift Swim;Hydration
+468;0536;Palpitoad;Water Absorb;Swift Swim;Hydration
+469;0594;Alomomola;Regenerator;Healer;Hydration
+470;0616;Shelmet;Overcoat;Shell Armor;Hydration
+471;0617;Accelgor;Unburden;Sticky Hold;Hydration
+472;0704;Goomy;Gooey;Sap Sipper;Hydration
+473;0705;Sliggoo;Gooey;Sap Sipper;Hydration
+474;0706;Goodra;Gooey;Sap Sipper;Hydration
+475;0098;Krabby;Sheer Force;Shell Armor;Hyper Cutter
+476;0099;Kingler;Sheer Force;Shell Armor;Hyper Cutter
+477;0127;Pinsir;Moxie;Mold Breaker;Hyper Cutter
+478;0207;Gligar;Immunity;Sand Veil;Hyper Cutter
+479;0303;Mawile;Sheer Force;Intimidate;Hyper Cutter
+480;0328;Trapinch;Sheer Force;Arena Trap;Hyper Cutter
+481;0341;Corphish;Adaptability;Shell Armor;Hyper Cutter
+482;0342;Crawdaunt;Adaptability;Shell Armor;Hyper Cutter
+483;0472;Gliscor;Poison Heal;Sand Veil;Hyper Cutter
+484;0739;Crabrawler;Anger Point;Iron Fist;Hyper Cutter
+485;0740;Crabominable;Anger Point;Iron Fist;Hyper Cutter
+486;0361;Snorunt;Moody;Inner Focus;Ice Body
+487;0362;Glalie;Moody;Inner Focus;Ice Body
+488;0363;Spheal;Oblivious;Thick Fat;Ice Body
+489;0364;Sealeo;Oblivious ;Thick Fat;Ice Body
+490;0365;Walrein;Oblivious;Thick Fat;Ice Body
+491;0582;Vanillite;Weak Armor;Snow Cloak;Ice Body
+492;0583;Vanillish;Weak Armor;Snow Cloak;Ice Body
+493;0584;Vanilluxe;Weak Armor;Snow Warning;Ice Body
+494;0712;Bergmite;Sturdy;Own Tempo;Ice Body
+495;0713;Avalugg;Sturdy;Own Tempo;Ice Body
+496;0713;Avalugg Hisuian Avalugg;Sturdy;Strong Jaw;Ice Body
+497;0883;Arctovish;Slush Rush;Water Absorb;Ice Body
+498;0875;Eiscue Ice Face;;;Ice Face
+499;0875;Eiscue Noice Face;;;Ice Face
+500;0120;Staryu;Analytic;Natural Cure;Illuminate
+501;0121;Starmie;Analytic;Natural Cure;Illuminate
+502;0170;Chinchou;Water Absorb;Volt Absorb;Illuminate
+503;0171;Lanturn;Water Absorb;Volt Absorb;Illuminate
+504;0313;Volbeat;Prankster;Swarm;Illuminate
+505;0505;Watchog;Analytic;Keen Eye;Illuminate
+506;0755;Morelull;Rain Dish;Effect Spore;Illuminate
+507;0756;Shiinotic;Rain Dish;Effect Spore;Illuminate
+508;0570;Zorua;;;Illusion
+509;0570;Zorua Hisuian Zorua;;;Illusion
+510;0571;Zoroark;;;Illusion
+511;0571;Zoroark Hisuian Zoroark;;;Illusion
+512;0143;Snorlax;Gluttony;Thick Fat;Immunity
+513;0335;Zangoose;Toxic Boost;;Immunity
+514;0546;Cottonee;Chlorophyll;Prankster;Infiltrator
+515;0547;Whimsicott;Chlorophyll;Prankster;Infiltrator
+516;0677;Espurr;Own Tempo;Keen Eye;Infiltrator
+517;0678;Meowstic Male;Prankster;Keen Eye;Infiltrator
+518;0678;Meowstic Female;Competitive;Keen Eye;Infiltrator
+519;0714;Noibat;Telepathy;Frisk;Infiltrator
+520;0715;Noivern;Telepathy;Frisk;Infiltrator
+521;0885;Dreepy;Cursed Body;Clear Body;Infiltrator
+522;0886;Drakloak;Cursed Body;Clear Body;Infiltrator
+523;0887;Dragapult;Cursed Body;Clear Body;Infiltrator
+524;0771;Pyukumuku;Unaware;;Innards Out
+525;0041;Zubat;Infiltrator;;Inner Focus
+526;0042;Golbat;Infiltrator;;Inner Focus
+527;0063;Abra;Magic Guard;Synchronize;Inner Focus
+528;0064;Kadabra;Magic Guard;Synchronize;Inner Focus
+529;0065;Alakazam;Magic Guard;Synchronize;Inner Focus
+530;0083;Farfetch'd;Defiant;Keen Eye;Inner Focus
+531;0149;Dragonite;Multiscale;;Inner Focus
+532;0169;Crobat;Infiltrator;;Inner Focus
+533;0203;Girafarig;Sap Sipper;Early Bird;Inner Focus
+534;0215;Sneasel;Pickpocket;Keen Eye;Inner Focus
+535;0215;Sneasel Hisuian Sneasel;Pickpocket;Keen Eye;Inner Focus
+536;0361;Snorunt;Moody;Ice Body;Inner Focus
+537;0362;Glalie;Moody;Ice Body;Inner Focus
+538;0447;Riolu;Prankster;Steadfast;Inner Focus
+539;0448;Lucario;Justified;Steadfast;Inner Focus
+540;0475;Gallade Mega Gallade;;;Inner Focus
+541;0538;Throh;Mold Breaker;Guts;Inner Focus
+542;0539;Sawk;Mold Breaker;Sturdy;Inner Focus
+543;0619;Mienfoo;Reckless;Regenerator;Inner Focus
+544;0620;Mienshao;Reckless;Regenerator;Inner Focus
+545;0624;Pawniard;Pressure;Defiant;Inner Focus
+546;0625;Bisharp;Pressure;Defiant;Inner Focus
+547;0765;Oranguru;Symbiosis;Telepathy;Inner Focus
+548;0876;Indeedee Male;Psychic Surge;Synchronize;Inner Focus
+549;0891;Kubfu;;;Inner Focus
+550;0979;Annihilape;Defiant;Vital Spirit;Inner Focus
+551;0096;Drowzee;Inner Focus;Forewarn;Insomnia
+552;0097;Hypno;Inner Focus;Forewarn;Insomnia
+553;0150;Mewtwo Mega Mewtwo Y;;;Insomnia
+554;0163;Hoothoot;Tinted Lens;Keen Eye;Insomnia
+555;0164;Noctowl;Tinted Lens;Keen Eye;Insomnia
+556;0167;Spinarak;Sniper;Swarm;Insomnia
+557;0168;Ariados;Sniper;Swarm;Insomnia
+558;0198;Murkrow;Prankster;Super Luck;Insomnia
+559;0353;Shuppet;Cursed Body;Frisk;Insomnia
+560;0354;Banette;Cursed Body;Frisk;Insomnia
+561;0430;Honchkrow;Moxie;Super Luck;Insomnia
+562;0917;Tarountula;Stakeout;;Insomnia
+563;0918;Spidops;Stakeout;;Insomnia
+564;0951;Capsakid;Klutz;Chlorophyll;Insomnia
+565;0952;Scovillain;Moody;Chlorophyll;Insomnia
+566;0023;Ekans;Unnerve;Shed Skin;Intimidate
+567;0024;Arbok;Unnerve;Shed Skin;Intimidate
+568;0058;Growlithe;Justified;Flash Fire;Intimidate
+569;0058;Growlithe Hisuian Growlithe;Rock Head;Flash Fire;Intimidate
+570;0059;Arcanine;Justified;Flash Fire;Intimidate
+571;0059;Arcanine Hisuian Arcanine;Rock Head;Flash Fire;Intimidate
+572;0128;Tauros;Sheer Force;Anger Point;Intimidate
+573;0128;Tauros Combat Breed;Cud Chew;Anger Point;Intimidate
+574;0128;Tauros Blaze Breed;Cud Chew;Anger Point;Intimidate
+575;0128;Tauros Aqua Breed;Cud Chew;Anger Point;Intimidate
+576;0130;Gyarados;Moxie;;Intimidate
+577;0209;Snubbull;Rattled;Run Away;Intimidate
+578;0210;Granbull;Rattled;Quick Feet;Intimidate
+579;0234;Stantler;Sap Sipper;Frisk;Intimidate
+580;0237;Hitmontop;Steadfast;Technician;Intimidate
+581;0262;Mightyena;Moxie;Quick Feet;Intimidate
+582;0284;Masquerain;Unnerve;;Intimidate
+583;0303;Mawile;Sheer Force;Hyper Cutter;Intimidate
+584;0310;Manectric Mega Manectric;;;Intimidate
+585;0373;Salamence;Moxie;;Intimidate
+586;0397;Staravia;Reckless;;Intimidate
+587;0398;Staraptor;Reckless;;Intimidate
+588;0403;Shinx;Guts;Rivalry;Intimidate
+589;0404;Luxio;Guts;Rivalry;Intimidate
+590;0405;Luxray;Guts;Rivalry;Intimidate
+591;0507;Herdier;Scrappy;Sand Rush;Intimidate
+592;0508;Stoutland;Scrappy;Sand Rush;Intimidate
+593;0551;Sandile;Anger Point;Moxie;Intimidate
+594;0552;Krokorok;Anger Point;Moxie;Intimidate
+595;0553;Krookodile;Anger Point;Moxie;Intimidate
+596;0645;Landorus Therian Forme;;;Intimidate
+597;0899;Wyrdeer;Sap Sipper;Frisk;Intimidate
+598;0931;Squawkabilly Green Plumage;Guts;Hustle;Intimidate
+599;0931;Squawkabilly Blue Plumage;Guts;Hustle;Intimidate
+600;0931;Squawkabilly Yellow Plumage;Sheer Force;Hustle;Intimidate
+601;0931;Squawkabilly White Plumage;Sheer Force;Hustle;Intimidate
+602;0942;Maschiff;Stakeout;Run Away;Intimidate
+603;0943;Mabosstiff;Stakeout;Guard Dog;Intimidate
+604;0888;Zacian Hero of Many Battles;;;Intrepid Sword
+605;0888;Zacian Crowned Sword;;;Intrepid Sword
+606;0597;Ferroseed;;;Iron Barbs
+607;0598;Ferrothorn;Anticipation;;Iron Barbs
+608;0777;Togedemaru;Sturdy;Lightning Rod;Iron Barbs
+609;0107;Hitmonchan;Inner Focus;Keen Eye;Iron Fist
+610;0622;Golett;No Guard;Klutz;Iron Fist
+611;0623;Golurk;No Guard;Klutz;Iron Fist
+612;0674;Pancham;Scrappy;Mold Breaker;Iron Fist
+613;0675;Pangoro;Scrappy;Mold Breaker;Iron Fist
+614;0739;Crabrawler;Anger Point;Hyper Cutter;Iron Fist
+615;0740;Crabominable;Anger Point;Hyper Cutter;Iron Fist
+616;0809;Melmetal;;;Iron Fist
+617;0638;Cobalion;;;Justified
+618;0639;Terrakion;;;Justified
+619;0640;Virizion;;;Justified
+620;0647;Keldeo Ordinary Form;;;Justified
+621;0647;Keldeo Resolute Form;;;Justified
+622;0016;Pidgey;Big Pecks;Tangled Feet;Keen Eye
+623;0017;Pidgeotto;Big Pecks;Tangled Feet;Keen Eye
+624;0018;Pidgeot;Big Pecks;Tangled Feet;Keen Eye
+625;0021;Spearow;Sniper;;Keen Eye
+626;0022;Fearow;Sniper;;Keen Eye
+627;0083;Farfetch'd;Defiant;Inner Focus;Keen Eye
+628;0107;Hitmonchan;Inner Focus;Iron Fist;Keen Eye
+629;0161;Sentret;Frisk;Run Away;Keen Eye
+630;0162;Furret;Frisk;Run Away ;Keen Eye
+631;0163;Hoothoot;Tinted Lens;Insomnia;Keen Eye
+632;0164;Noctowl;Tinted Lens;Insomnia;Keen Eye
+633;0215;Sneasel;Pickpocket;Inner Focus;Keen Eye
+634;0215;Sneasel Hisuian Sneasel;Pickpocket;Inner Focus;Keen Eye
+635;0227;Skarmory;Weak Armor;Sturdy;Keen Eye
+636;0278;Wingull;Rain Dish;Hydration;Keen Eye
+637;0279;Pelipper;Rain Dish;Drizzle;Keen Eye
+638;0302;Sableye;Prankster;Stall;Keen Eye
+639;0396;Starly;Reckless;;Keen Eye
+640;0441;Chatot;Big Pecks;Tangled Feet;Keen Eye
+641;0504;Patrat;Analytic;Run Away;Keen Eye
+642;0505;Watchog;Analytic;Illuminate;Keen Eye
+643;0580;Ducklett;Hydration;Big Pecks;Keen Eye
+644;0581;Swanna;Hydration;Big Pecks;Keen Eye
+645;0627;Rufflet;Hustle;Sheer Force;Keen Eye
+646;0628;Braviary;Defiant;Sheer Force;Keen Eye
+647;0628;Braviary Hisuian Braviary;Tinted Lens;Sheer Force;Keen Eye
+648;0677;Espurr;Own Tempo;Infiltrator;Keen Eye
+649;0678;Meowstic Male;Prankster;Infiltrator;Keen Eye
+650;0678;Meowstic Female;Competitive;Infiltrator;Keen Eye
+651;0731;Pikipek;Pickup;Skill Link;Keen Eye
+652;0732;Trumbeak;Pickup;Skill Link;Keen Eye
+653;0733;Toucannon;Sheer Force;Skill Link;Keen Eye
+654;0744;Rockruff;Steadfast;Vital Spirit;Keen Eye
+655;0745;Lycanroc Midday Form;Steadfast;Sand Rush;Keen Eye
+656;0745;Lycanroc Midnight Form;No Guard;Vital Spirit;Keen Eye
+657;0821;Rookidee;Big Pecks;Unnerve;Keen Eye
+658;0822;Corvisquire;Big Pecks;Unnerve;Keen Eye
+659;0962;Bombirdier;Rocky Payload;Big Pecks;Keen Eye
+660;0427;Buneary;Limber;Run Away;Klutz
+661;0428;Lopunny;Limber;Cute Charm;Klutz
+662;0527;Woobat;Simple;Unaware;Klutz
+663;0528;Swoobat;Simple;Unaware;Klutz
+664;0622;Golett;No Guard;Iron Fist;Klutz
+665;0623;Golurk;No Guard;Iron Fist;Klutz
+666;0759;Stufful;Cute Charm;Fluffy;Klutz
+667;0760;Bewear;Unnerve;Fluffy;Klutz
+668;0114;Tangela;Regenerator;Chlorophyll;Leaf Guard
+669;0187;Hoppip;Infiltrator;Chlorophyll;Leaf Guard
+670;0188;Skiploom;Infiltrator;Chlorophyll;Leaf Guard
+671;0189;Jumpluff;Infiltrator;Chlorophyll;Leaf Guard
+672;0465;Tangrowth;Regenerator;Chlorophyll;Leaf Guard
+673;0470;Leafeon;Chlorophyll;;Leaf Guard
+674;0541;Swadloon;Overcoat;Chlorophyll;Leaf Guard
+675;0753;Fomantis;Contrary;;Leaf Guard
+676;0754;Lurantis;Contrary;;Leaf Guard
+677;0761;Bounsweet;Sweet Veil;Oblivious;Leaf Guard
+678;0762;Steenee;Sweet Veil;Oblivious;Leaf Guard
+679;0763;Tsareena;Sweet Veil;Queenly Majesty;Leaf Guard
+680;0893;Zarude;;;Leaf Guard
+681;0092;Gastly;;;Levitate
+682;0093;Haunter;;;Levitate
+683;0109;Koffing;Stench;Neutralizing Gas;Levitate
+684;0110;Weezing;Stench;Neutralizing Gas;Levitate
+685;0110;Weezing Galarian Weezing;Misty Surge;Neutralizing Gas;Levitate
+686;0200;Misdreavus;;;Levitate
+687;0201;Unown;;;Levitate
+688;0329;Vibrava;;;Levitate
+689;0330;Flygon;;;Levitate
+690;0337;Lunatone;;;Levitate
+691;0338;Solrock;;;Levitate
+692;0343;Baltoy;;;Levitate
+693;0344;Claydol;;;Levitate
+694;0355;Duskull;Frisk;;Levitate
+695;0358;Chimecho;;;Levitate
+696;0380;Latias;;;Levitate
+697;0380;Latias Mega Latias;;;Levitate
+698;0381;Latios;;;Levitate
+699;0381;Latios Mega Latios;;;Levitate
+700;0429;Mismagius;;;Levitate
+701;0433;Chingling;;;Levitate
+702;0436;Bronzor;Heavy Metal;Heatproof;Levitate
+703;0437;Bronzong;Heavy Metal;Heatproof;Levitate
+704;0455;Carnivine;;;Levitate
+705;0479;Rotom;;;Levitate
+706;0479;Rotom Heat Rotom;;;Levitate
+707;0479;Rotom Wash Rotom;;;Levitate
+708;0479;Rotom Frost Rotom;;;Levitate
+709;0479;Rotom Fan Rotom;;;Levitate
+710;0479;Rotom Mow Rotom;;;Levitate
+711;0480;Uxie;;;Levitate
+712;0481;Mesprit;;;Levitate
+713;0482;Azelf;;;Levitate
+714;0487;Giratina Origin Forme;;;Levitate
+715;0488;Cresselia;;;Levitate
+716;0602;Tynamo;;— ;Levitate
+717;0603;Eelektrik;;;Levitate
+718;0604;Eelektross;;;Levitate
+719;0615;Cryogonal;;;Levitate
+720;0635;Hydreigon;;;Levitate
+721;0738;Vikavolt;;;Levitate
+722;0884;Duraludon;Stalwart;Heavy Metal;Light Metal
+723;0104;Cubone;Battle Armor;Rock Head;Lightning Rod
+724;0105;Marowak;Battle Armor;Rock Head;Lightning Rod
+725;0105;Marowak Alolan Marowak;Rock Head;Cursed Body;Lightning Rod
+726;0111;Rhyhorn;Reckless;Rock Head;Lightning Rod
+727;0112;Rhydon;Reckless;Rock Head;Lightning Rod
+728;0254;Sceptile Mega Sceptile;;;Lightning Rod
+729;0309;Electrike;Minus;Static;Lightning Rod
+730;0310;Manectric;Minus;Static;Lightning Rod
+731;0464;Rhyperior;Reckless;Solid Rock;Lightning Rod
+732;0522;Blitzle;Sap Sipper;Motor Drive;Lightning Rod
+733;0523;Zebstrika;Sap Sipper;Motor Drive;Lightning Rod
+734;0777;Togedemaru;Sturdy;Iron Barbs;Lightning Rod
+735;0871;Pincurchin;Electric Surge;;Lightning Rod
+736;0053;Persian;Unnerve;Technician;Limber
+737;0106;Hitmonlee;Unburden;Reckless;Limber
+738;0132;Ditto;Imposter;;Limber
+739;0431;Glameow;Keen Eye;Own Tempo;Limber
+740;0509;Purrloin;Prankster;Unburden;Limber
+741;0510;Liepard;Prankster;Unburden;Limber
+742;0618;Stunfisk;Sand Veil;Static;Limber
+743;0701;Hawlucha;Mold Breaker;Unburden;Limber
+744;0747;Mareanie;Regenerator;Merciless;Limber
+745;0748;Toxapex;Regenerator;Merciless;Limber
+746;0852;Clobbopus;Technician;;Limber
+747;0853;Grapploct;Technician;;Limber
+748;0916;Oinkologne Male;Thick Fat;Gluttony;Lingering Aroma
+749;0072;Tentacool;Rain Dish;Clear Body;Liquid Ooze
+750;0073;Tentacruel;Rain Dish;Clear Body;Liquid Ooze
+751;0316;Gulpin;Gluttony;Sticky Hold;Liquid Ooze
+752;0317;Swalot;Gluttony;Sticky Hold;Liquid Ooze
+753;0302;Sableye Mega Sableye;;;Magic Bounce
+754;0359;Absol Mega Absol;;;Magic Bounce
+755;0719;Diancie Mega Diancie;;;Magic Bounce
+756;0035;Clefairy;Friend Guard;Cute Charm;Magic Guard
+757;0036;Clefable;Unaware;Cute Charm;Magic Guard
+758;0173;Cleffa;Friend Guard;Cute Charm;Magic Guard
+759;0561;Sigilyph;Tinted Lens;Wonder Skin;Magic Guard
+760;0577;Solosis;Regenerator;Overcoat;Magic Guard
+761;0578;Duosion;Regenerator;Overcoat;Magic Guard
+762;0579;Reuniclus;Regenerator;Overcoat;Magic Guard
+763;0720;Hoopa Hoopa Confined;;;Magician
+764;0720;Hoopa Hoopa Unbound;;;Magician
+765;0218;Slugma;Weak Armor;Flame Body;Magma Armor
+766;0219;Magcargo;Weak Armor;Flame Body;Magma Armor
+767;0323;Camerupt;Anger Point ;Solid Rock;Magma Armor
+768;0074;Geodude Alolan Geodude;Galvanize;Sturdy;Magnet Pull
+769;0075;Graveler Alolan Graveler;Galvanize;Sturdy;Magnet Pull
+770;0076;Golem Alolan Golem;Galvanize;Sturdy;Magnet Pull
+771;0081;Magnemite;Analytic;Sturdy;Magnet Pull
+772;0082;Magneton;Analytic;Sturdy;Magnet Pull
+773;0299;Nosepass;Sand Force;Sturdy;Magnet Pull
+774;0462;Magnezone;Analytic;Sturdy;Magnet Pull
+775;0476;Probopass;Sand Force;Sturdy;Magnet Pull
+776;0808;Meltan;;;Magnet Pull
+777;0350;Milotic;Cute Charm;Competitive;Marvel Scale
+778;0009;Blastoise Mega Blastoise;;;Mega Launcher
+779;0692;Clauncher;;;Mega Launcher
+780;0693;Clawitzer;;;Mega Launcher
+781;0747;Mareanie;Regenerator;Limber;Merciless
+782;0748;Toxapex;Regenerator;Limber;Merciless
+783;0618;Stunfisk Galarian Stunfisk;;;Mimicry
+784;0312;Minun;Volt Absorb;;Minus
+785;0599;Klink;Clear Body;Plus;Minus
+786;0600;Klang;Clear Body;Plus;Minus
+787;0601;Klinklang;Clear Body;Plus;Minus
+788;0849;Toxtricity Low Key Form;Technician;Punk Rock;Minus
+789;0788;Tapu Fini;Telepathy;;Misty Surge
+790;0127;Pinsir;Moxie;Hyper Cutter;Mold Breaker
+791;0130;Gyarados Mega Gyarados;;;Mold Breaker
+792;0181;Ampharos Mega Ampharos;;;Mold Breaker
+793;0408;Cranidos;Sheer Force;;Mold Breaker
+794;0409;Rampardos;Sheer Force;;Mold Breaker
+795;0610;Axew;Unnerve;Rivalry;Mold Breaker
+796;0611;Fraxure;Unnerve;Rivalry;Mold Breaker
+797;0612;Haxorus;Unnerve;Rivalry;Mold Breaker
+798;0674;Pancham;Scrappy;Iron Fist;Mold Breaker
+799;0675;Pangoro;Scrappy;Iron Fist;Mold Breaker
+800;0957;Tinkatink;Pickpocket;Own Tempo;Mold Breaker
+801;0958;Tinkatuff;Pickpocket;Own Tempo;Mold Breaker
+802;0959;Tinkaton;Pickpocket;Own Tempo;Mold Breaker
+803;0976;Veluza;Sharpness;;Mold Breaker
+804;0466;Electivire;Vital Spirit;;Motor Drive
+805;0522;Blitzle;Sap Sipper;Lightning Rod;Motor Drive
+806;0523;Zebstrika;Sap Sipper;Lightning Rod;Motor Drive
+807;0551;Sandile;Anger Point;Intimidate;Moxie
+808;0552;Krokorok;Anger Point;Intimidate;Moxie
+809;0553;Krookodile;Anger Point;Intimidate;Moxie
+810;0559;Scraggy;Intimidate;Shed Skin;Moxie
+811;0560;Scrafty;Intimidate;Shed Skin;Moxie
+812;0493;Arceus;;;Multitype
+813;0562;Yamask;;;Mummy
+814;0563;Cofagrigus;;;Mummy
+815;0948;Toedscool;;;Mycelium Might
+816;0949;Toedscruel;;;Mycelium Might
+817;0113;Chansey;Healer;Serene Grace;Natural Cure
+818;0120;Staryu;Analytic;Illuminate;Natural Cure
+819;0121;Starmie;Analytic;Illuminate;Natural Cure
+820;0222;Corsola;Regenerator;Hustle;Natural Cure
+821;0242;Blissey;Healer;Serene Grace;Natural Cure
+822;0251;Celebi;;;Natural Cure
+823;0315;Roselia;Leaf Guard;Poison Point;Natural Cure
+824;0333;Swablu;Cloud Nine;;Natural Cure
+825;0334;Altaria;Cloud Nine;;Natural Cure
+826;0406;Budew;Leaf Guard;Poison Point;Natural Cure
+827;0407;Roserade;Technician;Poison Point;Natural Cure
+828;0440;Happiny;Friend Guard;Serene Grace;Natural Cure
+829;0492;Shaymin Land Forme;;;Natural Cure
+830;0708;Phantump;Harvest;Frisk;Natural Cure
+831;0709;Trevenant;Harvest;Frisk;Natural Cure
+832;0921;Pawmi;Iron Fist;Static;Natural Cure
+833;0922;Pawmo;Iron Fist;Volt Absorb;Natural Cure
+834;0923;Pawmot;Iron Fist;Volt Absorb;Natural Cure
+835;0800;Necrozma Ultra Necrozma;;;Neuroforce
+836;0109;Koffing;Stench;Levitate;Neutralizing Gas
+837;0110;Weezing;Stench;Levitate;Neutralizing Gas
+838;0110;Weezing Galarian Weezing;Misty Surge;Levitate;Neutralizing Gas
+839;0018;Pidgeot Mega Pidgeot;;;No Guard
+840;0066;Machop;Steadfast;Guts;No Guard
+841;0067;Machoke;Steadfast;Guts;No Guard
+842;0068;Machamp;Steadfast;Guts;No Guard
+843;0679;Honedge;;;No Guard
+844;0680;Doublade;;;No Guard
+845;0300;Skitty;Wonder Skin;Cute Charm;Normalize
+846;0301;Delcatty;Wonder Skin ;Cute Charm;Normalize
+847;0079;Slowpoke;Regenerator;Own Tempo;Oblivious
+848;0080;Slowbro;Regenerator;Own Tempo;Oblivious
+849;0108;Lickitung;Cloud Nine;Own Tempo;Oblivious
+850;0124;Jynx;Dry Skin;Forewarn;Oblivious
+851;0199;Slowking;Regenerator;Own Tempo;Oblivious
+852;0220;Swinub;Thick Fat;Snow Cloak;Oblivious
+853;0221;Piloswine;Thick Fat;Snow Cloak;Oblivious
+854;0238;Smoochum;Hydration;Forewarn;Oblivious
+855;0314;Illumise;Prankster;Tinted Lens;Oblivious
+856;0320;Wailmer;Pressure;Water Veil;Oblivious
+857;0321;Wailord;Pressure;Water Veil;Oblivious
+858;0322;Numel;Own Tempo;Simple;Oblivious
+859;0339;Barboach;Hydration;Anticipation;Oblivious
+860;0340;Whiscash;Hydration;Anticipation;Oblivious
+861;0349;Feebas;Adaptability;Swift Swim;Oblivious
+862;0463;Lickilicky;Cloud Nine;Own Tempo;Oblivious
+863;0473;Mamoswine;Thick Fat;Snow Cloak;Oblivious
+864;0761;Bounsweet;Sweet Veil;Leaf Guard;Oblivious
+865;0762;Steenee;Sweet Veil;Leaf Guard;Oblivious
+866;0977;Dondozo;Water Veil;Unaware;Oblivious
+867;0956;Espathra;Speed Boost;Frisk;Opportunist
+868;1007;Koraidon;;;Orichalcum Pulse
+869;0577;Solosis;Regenerator;Magic Guard;Overcoat
+870;0578;Duosion;Regenerator;Magic Guard;Overcoat
+871;0579;Reuniclus;Regenerator;Magic Guard;Overcoat
+872;0629;Vullaby;Weak Armor;Big Pecks;Overcoat
+873;0630;Mandibuzz;Weak Armor;Big Pecks;Overcoat
+874;0905;Enamorus Therian Forme;;;Overcoat
+875;0965;Varoom;Slow Start;;Overcoat
+876;0966;Revavroom;Filter;;Overcoat
+877;0001;Bulbasaur;Chlorophyll;;Overgrow
+878;0002;Ivysaur;Chlorophyll;;Overgrow
+879;0003;Venusaur;Chlorophyll;;Overgrow
+880;0152;Chikorita;Leaf Guard;;Overgrow
+881;0153;Bayleef;Leaf Guard;;Overgrow
+882;0154;Meganium;Leaf Guard;;Overgrow
+883;0252;Treecko;Unburden;;Overgrow
+884;0253;Grovyle;Unburden;;Overgrow
+885;0254;Sceptile;Unburden;;Overgrow
+886;0387;Turtwig;Shell Armor;;Overgrow
+887;0388;Grotle;Shell Armor;;Overgrow
+888;0389;Torterra;Shell Armor;;Overgrow
+889;0495;Snivy;Contrary;;Overgrow
+890;0496;Servine;Contrary;;Overgrow
+891;0497;Serperior;Contrary;;Overgrow
+892;0650;Chespin;Bulletproof;;Overgrow
+893;0651;Quilladin;Bulletproof;;Overgrow
+894;0652;Chesnaught;Bulletproof;;Overgrow
+895;0722;Rowlet;Long Reach;;Overgrow
+896;0723;Dartrix;Long Reach;;Overgrow
+897;0724;Decidueye;Long Reach;;Overgrow
+898;0724;Decidueye Hisuian Decidueye;Scrappy;;Overgrow
+899;0810;Grookey;Grassy Surge;;Overgrow
+900;0811;Thwackey;Grassy Surge;;Overgrow
+901;0812;Rillaboom;Grassy Surge;;Overgrow
+902;0906;Sprigatito;Protean;;Overgrow
+903;0907;Floragato;Protean;;Overgrow
+904;0908;Meowscarada;Protean;;Overgrow
+905;0079;Slowpoke;Regenerator;Oblivious;Own Tempo
+906;0079;Slowpoke Galarian Slowpoke;Regenerator;Gluttony;Own Tempo
+907;0080;Slowbro;Regenerator;Oblivious;Own Tempo
+908;0080;Slowbro Galarian Slowbro;Regenerator;Quick Draw;Own Tempo
+909;0108;Lickitung;Cloud Nine;Oblivious;Own Tempo
+910;0199;Slowking;Regenerator;Oblivious;Own Tempo
+911;0199;Slowking Galarian Slowking;Regenerator;Curious Medicine;Own Tempo
+912;0235;Smeargle;Moody;Technician;Own Tempo
+913;0325;Spoink;Gluttony;Thick Fat;Own Tempo
+914;0326;Grumpig;Gluttony;Thick Fat;Own Tempo
+915;0327;Spinda;Contrary;Tangled Feet;Own Tempo
+916;0431;Glameow;Keen Eye;Limber;Own Tempo
+917;0432;Purugly;Defiant;Thick Fat;Own Tempo
+918;0463;Lickilicky;Cloud Nine;Oblivious;Own Tempo
+919;0548;Petilil;Leaf Guard;Chlorophyll;Own Tempo
+920;0549;Lilligant;Leaf Guard;Chlorophyll;Own Tempo
+921;0712;Bergmite;Sturdy;Ice Body;Own Tempo
+922;0713;Avalugg;Sturdy;Ice Body;Own Tempo
+923;0744;Rockruff Own Tempo Rockruff;;;Own Tempo
+924;0749;Mudbray;Inner Focus;Stamina;Own Tempo
+925;0750;Mudsdale;Inner Focus;Stamina;Own Tempo
+926;0876;Indeedee Female;Psychic Surge;Synchronize;Own Tempo
+927;0926;Fidough;Klutz;;Own Tempo
+928;0938;Tadbulb;Damp;Static;Own Tempo
+929;0957;Tinkatink;Pickpocket;Mold Breaker;Own Tempo
+930;0958;Tinkatuff;Pickpocket;Mold Breaker;Own Tempo
+931;0959;Tinkaton;Pickpocket;Mold Breaker;Own Tempo
+932;0115;Kangaskhan Mega Kangaskhan;;;Parental Bond
+933;0077;Ponyta Galarian Ponyta;Anticipation;Run Away;Pastel Veil
+934;0078;Rapidash Galarian Rapidash;Anticipation;Run Away;Pastel Veil
+935;0944;Shroodle;Prankster;Unburden;Pickpocket
+936;0052;Meowth;Unnerve;Technician;Pickup
+937;0052;Meowth Alolan Meowth;Rattled;Technician;Pickup
+938;0052;Meowth Galarian Meowth;Unnerve;Tough Claws;Pickup
+939;0190;Aipom;Skill Link;Run Away;Pickup
+940;0216;Teddiursa;Honey Gather;Quick Feet;Pickup
+941;0231;Phanpy;Sand Veil;;Pickup
+942;0263;Zigzagoon;Quick Feet;Gluttony;Pickup
+943;0263;Zigzagoon Galarian Zigzagoon;Quick Feet;Gluttony;Pickup
+944;0264;Linoone;Quick Feet;Gluttony;Pickup
+945;0264;Linoone Galarian Linoone;Quick Feet;Gluttony;Pickup
+946;0417;Pachirisu;Volt Absorb;Run Away;Pickup
+947;0424;Ambipom;Skill Link;Technician;Pickup
+948;0446;Munchlax;Gluttony;Thick Fat;Pickup
+949;0506;Lillipup;Run Away;Vital Spirit;Pickup
+950;0659;Bunnelby;Huge Power;Cheek Pouch;Pickup
+951;0660;Diggersby;Huge Power;Cheek Pouch;Pickup
+952;0702;Dedenne;Plus;Cheek Pouch;Pickup
+953;0710;Pumpkaboo Average Size;Insomnia;Frisk;Pickup
+954;0710;Pumpkaboo Small Size;Insomnia;Frisk;Pickup
+955;0710;Pumpkaboo Large Size;Insomnia;Frisk;Pickup
+956;0710;Pumpkaboo Super Size;Insomnia;Frisk;Pickup
+957;0711;Gourgeist Average Size;Insomnia;Frisk;Pickup
+958;0711;Gourgeist Small Size;Insomnia;Frisk;Pickup
+959;0711;Gourgeist Large Size;Insomnia;Frisk;Pickup
+960;0711;Gourgeist Super Size;Insomnia;Frisk;Pickup
+961;0924;Tandemaus;Own Tempo;Run Away;Pickup
+962;0971;Greavard;Fluffy;;Pickup
+963;0282;Gardevoir Mega Gardevoir;;;Pixilate
+964;0334;Altaria Mega Altaria;;;Pixilate
+965;0311;Plusle;Lightning Rod;;Plus
+966;0599;Klink;Clear Body;Minus;Plus
+967;0600;Klang;Clear Body;Minus;Plus
+968;0601;Klinklang;Clear Body;Minus;Plus
+969;0849;Toxtricity Amped Form;Technician;Punk Rock;Plus
+970;0285;Shroomish;Quick Feet;Effect Spore;Poison Heal
+971;0286;Breloom;Technician;Effect Spore;Poison Heal
+972;0029;Nidoran♀;Hustle;Rivalry;Poison Point
+973;0030;Nidorina;Hustle;Rivalry;Poison Point
+974;0031;Nidoqueen;Sheer Force;Rivalry;Poison Point
+975;0032;Nidoran♂;Hustle;Rivalry;Poison Point
+976;0033;Nidorino;Hustle;Rivalry;Poison Point
+977;0034;Nidoking;Sheer Force;Rivalry;Poison Point
+978;0117;Seadra;Damp;Sniper;Poison Point
+979;0194;Wooper Paldean Wooper;Unaware;Water Absorb;Poison Point
+980;0211;Qwilfish;Intimidate;Swift Swim;Poison Point
+981;0211;Qwilfish Hisuian Qwilfish;Intimidate;Swift Swim;Poison Point
+982;0315;Roselia;Leaf Guard;Natural Cure;Poison Point
+983;0406;Budew;Leaf Guard;Natural Cure;Poison Point
+984;0407;Roserade;Technician;Natural Cure;Poison Point
+985;0543;Venipede;Speed Boost;Swarm;Poison Point
+986;0544;Whirlipede;Speed Boost;Swarm;Poison Point
+987;0545;Scolipede;Speed Boost;Swarm;Poison Point
+988;0690;Skrelp;Adaptability;Poison Touch;Poison Point
+989;0691;Dragalge;Adaptability;Poison Touch;Poison Point
+990;0904;Overqwil;Intimidate;Swift Swim;Poison Point
+991;0980;Clodsire;Unaware;Water Absorb;Poison Point
+992;0088;Grimer Alolan Grimer;Power of Alchemy;Gluttony;Poison Touch
+993;0089;Muk Alolan Muk;Power of Alchemy;Gluttony;Poison Touch
+994;0537;Seismitoad;Water Absorb;Swift Swim;Poison Touch
+995;0690;Skrelp;Adaptability;Poison Point;Poison Touch
+996;0691;Dragalge;Adaptability;Poison Point;Poison Touch
+997;0945;Grafaiai;Prankster;Unburden;Poison Touch
+998;0718;Zygarde 50% Forme;;Aura Break;Power Construct
+999;0718;Zygarde 10% Forme;;Aura Break;Power Construct
+1000;0718;Zygarde Complete Forme;;;Power Construct
+1001;0874;Stonjourner;;;Power Spot
+1002;0354;Banette Mega Banette;;;Prankster
+1003;0546;Cottonee;Chlorophyll;Infiltrator;Prankster
+1004;0547;Whimsicott;Chlorophyll;Infiltrator;Prankster
+1005;0641;Tornadus Incarnate Forme;Defiant;;Prankster
+1006;0642;Thundurus Incarnate Forme;Defiant;;Prankster
+1007;0707;Klefki;Magician;;Prankster
+1008;0859;Impidimp;Pickpocket;Frisk;Prankster
+1009;0860;Morgrem;Pickpocket;Frisk;Prankster
+1010;0861;Grimmsnarl;Pickpocket;Frisk;Prankster
+1011;0142;Aerodactyl;Unnerve;Rock Head;Pressure
+1012;0144;Articuno;Snow Cloak;;Pressure
+1013;0145;Zapdos;Static;;Pressure
+1014;0146;Moltres;Flame Body;;Pressure
+1015;0150;Mewtwo;Unnerve;;Pressure
+1016;0243;Raikou;Inner Focus;;Pressure
+1017;0244;Entei;Inner Focus;;Pressure
+1018;0245;Suicune;Inner Focus;;Pressure
+1019;0249;Lugia;Multiscale;;Pressure
+1020;0250;Ho-oh;Regenerator;;Pressure
+1021;0356;Dusclops;Frisk;;Pressure
+1022;0359;Absol;Justified;Super Luck;Pressure
+1023;0386;Deoxys Normal Forme;;;Pressure
+1024;0386;Deoxys Attack Forme;;;Pressure
+1025;0386;Deoxys Defense Forme;;;Pressure
+1026;0386;Deoxys Speed Forme;;;Pressure
+1027;0416;Vespiquen;Unnerve;;Pressure
+1028;0442;Spiritomb;Infiltrator;;Pressure
+1029;0461;Weavile;Pickpocket;;Pressure
+1030;0477;Dusknoir;Frisk;;Pressure
+1031;0483;Dialga;Telepathy;;Pressure
+1032;0483;Dialga Origin Forme;Telepathy;;Pressure
+1033;0484;Palkia;Telepathy;;Pressure
+1034;0484;Palkia Origin Forme;Telepathy;;Pressure
+1035;0487;Giratina Altered Forme;Telepathy;;Pressure
+1036;0646;Kyurem;;;Pressure
+1037;0823;Corviknight;Mirror Armor;Unnerve;Pressure
+1038;0890;Eternatus;;;Pressure
+1039;0903;Sneasler;Poison Touch;Unburden;Pressure
+1040;0382;Kyogre Primal Kyogre;;;Primordial Sea
+1041;0800;Necrozma;;;Prism Armor
+1042;0800;Necrozma Dusk Mane Necrozma;;;Prism Armor
+1043;0800;Necrozma Dawn Wings Necrozma;;;Prism Armor
+1044;0984;Great Tusk;;;Protosynthesis
+1045;0985;Scream Tail;; —;Protosynthesis
+1046;0986;Brute Bonnet;;;Protosynthesis
+1047;0987;Flutter Mane;;;Protosynthesis
+1048;0988;Slither Wing;;;Protosynthesis
+1049;0989;Sandy Shocks;;;Protosynthesis
+1050;1005;Roaring Moon;;;Protosynthesis
+1051;1009;Walking Wake;;;Protosynthesis
+1052;0786;Tapu Lele;Telepathy;;Psychic Surge
+1053;0849;Toxtricity Amped Form;Technician;Plus;Punk Rock
+1054;0849;Toxtricity Low Key Form;Technician;Minus;Punk Rock
+1055;0307;Meditite;Telepathy;;Pure Power
+1056;0308;Medicham;Telepathy;;Pure Power
+1057;0308;Medicham Mega Medicham;;;Pure Power
+1058;0932;Nacli;Clear Body;Sturdy;Purifying Salt
+1059;0933;Naclstack;Clear Body;Sturdy;Purifying Salt
+1060;0934;Garganacl;Clear Body;Sturdy;Purifying Salt
+1061;0990;Iron Treads;;;Quark Drive
+1062;0991;Iron Bundle;;;Quark Drive
+1063;0992;Iron Hands;;;Quark Drive
+1064;0993;Iron Jugulis;;;Quark Drive
+1065;0994;Iron Moth;;;Quark Drive
+1066;0995;Iron Thorns;;;Quark Drive
+1067;1006;Iron Valiant;;;Quark Drive
+1068;1010;Iron Leaves;;;Quark Drive
+1069;0763;Tsareena;Sweet Veil;Leaf Guard;Queenly Majesty
+1070;0080;Slowbro Galarian Slowbro;Regenerator;Own Tempo;Quick Draw
+1071;0210;Granbull;Rattled;Intimidate;Quick Feet
+1072;0216;Teddiursa;Honey Gather;Pickup;Quick Feet
+1073;0217;Ursaring;Unnerve;Guts;Quick Feet
+1074;0261;Poochyena;Rattled;Run Away;Quick Feet
+1075;0262;Mightyena;Moxie;Intimidate;Quick Feet
+1076;0270;Lotad;Own Tempo;Swift Swim;Rain Dish
+1077;0271;Lombre;Own Tempo;Swift Swim;Rain Dish
+1078;0272;Ludicolo;Own Tempo;Swift Swim;Rain Dish
+1079;0550;Basculin White-Striped Form;Mold Breaker;Adaptability;Rattled
+1080;0848;Toxel;Klutz;Static;Rattled
+1081;0960;Wiglett;Sand Veil;Gooey;Rattled
+1082;0961;Wugtrio;Sand Veil;Gooey;Rattled
+1083;0999;Gimmighoul Chest Form;;;Rattled
+1084;0766;Passimian;Defiant;;Receiver
+1085;0106;Hitmonlee;Unburden ;Limber;Reckless
+1086;0550;Basculin Red-Striped Form;Mold Breaker;Adaptability;Reckless
+1087;0626;Bouffalant;Soundproof;Sap Sipper;Reckless
+1088;0862;Obstagoon;Defiant;Guts;Reckless
+1089;0362;Glalie Mega Glalie;;;Refrigerate
+1090;0698;Amaura;Snow Warning;;Refrigerate
+1091;0699;Aurorus;Snow Warning;;Refrigerate
+1092;0531;Audino;Klutz;Healer;Regenerator
+1093;0619;Mienfoo;Reckless;Inner Focus;Regenerator
+1094;0620;Mienshao;Reckless;Inner Focus;Regenerator
+1095;0641;Tornadus Therian Forme;;;Regenerator
+1096;0829;Gossifleur;Effect Spore;Cotton Down;Regenerator
+1097;0830;Eldegoss;Effect Spore;Cotton Down;Regenerator
+1098;0840;Applin;Bulletproof;Gluttony;Ripen
+1099;0841;Flapple;Hustle;Gluttony;Ripen
+1100;0842;Appletun;Thick Fat;Gluttony;Ripen
+1101;0029;Nidoran♀;Hustle;Poison Point;Rivalry
+1102;0030;Nidorina;Hustle;Poison Point;Rivalry
+1103;0031;Nidoqueen;Sheer Force;Poison Point;Rivalry
+1104;0032;Nidoran♂;Hustle;Poison Point;Rivalry
+1105;0033;Nidorino;Hustle;Poison Point;Rivalry
+1106;0034;Nidoking;Sheer Force;Poison Point;Rivalry
+1107;0403;Shinx;Guts;Intimidate;Rivalry
+1108;0404;Luxio;Guts;Intimidate;Rivalry
+1109;0405;Luxray;Guts;Intimidate;Rivalry
+1110;0610;Axew;Unnerve;Mold Breaker;Rivalry
+1111;0611;Fraxure;Unnerve;Mold Breaker;Rivalry
+1112;0612;Haxorus;Unnerve;Mold Breaker;Rivalry
+1113;0667;Litleo;Moxie;Unnerve;Rivalry
+1114;0668;Pyroar;Moxie;Unnerve;Rivalry
+1115;0773;Silvally;;;RKS System
+1116;0074;Geodude;Sand Veil;Sturdy;Rock Head
+1117;0075;Graveler;Sand Veil;Sturdy;Rock Head
+1118;0076;Golem;Sand Veil;Sturdy;Rock Head
+1119;0095;Onix; Weak Armor;Sturdy;Rock Head
+1120;0104;Cubone;Battle Armor;Lightning Rod;Rock Head
+1121;0105;Marowak;Battle Armor;Lightning Rod;Rock Head
+1122;0111;Rhyhorn;Reckless;Lightning Rod;Rock Head
+1123;0112;Rhydon;Reckless;Lightning Rod;Rock Head
+1124;0142;Aerodactyl;Unnerve;Pressure;Rock Head
+1125;0185;Sudowoodo;Rattled;Sturdy;Rock Head
+1126;0208;Steelix;Sheer Force;Sturdy;Rock Head
+1127;0304;Aron;Heavy Metal;Sturdy;Rock Head
+1128;0305;Lairon;Heavy Metal;Sturdy;Rock Head
+1129;0306;Aggron;Heavy Metal;Sturdy;Rock Head
+1130;0369;Relicanth;Sturdy;Swift Swim;Rock Head
+1131;0371;Bagon;Sheer Force;;Rock Head
+1132;0372;Shelgon;Overcoat;;Rock Head
+1133;0438;Bonsly;Rattled;Sturdy;Rock Head
+1134;0550;Basculin Blue-Striped Form;Mold Breaker;Adaptability;Rock Head
+1135;0318;Carvanha;Speed Boost;;Rough Skin
+1136;0319;Sharpedo;Speed Boost;;Rough Skin
+1137;0621;Druddigon;Mold Breaker;Sheer Force;Rough Skin
+1138;0019;Rattata;Hustle;Guts;Run Away
+1139;0020;Raticate;Hustle;Guts;Run Away
+1140;0077;Ponyta;Flame Body;Flash Fire;Run Away
+1141;0077;Ponyta Galarian Ponyta;Anticipation;Pastel Veil;Run Away
+1142;0078;Rapidash;Flame Body;Flash Fire;Run Away
+1143;0078;Rapidash Galarian Rapidash;Anticipation;Pastel Veil;Run Away
+1144;0084;Doduo;Tangled Feet;Early Bird;Run Away
+1145;0085;Dodrio;Tangled Feet;Early Bird;Run Away
+1146;0133;Eevee;Anticipation;Adaptability;Run Away
+1147;0161;Sentret;Frisk;Keen Eye;Run Away
+1148;0162;Furret;Frisk;Keen Eye;Run Away
+1149;0190;Aipom;Skill Link;Pickup;Run Away
+1150;0206;Dunsparce;Rattled;Serene Grace;Run Away
+1151;0209;Snubbull;Rattled;Intimidate;Run Away
+1152;0261;Poochyena;Rattled;Quick Feet;Run Away
+1153;0417;Pachirisu;Volt Absorb;Pickup;Run Away
+1154;0427;Buneary;Limber;Klutz;Run Away
+1155;0504;Patrat;Analytic;Keen Eye;Run Away
+1156;0827;Nickit;Stakeout;Unburden;Run Away
+1157;0828;Thievul;Stakeout;Unburden;Run Away
+1158;0831;Wooloo;Bulletproof;Fluffy;Run Away
+1159;0924;Tandemaus;Own Tempo;Pickup;Run Away
+1160;0942;Maschiff;Stakeout;Intimidate;Run Away
+1161;0982;Dudunsparce Two-Segment Form;Rattled;Serene Grace;Run Away
+1162;0982;Dudunsparce Three-Segment Form;Rattled;Serene Grace;Run Away
+1163;0999;Gimmighoul Roaming Form;;;Run Away
+1164;0208;Steelix Mega Steelix;;;Sand Force
+1165;0445;Garchomp Mega Garchomp;;;Sand Force
+1166;0529;Drilbur;Mold Breaker;Sand Rush;Sand Force
+1167;0530;Excadrill;Mold Breaker;Sand Rush;Sand Force
+1168;0645;Landorus Incarnate Forme;Sheer Force;;Sand Force
+1169;0507;Herdier;Scrappy;Intimidate;Sand Rush
+1170;0508;Stoutland;Scrappy;Intimidate;Sand Rush
+1171;0529;Drilbur;Mold Breaker;Sand Force;Sand Rush
+1172;0530;Excadrill;Mold Breaker;Sand Force;Sand Rush
+1173;0745;Lycanroc Midday Form;Steadfast;Keen Eye;Sand Rush
+1174;0972;Houndstone;Fluffy;;Sand Rush
+1175;0843;Silicobra;Sand Veil;Shed Skin;Sand Spit
+1176;0844;Sandaconda;Sand Veil;Shed Skin;Sand Spit
+1177;0248;Tyranitar;Unnerve;;Sand Stream
+1178;0248;Tyranitar Mega Tyranitar;;;Sand Stream
+1179;0449;Hippopotas;Sand Force;;Sand Stream
+1180;0450;Hippowdon;Sand Force;;Sand Stream
+1181;0526;Gigalith;Sand Force;Sturdy;Sand Stream
+1182;0027;Sandshrew;Sand Rush;;Sand Veil
+1183;0028;Sandslash;Sand Rush;;Sand Veil
+1184;0050;Diglett;Sand Force;Arena Trap;Sand Veil
+1185;0050;Diglett Alolan Diglett;Sand Force;Tangling Hair;Sand Veil
+1186;0051;Dugtrio;Sand Force;Arena Trap;Sand Veil
+1187;0051;Dugtrio Alolan Dugtrio;Sand Force;Tangling Hair;Sand Veil
+1188;0207;Gligar;Immunity;Hyper Cutter;Sand Veil
+1189;0331;Cacnea;Water Absorb;;Sand Veil
+1190;0332;Cacturne;Water Absorb;;Sand Veil
+1191;0443;Gible;Rough Skin;;Sand Veil
+1192;0444;Gabite;Rough Skin;;Sand Veil
+1193;0445;Garchomp;Rough Skin;;Sand Veil
+1194;0472;Gliscor;Poison Heal;Hyper Cutter;Sand Veil
+1195;0694;Helioptile;Solar Power;Dry Skin;Sand Veil
+1196;0695;Heliolisk;Solar Power;Dry Skin;Sand Veil
+1197;0746;Wishiwashi Solo Form;;;Schooling
+1198;0746;Wishiwashi School Form;;;Schooling
+1199;0585;Deerling;Serene Grace;Chlorophyll;Sap Sipper
+1200;0586;Sawsbuck;Serene Grace;Chlorophyll;Sap Sipper
+1201;0626;Bouffalant;Soundproof;Reckless;Sap Sipper
+1202;0672;Skiddo;Grass Pelt;;Sap Sipper
+1203;0673;Gogoat;Grass Pelt;;Sap Sipper
+1204;0704;Goomy;Gooey;Hydration;Sap Sipper
+1205;0705;Sliggoo;Gooey;Hydration;Sap Sipper
+1206;0705;Sliggoo Hisuian Sliggoo;Gooey;Shell Armor;Sap Sipper
+1207;0706;Goodra;Gooey;Hydration;Sap Sipper
+1208;0706;Goodra Hisuian Goodra;Gooey;Shell Armor;Sap Sipper
+1209;0780;Drampa;Cloud Nine;Berserk;Sap Sipper
+1210;0115;Kangaskhan;Inner Focus;Early Bird;Scrappy
+1211;0241;Miltank;Sap Sipper;Thick Fat;Scrappy
+1212;0428;Lopunny Mega Lopunny;;;Scrappy
+1213;0973;Flamigo;Costar;Tangled Feet;Scrappy
+1214;0122;Mr. Mime Galarian Mr. Mime;Ice Body;Vital Spirit;Screen Cleaner
+1215;0866;Mr. Rime;Ice Body;Tangled Feet;Screen Cleaner
+1216;0930;Arboliva;Harvest;;Seed Sower
+1217;0113;Chansey;Healer;Natural Cure;Serene Grace
+1218;0175;Togepi;Super Luck;Hustle;Serene Grace
+1219;0176;Togetic;Super Luck;Hustle;Serene Grace
+1220;0206;Dunsparce;Rattled;Run Away;Serene Grace
+1221;0242;Blissey;Healer;Natural Cure;Serene Grace
+1222;0385;Jirachi;;;Serene Grace
+1223;0440;Happiny;Friend Guard;Natural Cure;Serene Grace
+1224;0468;Togekiss;Super Luck;Hustle;Serene Grace
+1225;0492;Shaymin Sky Forme;;;Serene Grace
+1226;0648;Meloetta Aria Forme;;;Serene Grace
+1227;0648;Meloetta Pirouette Forme;;;Serene Grace
+1228;0982;Dudunsparce Two-Segment Form;Rattled;Run Away;Serene Grace
+1229;0982;Dudunsparce Three-Segment Form;Rattled;Run Away;Serene Grace
+1230;0792;Lunala;;;Shadow Shield
+1231;0094;Gengar Mega Gengar;;;Shadow Tag
+1232;0202;Wobbuffet;Telepathy;;Shadow Tag
+1233;0360;Wynaut;Telepathy;;Shadow Tag
+1234;0475;Gallade;Justified;Steadfast;Sharpness
+1235;0011;Metapod;;;Shed Skin
+1236;0014;Kakuna;;;Shed Skin
+1237;0023;Ekans;Unnerve;Intimidate;Shed Skin
+1238;0024;Arbok;Unnerve;Intimidate;Shed Skin
+1239;0147;Dratini;Marvel Scale;;Shed Skin
+1240;0148;Dragonair;Marvel Scale;;Shed Skin
+1241;0247;Pupitar;;;Shed Skin
+1242;0266;Silcoon;;;Shed Skin
+1243;0268;Cascoon;;;Shed Skin
+1244;0336;Seviper;Infiltrator;;Shed Skin
+1245;0401;Kricketot;Run Away;;Shed Skin
+1246;0412;Burmy Plant Cloak;Overcoat;;Shed Skin
+1247;0412;Burmy Sandy Cloak;Overcoat;;Shed Skin
+1248;0412;Burmy Trash Cloak;Overcoat;;Shed Skin
+1249;0559;Scraggy;Intimidate;Moxie;Shed Skin
+1250;0560;Scrafty;Intimidate;Moxie;Shed Skin
+1251;0588;Karrablast;No Guard;Swarm;Shed Skin
+1252;0665;Spewpa;Friend Guard;;Shed Skin
+1253;0843;Silicobra;Sand Veil;Sand Spit;Shed Skin
+1254;0844;Sandaconda;Sand Veil;Sand Spit;Shed Skin
+1255;0967;Cyclizar;Regenerator;;Shed Skin
+1256;0323;Camerupt Mega Camerupt;;;Sheer Force
+1257;0532;Timburr;Iron Fist;Guts;Sheer Force
+1258;0533;Gurdurr;Iron Fist;Guts;Sheer Force
+1259;0534;Conkeldurr;Iron Fist;Guts;Sheer Force
+1260;0555;Darmanitan Standard Mode;Zen Mode;;Sheer Force
+1261;0555;Darmanitan Zen Mode;Zen Mode;;Sheer Force
+1262;0621;Druddigon;Mold Breaker;Rough Skin;Sheer Force
+1263;0627;Rufflet;Hustle;Keen Eye;Sheer Force
+1264;0628;Braviary;Defiant;Keen Eye;Sheer Force
+1265;0628;Braviary Hisuian Braviary;Tinted Lens;Keen Eye;Sheer Force
+1266;0878;Cufant;Heavy Metal;;Sheer Force
+1267;0879;Copperajah;Heavy Metal;;Sheer Force
+1268;0900;Kleavor;Sharpness;Swarm;Sheer Force
+1269;0080;Slowbro Mega Slowbro;;;Shell Armor
+1270;0090;Shellder;Overcoat;Skill Link;Shell Armor
+1271;0091;Cloyster;Overcoat;Skill Link;Shell Armor
+1272;0098;Krabby;Sheer Force;Hyper Cutter;Shell Armor
+1273;0099;Kingler;Sheer Force;Hyper Cutter;Shell Armor
+1274;0131;Lapras;Hydration;Water Absorb;Shell Armor
+1275;0138;Omanyte;Weak Armor;Swift Swim;Shell Armor
+1276;0139;Omastar;Weak Armor;Swift Swim;Shell Armor
+1277;0341;Corphish;Adaptability;Hyper Cutter;Shell Armor
+1278;0342;Crawdaunt;Adaptability;Hyper Cutter;Shell Armor
+1279;0366;Clamperl;Rattled;;Shell Armor
+1280;0557;Dwebble;Weak Armor;Sturdy;Shell Armor
+1281;0558;Crustle;Weak Armor;Sturdy;Shell Armor
+1282;0589;Escavalier;Overcoat;Swarm;Shell Armor
+1283;0616;Shelmet;Overcoat;Hydration;Shell Armor
+1284;0705;Sliggoo Hisuian Sliggoo;Gooey;Sap Sipper;Shell Armor
+1285;0706;Goodra Hisuian Goodra;Gooey;Sap Sipper;Shell Armor
+1286;0776;Turtonator;;;Shell Armor
+1287;0833;Chewtle;Swift Swim;Strong Jaw;Shell Armor
+1288;0834;Drednaw;Swift Swim;Strong Jaw;Shell Armor
+1289;0950;Klawf;Regenerator;Anger Shell;Shell Armor
+1290;0010;Caterpie;Run Away;;Shield Dust
+1291;0013;Weedle;Run Away;;Shield Dust
+1292;0049;Venomoth;Wonder Skin;Tinted Lens;Shield Dust
+1293;0265;Wurmple;Run Away;;Shield Dust
+1294;0269;Dustox;Compound Eyes;;Shield Dust
+1295;0664;Scatterbug;Friend Guard;Compound Eyes;Shield Dust
+1296;0666;Vivillon;Friend Guard;Compound Eyes;Shield Dust
+1297;0742;Cutiefly;Sweet Veil;Honey Gather;Shield Dust
+1298;0743;Ribombee;Sweet Veil;Honey Gather;Shield Dust
+1299;0872;Snom;Ice Scales;;Shield Dust
+1300;0873;Frosmoth;Ice Scales;;Shield Dust
+1301;0774;Minior Meteor Form;;;Shields Down
+1302;0774;Minior Core Form;;;Shields Down
+1303;0322;Numel;Own Tempo;Oblivious;Simple
+1304;0399;Bidoof;Moody;Unaware;Simple
+1305;0400;Bibarel;Moody;Unaware;Simple
+1306;0090;Shellder;Overcoat;Shell Armor;Skill Link
+1307;0091;Cloyster;Overcoat;Shell Armor;Skill Link
+1308;0214;Heracross Mega Heracross;;;Skill Link
+1309;0731;Pikipek;Pickup;Keen Eye;Skill Link
+1310;0732;Trumbeak;Pickup;Keen Eye;Skill Link
+1311;0733;Toucannon;Sheer Force;Keen Eye;Skill Link
+1312;0486;Regigigas;;;Slow Start
+1313;0613;Cubchoo;Rattled;Snow Cloak;Slush Rush
+1314;0614;Beartic;Swift Swim;Snow Cloak;Slush Rush
+1315;0975;Cetitan;Sheer Force;Thick Fat;Slush Rush
+1316;0116;Horsea;Damp;Swift Swim;Sniper
+1317;0117;Seadra;Damp;Poison Point;Sniper
+1318;0223;Remoraid;Moody;Hustle;Sniper
+1319;0224;Octillery;Moody;Suction Cups;Sniper
+1320;0230;Kingdra;Damp;Swift Swim;Sniper
+1321;0451;Skorupi;Keen Eye;Battle Armor;Sniper
+1322;0452;Drapion;Keen Eye;Battle Armor;Sniper
+1323;0688;Binacle;Pickpocket;Tough Claws;Sniper
+1324;0689;Barbaracle;Pickpocket;Tough Claws;Sniper
+1325;0027;Sandshrew Alolan Sandshrew;Slush Rush;;Snow Cloak
+1326;0028;Sandslash Alolan Sandslash;Slush Rush;;Snow Cloak
+1327;0037;Vulpix Alolan Vulpix;Snow Warning;;Snow Cloak
+1328;0038;Ninetales Alolan Ninetales;Snow Warning;— ;Snow Cloak
+1329;0220;Swinub;Thick Fat;Oblivious;Snow Cloak
+1330;0221;Piloswine;Thick Fat;Oblivious;Snow Cloak
+1331;0471;Glaceon;Ice Body;;Snow Cloak
+1332;0473;Mamoswine;Thick Fat;Oblivious;Snow Cloak
+1333;0478;Froslass;Cursed Body;;Snow Cloak
+1334;0582;Vanillite;Weak Armor;Ice Body;Snow Cloak
+1335;0583;Vanillish;Weak Armor;Ice Body;Snow Cloak
+1336;0613;Cubchoo;Rattled;Slush Rush;Snow Cloak
+1337;0614;Beartic;Swift Swim;Slush Rush;Snow Cloak
+1338;0974;Cetoddle;Sheer Force;Thick Fat;Snow Cloak
+1339;0459;Snover;Soundproof;;Snow Warning
+1340;0460;Abomasnow;Soundproof;;Snow Warning
+1341;0460;Abomasnow Mega Abomasnow;;;Snow Warning
+1342;0584;Vanilluxe;Weak Armor;Ice Body;Snow Warning
+1343;0191;Sunkern;Early Bird;Chlorophyll;Solar Power
+1344;0192;Sunflora;Early Bird;Chlorophyll;Solar Power
+1345;0229;Houndoom Mega Houndoom;;;Solar Power
+1346;0357;Tropius;Harvest;Chlorophyll;Solar Power
+1347;0323;Camerupt;Anger Point;Magma Armor;Solid Rock
+1348;0464;Rhyperior;Reckless;Lightning Rod;Solid Rock
+1349;0564;Tirtouga;Swift Swim;Sturdy;Solid Rock
+1350;0565;Carracosta;Swift Swim;Sturdy;Solid Rock
+1351;0801;Magearna;;;Soul-Heart
+1352;0100;Voltorb;Aftermath;Static;Soundproof
+1353;0100;Voltorb Hisuian Voltorb;Aftermath;Static;Soundproof
+1354;0101;Electrode;Aftermath;Static;Soundproof
+1355;0101;Electrode Hisuian Electrode;Aftermath;Static;Soundproof
+1356;0122;Mr. Mime;Technician;Filter;Soundproof
+1357;0293;Whismur;Rattled;;Soundproof
+1358;0294;Loudred;Scrappy;— ;Soundproof
+1359;0295;Exploud;Scrappy;;Soundproof
+1360;0439;Mime Jr.;Technician;Filter;Soundproof
+1361;0782;Jangmo-o;Overcoat;Bulletproof;Soundproof
+1362;0783;Hakamo-o;Overcoat;Bulletproof;Soundproof
+1363;0784;Kommo-o;Overcoat;Bulletproof;Soundproof
+1364;0193;Yanma;Frisk;Compound Eyes;Speed Boost
+1365;0257;Blaziken Mega Blaziken;;;Speed Boost
+1366;0291;Ninjask;Infiltrator;;Speed Boost
+1367;0469;Yanmega;Frisk;Tinted Lens;Speed Boost
+1368;0734;Yungoos;Adaptability;Strong Jaw;Stakeout
+1369;0735;Gumshoos;Adaptability;Strong Jaw;Stakeout
+1370;0302;Sableye;Prankster;Keen Eye;Stall
+1371;0749;Mudbray;Inner Focus;Own Tempo;Stamina
+1372;0750;Mudsdale;Inner Focus;Own Tempo;Stamina
+1373;0681;Aegislash Shield Forme;;;Stance Change
+1374;0681;Aegislash Blade Forme;;;Stance Change
+1375;0025;Pikachu;Lightning Rod;;Static
+1376;0026;Raichu;Lightning Rod;;Static
+1377;0100;Voltorb;Aftermath;Soundproof;Static
+1378;0100;Voltorb Hisuian Voltorb;Aftermath;Soundproof;Static
+1379;0101;Electrode;Aftermath;Soundproof;Static
+1380;0101;Electrode Hisuian Electrode;Aftermath;Soundproof;Static
+1381;0125;Electabuzz;Vital Spirit;;Static
+1382;0172;Pichu;Lightning Rod;;Static
+1383;0179;Mareep;Plus;;Static
+1384;0180;Flaaffy;Plus;;Static
+1385;0181;Ampharos;Plus;;Static
+1386;0239;Elekid;Vital Spirit;;Static
+1387;0309;Electrike;Minus;Lightning Rod;Static
+1388;0310;Manectric;Minus;Lightning Rod;Static
+1389;0587;Emolga;Motor Drive;;Static
+1390;0618;Stunfisk;Sand Veil;Limber;Static
+1391;0848;Toxel;Klutz;Rattled;Static
+1392;0881;Arctozolt;Slush Rush;Volt Absorb;Static
+1393;0921;Pawmi;Iron Fist;Natural Cure;Static
+1394;0938;Tadbulb;Damp;Own Tempo;Static
+1395;0939;Bellibolt;Damp;Electromorphosis;Static
+1396;0083;Farfetch'd Galarian Farfetch'd;Scrappy;;Steadfast
+1397;0150;Mewtwo Mega Mewtwo X;;;Steadfast
+1398;0236;Tyrogue;Vital Spirit;Guts;Steadfast
+1399;0447;Riolu;Prankster;Inner Focus;Steadfast
+1400;0448;Lucario;Justified;Inner Focus;Steadfast
+1401;0475;Gallade;Justified;Sharpness;Steadfast
+1402;0832;Dubwool;Bulletproof;Fluffy;Steadfast
+1403;0865;Sirfetch'd;Scrappy;;Steadfast
+1404;0837;Rolycoly;Flash Fire;Heatproof;Steam Engine
+1405;0838;Carkol;Flash Fire;Flame Body;Steam Engine
+1406;0839;Coalossal;Flash Fire;Flame Body;Steam Engine
+1407;0781;Dhelmise;;;Steelworker
+1408;0088;Grimer;Poison Touch;Sticky Hold;Stench
+1409;0089;Muk;Poison Touch;Sticky Hold;Stench
+1410;0434;Stunky;Keen Eye;Aftermath;Stench
+1411;0435;Skuntank;Keen Eye;Aftermath;Stench
+1412;0568;Trubbish;Aftermath;Sticky Hold;Stench
+1413;0569;Garbodor;Aftermath;Weak Armor;Stench
+1414;0088;Grimer;Poison Touch;Stench;Sticky Hold
+1415;0089;Muk;Poison Touch;Stench;Sticky Hold
+1416;0316;Gulpin;Gluttony;Liquid Ooze;Sticky Hold
+1417;0317;Swalot;Gluttony;Liquid Ooze;Sticky Hold
+1418;0422;Shellos;Sand Force;Storm Drain;Sticky Hold
+1419;0423;Gastrodon;Sand Force;Storm Drain;Sticky Hold
+1420;0568;Trubbish;Aftermath;Stench;Sticky Hold
+1421;0617;Accelgor;Unburden;Hydration;Sticky Hold
+1422;0422;Shellos;Sand Force;Sticky Hold;Storm Drain
+1423;0423;Gastrodon;Sand Force;Sticky Hold;Storm Drain
+1424;0456;Finneon;Water Veil;Swift Swim;Storm Drain
+1425;0457;Lumineon;Water Veil;Swift Swim;Storm Drain
+1426;0319;Sharpedo Mega Sharpedo;;;Strong Jaw
+1427;0696;Tyrunt;Sturdy;;Strong Jaw
+1428;0697;Tyrantrum;Rock Head;;Strong Jaw
+1429;0713;Avalugg Hisuian Avalugg;Sturdy;Ice Body;Strong Jaw
+1430;0734;Yungoos;Adaptability;Stakeout;Strong Jaw
+1431;0735;Gumshoos;Adaptability;Stakeout;Strong Jaw
+1432;0779;Bruxish;Wonder Skin;Dazzling;Strong Jaw
+1433;0833;Chewtle;Swift Swim;Shell Armor;Strong Jaw
+1434;0834;Drednaw;Swift Swim;Shell Armor;Strong Jaw
+1435;0836;Boltund;Competitive;;Strong Jaw
+1436;0882;Dracovish;Sand Rush;Water Absorb;Strong Jaw
+1437;0074;Geodude;Sand Veil;Rock Head;Sturdy
+1438;0074;Geodude Alolan Geodude;Galvanize;Magnet Pull;Sturdy
+1439;0075;Graveler;Sand Veil;Rock Head;Sturdy
+1440;0075;Graveler Alolan Graveler;Galvanize;Magnet Pull;Sturdy
+1441;0076;Golem;Sand Veil;Rock Head;Sturdy
+1442;0076;Golem Alolan Golem;Galvanize;Magnet Pull;Sturdy
+1443;0081;Magnemite;Analytic;Magnet Pull;Sturdy
+1444;0082;Magneton;Analytic;Magnet Pull;Sturdy
+1445;0095;Onix;Weak Armor;Rock Head;Sturdy
+1446;0185;Sudowoodo;Rattled;Rock Head;Sturdy
+1447;0204;Pineco;Overcoat;;Sturdy
+1448;0205;Forretress;Overcoat;;Sturdy
+1449;0208;Steelix;Sheer Force ;Rock Head;Sturdy
+1450;0213;Shuckle;Contrary;Gluttony;Sturdy
+1451;0227;Skarmory;Weak Armor;Keen Eye;Sturdy
+1452;0232;Donphan;Sand Veil;;Sturdy
+1453;0299;Nosepass;Sand Force;Magnet Pull;Sturdy
+1454;0304;Aron;Heavy Metal;Rock Head;Sturdy
+1455;0305;Lairon;Heavy Metal;Rock Head;Sturdy
+1456;0306;Aggron;Heavy Metal;Rock Head;Sturdy
+1457;0410;Shieldon;Soundproof;;Sturdy
+1458;0411;Bastiodon;Soundproof;;Sturdy
+1459;0438;Bonsly;Rattled;Rock Head;Sturdy
+1460;0462;Magnezone;Analytic;Magnet Pull;Sturdy
+1461;0476;Probopass;Sand Force;Magnet Pull;Sturdy
+1462;0524;Roggenrola;Sand Force;Weak Armor;Sturdy
+1463;0525;Boldore;Sand Force;Weak Armor;Sturdy
+1464;0526;Gigalith;Sand Force;Sand Stream;Sturdy
+1465;0539;Sawk;Mold Breaker;Inner Focus;Sturdy
+1466;0557;Dwebble;Weak Armor;Shell Armor;Sturdy
+1467;0558;Crustle;Weak Armor;Shell Armor;Sturdy
+1468;0564;Tirtouga;Swift Swim;Solid Rock;Sturdy
+1469;0565;Carracosta;Swift Swim;Solid Rock;Sturdy
+1470;0790;Cosmoem;;;Sturdy
+1471;0932;Nacli;Clear Body;Purifying Salt;Sturdy
+1472;0933;Naclstack;Clear Body;Purifying Salt;Sturdy
+1473;0934;Garganacl;Clear Body;Purifying Salt;Sturdy
+1474;0224;Octillery;Moody;Sniper;Suction Cups
+1475;0345;Lileep;Storm Drain;;Suction Cups
+1476;0346;Cradily;Storm Drain;;Suction Cups
+1477;0686;Inkay;Infiltrator;Contrary;Suction Cups
+1478;0687;Malamar;Infiltrator;Contrary;Suction Cups
+1479;0198;Murkrow;Prankster;Insomnia;Super Luck
+1480;0359;Absol;Justified;Pressure;Super Luck
+1481;0430;Honchkrow;Moxie;Insomnia;Super Luck
+1482;0519;Pidove;Rivalry;Big Pecks ;Super Luck
+1483;0520;Tranquill;Rivalry;Big Pecks;Super Luck
+1484;0521;Unfezant;Rivalry;Big Pecks;Super Luck
+1485;0983;Kingambit;Pressure;Defiant;Supreme Overlord
+1486;0026;Raichu Alolan Raichu;;;Surge Surfer
+1487;0015;Beedrill;Sniper;;Swarm
+1488;0123;Scyther;Steadfast;Technician;Swarm
+1489;0165;Ledyba;Rattled;Early Bird;Swarm
+1490;0166;Ledian;Iron Fist;Early Bird;Swarm
+1491;0167;Spinarak;Sniper;Insomnia;Swarm
+1492;0168;Ariados;Sniper;Insomnia;Swarm
+1493;0212;Scizor;Light Metal;Technician;Swarm
+1494;0214;Heracross;Moxie;Guts;Swarm
+1495;0267;Beautifly;Rivalry;;Swarm
+1496;0313;Volbeat;Prankster;Illuminate;Swarm
+1497;0402;Kricketune;Technician;;Swarm
+1498;0414;Mothim;Tinted Lens;;Swarm
+1499;0540;Sewaddle;Overcoat;Chlorophyll;Swarm
+1500;0542;Leavanny;Overcoat;Chlorophyll;Swarm
+1501;0543;Venipede;Speed Boost;Poison Point;Swarm
+1502;0544;Whirlipede;Speed Boost;Poison Point;Swarm
+1503;0545;Scolipede;Speed Boost;Poison Point;Swarm
+1504;0588;Karrablast;No Guard;Shed Skin;Swarm
+1505;0589;Escavalier;Overcoat;Shell Armor;Swarm
+1506;0632;Durant;Truant; Hustle;Swarm
+1507;0736;Grubbin;;;Swarm
+1508;0824;Blipbug;Telepathy;Compound Eyes;Swarm
+1509;0825;Dottler;Telepathy;Compound Eyes;Swarm
+1510;0826;Orbeetle;Telepathy;Frisk;Swarm
+1511;0900;Kleavor;Sharpness;Sheer Force;Swarm
+1512;0919;Nymble;Tinted Lens;;Swarm
+1513;0920;Lokix;Tinted Lens;;Swarm
+1514;0684;Swirlix;Unburden;;Sweet Veil
+1515;0685;Slurpuff;Unburden;;Sweet Veil
+1516;0868;Milcery;Aroma Veil;;Sweet Veil
+1517;0869;Alcremie;Aroma Veil;;Sweet Veil
+1518;0116;Horsea;Damp;Sniper;Swift Swim
+1519;0118;Goldeen;Lightning Rod;Water Veil;Swift Swim
+1520;0119;Seaking;Lightning Rod;Water Veil;Swift Swim
+1521;0129;Magikarp;Rattled;— ;Swift Swim
+1522;0138;Omanyte;Weak Armor;Shell Armor;Swift Swim
+1523;0139;Omastar;Weak Armor;Shell Armor;Swift Swim
+1524;0140;Kabuto;Weak Armor;Battle Armor;Swift Swim
+1525;0141;Kabutops;Weak Armor;Battle Armor;Swift Swim
+1526;0211;Qwilfish;Intimidate ;Poison Point;Swift Swim
+1527;0211;Qwilfish Hisuian Qwilfish;Intimidate;Poison Point;Swift Swim
+1528;0226;Mantine;Water Veil;Water Absorb;Swift Swim
+1529;0230;Kingdra;Damp;Sniper;Swift Swim
+1530;0260;Swampert Mega Swampert;;;Swift Swim
+1531;0270;Lotad;Own Tempo;Rain Dish;Swift Swim
+1532;0271;Lombre;Own Tempo;Rain Dish;Swift Swim
+1533;0272;Ludicolo;Own Tempo;Rain Dish;Swift Swim
+1534;0283;Surskit;Rain Dish;;Swift Swim
+1535;0349;Feebas;Adaptability;Oblivious;Swift Swim
+1536;0367;Huntail;Water Veil;;Swift Swim
+1537;0368;Gorebyss;Hydration;;Swift Swim
+1538;0369;Relicanth;Sturdy;Rock Head;Swift Swim
+1539;0370;Luvdisc;Hydration;;Swift Swim
+1540;0418;Buizel;Water Veil;;Swift Swim
+1541;0419;Floatzel;Water Veil;;Swift Swim
+1542;0456;Finneon;Water Veil;Storm Drain;Swift Swim
+1543;0457;Lumineon;Water Veil;Storm Drain;Swift Swim
+1544;0458;Mantyke;Water Veil;Water Absorb;Swift Swim
+1545;0535;Tympole;Water Absorb;Hydration;Swift Swim
+1546;0536;Palpitoad;Water Absorb;Hydration;Swift Swim
+1547;0537;Seismitoad;Water Absorb;Poison Touch;Swift Swim
+1548;0846;Arrokuda;Propeller Tail;;Swift Swim
+1549;0847;Barraskewda;Propeller Tail;;Swift Swim
+1550;0902;Basculegion Male;Mold Breaker;Adaptability;Swift Swim
+1551;0902;Basculegion Female;Mold Breaker;Adaptability;Swift Swim
+1552;0904;Overqwil;Intimidate;Poison Point;Swift Swim
+1553;1002;Chien-Pao;;;Sword of Ruin
+1554;0063;Abra;Magic Guard;Inner Focus;Synchronize
+1555;0064;Kadabra;Magic Guard;Inner Focus;Synchronize
+1556;0065;Alakazam;Magic Guard;Inner Focus;Synchronize
+1557;0151;Mew;;;Synchronize
+1558;0177;Natu;Magic Bounce;Early Bird;Synchronize
+1559;0178;Xatu;Magic Bounce;Early Bird;Synchronize
+1560;0196;Espeon;Magic Bounce;;Synchronize
+1561;0197;Umbreon;Inner Focus;;Synchronize
+1562;0280;Ralts;Telepathy;Trace;Synchronize
+1563;0281;Kirlia;Telepathy;Trace;Synchronize
+1564;0282;Gardevoir;Telepathy;Trace;Synchronize
+1565;0517;Munna;Telepathy;Forewarn;Synchronize
+1566;0518;Musharna;Telepathy;Forewarn;Synchronize
+1567;0605;Elgyem;Analytic;Telepathy;Synchronize
+1568;0606;Beheeyem;Analytic;Telepathy;Synchronize
+1569;0876;Indeedee Male;Psychic Surge;Inner Focus;Synchronize
+1570;0876;Indeedee Female;Psychic Surge;Own Tempo;Synchronize
+1571;0954;Rabsca;Telepathy;;Synchronize
+1572;1001;Wo-Chien;;;Tablets of Ruin
+1573;0016;Pidgey;Big Pecks;Keen Eye;Tangled Feet
+1574;0017;Pidgeotto;Big Pecks;Keen Eye;Tangled Feet
+1575;0018;Pidgeot;Big Pecks;Keen Eye;Tangled Feet
+1576;0327;Spinda;Contrary;Own Tempo;Tangled Feet
+1577;0441;Chatot;Big Pecks;Keen Eye;Tangled Feet
+1578;0866;Mr. Rime;Ice Body;Screen Cleaner;Tangled Feet
+1579;0973;Flamigo;Costar;Scrappy;Tangled Feet
+1580;0050;Diglett Alolan Diglett;Sand Force;Sand Veil;Tangling Hair
+1581;0051;Dugtrio Alolan Dugtrio;Sand Force;Sand Veil;Tangling Hair
+1582;0052;Meowth;Unnerve;Pickup;Technician
+1583;0052;Meowth Alolan Meowth;Rattled;Pickup;Technician
+1584;0053;Persian;Unnerve;Limber;Technician
+1585;0053;Persian Alolan Persian;Rattled;Fur Coat;Technician
+1586;0123;Scyther;Steadfast;Swarm;Technician
+1587;0212;Scizor;Light Metal;Swarm;Technician
+1588;0212;Scizor Mega Scizor;;;Technician
+1589;0235;Smeargle;Moody;Own Tempo;Technician
+1590;0237;Hitmontop;Steadfast;Intimidate;Technician
+1591;0424;Ambipom;Skill Link;Pickup;Technician
+1592;0572;Minccino;Skill Link;Cute Charm;Technician
+1593;0573;Cinccino;Skill Link;Cute Charm;Technician
+1594;0802;Marshadow;;;Technician
+1595;0605;Elgyem;Analytic;Synchronize;Telepathy
+1596;0606;Beheeyem;Analytic;Synchronize;Telepathy
+1597;0765;Oranguru;Symbiosis;Inner Focus;Telepathy
+1598;0644;Zekrom;;;Teravolt
+1599;0646;Kyurem Black Kyurem;;;Teravolt
+1600;0996;Frigibax;Ice Body;;Thermal Exchange
+1601;0997;Arctibax;Ice Body;;Thermal Exchange
+1602;0998;Baxcalibur;Ice Body;;Thermal Exchange
+1603;0003;Venusaur Mega Venusaur;;;Thick Fat
+1604;0086;Seel;Ice Body;Hydration;Thick Fat
+1605;0087;Dewgong;Ice Body;Hydration;Thick Fat
+1606;0143;Snorlax;Gluttony;Immunity;Thick Fat
+1607;0183;Marill;Sap Sipper;Huge Power;Thick Fat
+1608;0184;Azumarill;Sap Sipper;Huge Power;Thick Fat
+1609;0241;Miltank;Sap Sipper;Scrappy;Thick Fat
+1610;0296;Makuhita;Sheer Force;Guts;Thick Fat
+1611;0297;Hariyama;Sheer Force;Guts;Thick Fat
+1612;0298;Azurill;Sap Sipper;Huge Power;Thick Fat
+1613;0325;Spoink;Gluttony;Own Tempo;Thick Fat
+1614;0326;Grumpig;Gluttony;Own Tempo;Thick Fat
+1615;0363;Spheal;Oblivious;Ice Body;Thick Fat
+1616;0364;Sealeo;Oblivious;Ice Body;Thick Fat
+1617;0365;Walrein;Oblivious;Ice Body;Thick Fat
+1618;0432;Purugly;Defiant;Own Tempo;Thick Fat
+1619;0446;Munchlax;Gluttony;Pickup;Thick Fat
+1620;0974;Cetoddle;Sheer Force;Snow Cloak;Thick Fat
+1621;0975;Cetitan;Sheer Force;Slush Rush;Thick Fat
+1622;0048;Venonat;Run Away;Compound Eyes;Tinted Lens
+1623;0049;Venomoth;Wonder Skin;Shield Dust;Tinted Lens
+1624;0314;Illumise;Prankster;Oblivious;Tinted Lens
+1625;0469;Yanmega;Frisk;Speed Boost;Tinted Lens
+1626;0007;Squirtle;Rain Dish;;Torrent
+1627;0008;Wartortle;Rain Dish;;Torrent
+1628;0009;Blastoise;Rain Dish;;Torrent
+1629;0158;Totodile;Sheer Force;;Torrent
+1630;0159;Croconaw;Sheer Force;;Torrent
+1631;0160;Feraligatr;Sheer Force;;Torrent
+1632;0258;Mudkip;Damp;;Torrent
+1633;0259;Marshtomp;Damp;;Torrent
+1634;0260;Swampert;Damp;;Torrent
+1635;0393;Piplup;Defiant;;Torrent
+1636;0394;Prinplup;Defiant;;Torrent
+1637;0395;Empoleon;Defiant;;Torrent
+1638;0501;Oshawott;Shell Armor;;Torrent
+1639;0502;Dewott;Shell Armor;;Torrent
+1640;0503;Samurott;Shell Armor;;Torrent
+1641;0503;Samurott Hisuian Samurott;Sharpness;;Torrent
+1642;0656;Froakie;Protean;;Torrent
+1643;0657;Frogadier;Protean;;Torrent
+1644;0658;Greninja;Protean;;Torrent
+1645;0728;Popplio;Liquid Voice;;Torrent
+1646;0729;Brionne;Liquid Voice;;Torrent
+1647;0730;Primarina;Liquid Voice;;Torrent
+1648;0816;Sobble;Sniper;;Torrent
+1649;0817;Drizzile;Sniper;;Torrent
+1650;0818;Inteleon;Sniper;;Torrent
+1651;0912;Quaxly;Moxie;;Torrent
+1652;0913;Quaxwell;Moxie;;Torrent
+1653;0914;Quaquaval;Moxie;;Torrent
+1654;0006;Charizard Mega Charizard X;;;Tough Claws
+1655;0052;Meowth Galarian Meowth;Unnerve;Pickup;Tough Claws
+1656;0142;Aerodactyl Mega Aerodactyl;;;Tough Claws
+1657;0376;Metagross Mega Metagross;;;Tough Claws
+1658;0688;Binacle;Pickpocket;Sniper;Tough Claws
+1659;0689;Barbaracle;Pickpocket;Sniper;Tough Claws
+1660;0745;Lycanroc Dusk Form;;;Tough Claws
+1661;0863;Perrserker;Steely Spirit;Battle Armor;Tough Claws
+1662;0065;Alakazam Mega Alakazam;;;Trace
+1663;0137;Porygon;Analytic;Download;Trace
+1664;0233;Porygon2;Analytic;Download;Trace
+1665;0280;Ralts;Telepathy;Synchronize;Trace
+1666;0281;Kirlia;Telepathy;Synchronize;Trace
+1667;0282;Gardevoir;Telepathy;Synchronize;Trace
+1668;0969;Glimmet;Corrosion;;Toxic Debris
+1669;0970;Glimmora;Corrosion;;Toxic Debris
+1670;0894;Regieleki;;;Transistor
+1671;0764;Comfey;Natural Cure;Flower Veil;Triage
+1672;0287;Slakoth;;;Truant
+1673;0289;Slaking;;;Truant
+1674;0643;Reshiram;;;Turboblaze
+1675;0646;Kyurem White Kyurem;;;Turboblaze
+1676;0399;Bidoof;Moody;Simple;Unaware
+1677;0400;Bibarel;Moody;Simple;Unaware
+1678;0527;Woobat;Simple;Klutz;Unaware
+1679;0528;Swoobat;Simple;Klutz;Unaware
+1680;0789;Cosmog;;;Unaware
+1681;0977;Dondozo;Water Veil;Oblivious;Unaware
+1682;0425;Drifloon;Flare Boost;Aftermath;Unburden
+1683;0426;Drifblim;Flare Boost;Aftermath;Unburden
+1684;0509;Purrloin;Prankster;Limber;Unburden
+1685;0510;Liepard;Prankster;Limber;Unburden
+1686;0701;Hawlucha;Mold Breaker;Limber;Unburden
+1687;0827;Nickit;Stakeout;Run Away;Unburden
+1688;0828;Thievul;Stakeout;Run Away;Unburden
+1689;0903;Sneasler;Poison Touch;Pressure;Unburden
+1690;0944;Shroodle;Prankster;Pickpocket;Unburden
+1691;0945;Grafaiai;Prankster;Poison Touch;Unburden
+1692;0595;Joltik;Swarm;Compound Eyes;Unnerve
+1693;0596;Galvantula;Swarm;Compound Eyes;Unnerve
+1694;0667;Litleo;Moxie;Rivalry;Unnerve
+1695;0668;Pyroar;Moxie;Rivalry;Unnerve
+1696;0821;Rookidee;Big Pecks;Keen Eye;Unnerve
+1697;0822;Corvisquire;Big Pecks;Keen Eye;Unnerve
+1698;0823;Corviknight;Mirror Armor;Pressure;Unnerve
+1699;0898;Calyrex;;;Unnerve
+1700;0892;Urshifu Single Strike Style;;;Unseen Fist
+1701;0892;Urshifu Rapid Strike Style;;;Unseen Fist
+1702;1003;Ting-Lu;;;Vessel of Ruin
+1703;0494;Victini;;;Victory Star
+1704;0056;Mankey;Defiant;Anger Point;Vital Spirit
+1705;0057;Primeape;Defiant;Anger Point;Vital Spirit
+1706;0122;Mr. Mime Galarian Mr. Mime;Ice Body;Screen Cleaner;Vital Spirit
+1707;0225;Delibird;Insomnia;Hustle;Vital Spirit
+1708;0288;Vigoroth;;;Vital Spirit
+1709;0506;Lillipup;Run Away;Pickup;Vital Spirit
+1710;0744;Rockruff;Steadfast;Keen Eye;Vital Spirit
+1711;0745;Lycanroc Midnight Form;No Guard;Keen Eye;Vital Spirit
+1712;0979;Annihilape;Defiant;Inner Focus;Vital Spirit
+1713;0135;Jolteon;Quick Feet;;Volt Absorb
+1714;0170;Chinchou;Water Absorb;Illuminate;Volt Absorb
+1715;0171;Lanturn;Water Absorb;Illuminate;Volt Absorb
+1716;0642;Thundurus Therian Forme;;;Volt Absorb
+1717;0807;Zeraora;;;Volt Absorb
+1718;0880;Dracozolt;Sand Rush;Hustle;Volt Absorb
+1719;0881;Arctozolt;Slush Rush;Static;Volt Absorb
+1720;0922;Pawmo;Iron Fist;Natural Cure;Volt Absorb
+1721;0923;Pawmot;Iron Fist;Natural Cure;Volt Absorb
+1722;0940;Wattrel;Competitive;Wind Power;Volt Absorb
+1723;0941;Kilowattrel;Competitive;Wind Power;Volt Absorb
+1724;0562;Yamask Galarian Yamask;;;Wandering Spirit
+1725;0867;Runerigus;;;Wandering Spirit
+1726;0060;Poliwag;Swift Swim;Damp;Water Absorb
+1727;0061;Poliwhirl;Swift Swim;Damp;Water Absorb
+1728;0062;Poliwrath;Swift Swim;Damp;Water Absorb
+1729;0131;Lapras;Hydration;Shell Armor;Water Absorb
+1730;0134;Vaporeon;Hydration;;Water Absorb
+1731;0186;Politoed;Drizzle;Damp;Water Absorb
+1732;0194;Wooper;Unaware;Damp;Water Absorb
+1733;0194;Wooper Paldean Wooper;Unaware;Poison Point;Water Absorb
+1734;0195;Quagsire;Unaware;Damp;Water Absorb
+1735;0226;Mantine;Water Veil;Swift Swim;Water Absorb
+1736;0458;Mantyke;Water Veil;Swift Swim;Water Absorb
+1737;0556;Maractus;Storm Drain;Chlorophyll;Water Absorb
+1738;0592;Frillish;Damp;Cursed Body;Water Absorb
+1739;0593;Jellicent;Damp;Cursed Body;Water Absorb
+1740;0721;Volcanion;;;Water Absorb
+1741;0882;Dracovish;Sand Rush;Strong Jaw;Water Absorb
+1742;0883;Arctovish;Slush Rush;Ice Body;Water Absorb
+1743;0980;Clodsire;Unaware;Poison Point;Water Absorb
+1744;0751;Dewpider;Water Absorb;;Water Bubble
+1745;0752;Araquanid;Water Absorb;;Water Bubble
+1746;0769;Sandygast;Sand Veil;;Water Compaction
+1747;0770;Palossand;Sand Veil;;Water Compaction
+1748;0118;Goldeen;Lightning Rod;Swift Swim;Water Veil
+1749;0119;Seaking;Lightning Rod;Swift Swim;Water Veil
+1750;0320;Wailmer;Pressure;Oblivious;Water Veil
+1751;0321;Wailord;Pressure;Oblivious;Water Veil
+1752;0963;Finizen;;;Water Veil
+1753;0222;Corsola Galarian Corsola;Cursed Body;;Weak Armor
+1754;0524;Roggenrola;Sand Force;Sturdy;Weak Armor
+1755;0525;Boldore;Sand Force;Sturdy;Weak Armor
+1756;0569;Garbodor;Aftermath;Stench;Weak Armor
+1757;0854;Sinistea;Cursed Body;;Weak Armor
+1758;0855;Polteageist;Cursed Body;;Weak Armor
+1759;0864;Cursola;Perish Body;;Weak Armor
+1760;0927;Dachsbun;Aroma Veil;;Well-Baked Body
+1761;0324;Torkoal;Shell Armor;Drought;White Smoke
+1762;0850;Sizzlipede;Flame Body;Flash Fire;White Smoke
+1763;0851;Centiskorch;Flame Body;Flash Fire;White Smoke
+1764;0767;Wimpod;;;Wimp Out
+1765;0940;Wattrel;Competitive;Volt Absorb;Wind Power
+1766;0941;Kilowattrel;Competitive;Volt Absorb;Wind Power
+1767;0946;Bramblin;Infiltrator;;Wind Rider
+1768;0947;Brambleghast;Infiltrator;;Wind Rider
+1769;0292;Shedinja;;;Wonder Guard
+1770;0561;Sigilyph;Tinted Lens;Magic Guard;Wonder Skin
+1771;0964;Palafin Zero Form;;;Zero to Hero
+1772;0964;Palafin Hero Form;;;Zero to Hero

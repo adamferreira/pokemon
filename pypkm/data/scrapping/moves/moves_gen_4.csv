@@ -1,0 +1,114 @@
+Name;Type;Category;Power;Accuracy;PP;Effect
+Acupressure;Normal;Status;;;30;Sharply raises a random stat.
+Air Slash;Flying;Special;75;95;15;May cause flinching.
+Aqua Jet;Water;Physical;40;100;20;User attacks first.
+Aqua Ring;Water;Status;;;20;Restores a little HP each turn.
+Aqua Tail;Water;Physical;90;90;10;
+Assurance;Dark;Physical;60;100;10;Power doubles if opponent already took damage in the same turn.
+Attack Order;Bug;Physical;90;100;15;High critical hit ratio.
+Aura Sphere;Fighting;Special;80;inf;20;Ignores Accuracy and Evasiveness.
+Avalanche;Ice;Physical;60;100;10;Power doubles if user took damage first.
+Brave Bird;Flying;Physical;120;100;15;User receives recoil damage.
+Brine;Water;Special;65;100;10;Power doubles if opponent's HP is less than 50%.
+Bug Bite;Bug;Physical;60;100;20;Receives the effect from the opponent's held berry.
+Bug Buzz;Bug;Special;90;100;10;May lower opponent's Special Defense.
+Bullet Punch;Steel;Physical;40;100;30;User attacks first.
+Captivate;Normal;Status;;100;20;Sharply lowers opponent's Special Attack if opposite gender.
+Charge Beam;Electric;Special;50;90;10;May raise user's Special Attack.
+Chatter;Flying;Special;65;100;20;Confuses opponent.
+Close Combat;Fighting;Physical;120;100;5;Lowers user's Defense and Special Defense.
+Copycat;Normal;Status;;;20;Copies opponent's last move.
+Cross Poison;Poison;Physical;70;100;20;High critical hit ratio. May poison opponent.
+Crush Grip;Normal;Physical;;100;5;More powerful when opponent has higher HP.
+Dark Pulse;Dark;Special;80;100;15;May cause flinching.
+Dark Void;Dark;Status;;50;10;Puts all adjacent opponents to sleep.
+Defend Order;Bug;Status;;;10;Raises user's Defense and Special Defense.
+Defog;Flying;Status;;;15;Lowers opponent's Evasiveness and clears fog.
+Discharge;Electric;Special;80;100;15;May paralyze opponent.
+Double Hit;Normal;Physical;35;90;10;Hits twice in one turn.
+Draco Meteor;Dragon;Special;130;90;5;Sharply lowers user's Special Attack.
+Dragon Pulse;Dragon;Special;85;100;10;
+Dragon Rush;Dragon;Physical;100;75;10;May cause flinching.
+Drain Punch;Fighting;Physical;75;100;10;User recovers half the HP inflicted on opponent.
+Earth Power;Ground;Special;90;100;10;May lower opponent's Special Defense.
+Embargo;Dark;Status;;100;15;Opponent cannot use items.
+Energy Ball;Grass;Special;90;100;10;May lower opponent's Special Defense.
+Feint;Normal;Physical;30;100;10;Only hits if opponent uses Protect or Detect in the same turn.
+Fire Fang;Fire;Physical;65;95;15;May cause flinching and/or burn opponent.
+Flare Blitz;Fire;Physical;120;100;15;User receives recoil damage. May burn opponent.
+Flash Cannon;Steel;Special;80;100;10;May lower opponent's Special Defense.
+Fling;Dark;Physical;;100;10;Power depends on held item.
+Focus Blast;Fighting;Special;120;70;5;May lower opponent's Special Defense.
+Force Palm;Fighting;Physical;60;100;10;May paralyze opponent.
+Gastro Acid;Poison;Status;;100;10;Cancels out the effect of the opponent's Ability.
+Giga Impact;Normal;Physical;150;90;5;User must recharge next turn.
+Grass Knot;Grass;Special;;100;20;The heavier the opponent, the stronger the attack.
+Gravity;Psychic;Status;;;5;Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+Guard Swap;Psychic;Status;;;10;User and opponent swap Defense and Special Defense.
+Gunk Shot;Poison;Physical;120;80;5;May poison opponent.
+Gyro Ball;Steel;Physical;;100;5;The slower the user, the stronger the attack.
+Hammer Arm;Fighting;Physical;100;90;10;Lowers user's Speed.
+Head Smash;Rock;Physical;150;80;5;User receives recoil damage.
+Heal Block;Psychic;Status;;100;15;Prevents the opponent from restoring HP for 5 turns.
+Heal Order;Bug;Status;;;10;User recovers half its max HP.
+Healing Wish;Psychic;Status;;;10;The user faints and the next Pokémon released is fully healed.
+Heart Swap;Psychic;Status;;;10;Stat changes are swapped with the opponent.
+Ice Fang;Ice;Physical;65;95;15;May cause flinching and/or freeze opponent.
+Ice Shard;Ice;Physical;40;100;30;User attacks first.
+Iron Head;Steel;Physical;80;100;15;May cause flinching.
+Judgment;Normal;Special;100;100;10;Type depends on the Arceus Plate being held.
+Last Resort;Normal;Physical;140;100;5;Can only be used after all other moves are used.
+Lava Plume;Fire;Special;80;100;15;May burn opponent.
+Leaf Storm;Grass;Special;130;90;5;Sharply lowers user's Special Attack.
+Lucky Chant;Normal;Status;;;30;Opponent cannot land critical hits for 5 turns.
+Lunar Dance;Psychic;Status;;;10;The user faints but the next Pokémon released is fully healed.
+Magma Storm;Fire;Special;100;75;5;Traps opponent, damaging them for 4-5 turns.
+Magnet Bomb;Steel;Physical;60;inf;20;Ignores Accuracy and Evasiveness.
+Magnet Rise;Electric;Status;;;10;User becomes immune to Ground-type moves for 5 turns.
+Me First;Normal;Status;;;20;User copies the opponent's attack with 1.5× power.
+Metal Burst;Steel;Physical;;100;10;Deals damage equal to 1.5x opponent's attack.
+Miracle Eye;Psychic;Status;;;40;Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+Mirror Shot;Steel;Special;65;85;10;May lower opponent's Accuracy.
+Mud Bomb;Ground;Special;65;85;10;May lower opponent's Accuracy.
+Nasty Plot;Dark;Status;;;20;Sharply raises user's Special Attack.
+Natural Gift;Normal;Physical;;100;15;Power and type depend on the user's held berry.
+Night Slash;Dark;Physical;70;100;15;High critical hit ratio.
+Ominous Wind;Ghost;Special;60;100;5;May raise all user's stats at once.
+Payback;Dark;Physical;50;100;10;Power doubles if the user was attacked first.
+Pluck;Flying;Physical;60;100;20;If the opponent is holding a berry, its effect is stolen by user.
+Poison Jab;Poison;Physical;80;100;20;May poison the opponent.
+Power Gem;Rock;Special;80;100;20;
+Power Swap;Psychic;Status;;;10;User and opponent swap Attack and Special Attack.
+Power Trick;Psychic;Status;;;10;User's own Attack and Defense switch.
+Power Whip;Grass;Physical;120;85;10;
+Psycho Cut;Psychic;Physical;70;100;20;High critical hit ratio.
+Psycho Shift;Psychic;Status;;100;10;Transfers user's status condition to the opponent.
+Punishment;Dark;Physical;;100;5;Power increases when opponent's stats have been raised.
+Roar of Time;Dragon;Special;150;90;5;User must recharge next turn.
+Rock Climb;Normal;Physical;90;85;20;May confuse opponent.
+Rock Polish;Rock;Status;;;20;Sharply raises user's Speed.
+Rock Wrecker;Rock;Physical;150;90;5;User must recharge next turn.
+Roost;Flying;Status;;;5;User recovers half of its max HP and loses the Flying type temporarily.
+Seed Bomb;Grass;Physical;80;100;15;
+Seed Flare;Grass;Special;120;85;5;May lower opponent's Special Defense.
+Shadow Claw;Ghost;Physical;70;100;15;High critical hit ratio.
+Shadow Force;Ghost;Physical;120;100;5;Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+Shadow Sneak;Ghost;Physical;40;100;30;User attacks first.
+Spacial Rend;Dragon;Special;100;95;5;High critical hit ratio.
+Stealth Rock;Rock;Status;;;20;Damages opponent switching into battle.
+Stone Edge;Rock;Physical;100;80;5;High critical hit ratio.
+Sucker Punch;Dark;Physical;70;100;5;User attacks first, but only works if opponent is readying an attack.
+Switcheroo;Dark;Status;;100;10;Swaps held items with the opponent.
+Tailwind;Flying;Status;;;15;Doubles Speed for 4 turns.
+Thunder Fang;Electric;Physical;65;95;15;May cause flinching and/or paralyze opponent.
+Toxic Spikes;Poison;Status;;;20;Poisons opponents when they switch into battle.
+Trick Room;Psychic;Status;;;5;Slower Pokémon move first in the turn for 5 turns.
+Trump Card;Normal;Special;;inf;5;The lower the PP, the higher the power.
+U-turn;Bug;Physical;70;100;20;User switches out immediately after attacking.
+Vacuum Wave;Fighting;Special;40;100;30;User attacks first.
+Wake-Up Slap;Fighting;Physical;70;100;10;Power doubles if opponent is asleep, but wakes it up.
+Wood Hammer;Grass;Physical;120;100;15;User receives recoil damage.
+Worry Seed;Grass;Status;;100;10;Changes the opponent's Ability to Insomnia.
+Wring Out;Normal;Special;;100;5;The higher the opponent's HP, the higher the damage.
+X-Scissor;Bug;Physical;80;100;15;
+Zen Headbutt;Psychic;Physical;80;90;15;May cause flinching.

@@ -1,0 +1,120 @@
+Name;Total;HP;Attack;Defense;Sp. Atk;Sp. Def;Speed;Type1;Type2;PokedexId
+Tauros Combat Breed;490;75;110;105;30;70;100;Fighting;;0128
+Tauros Blaze Breed;490;75;110;105;30;70;100;Fighting;Fire;0128
+Tauros Aqua Breed;490;75;110;105;30;70;100;Fighting;Water;0128
+Wooper Paldean Wooper;210;55;45;45;25;25;15;Poison;Ground;0194
+Sprigatito;310;40;61;54;45;45;65;Grass;;0906
+Floragato;410;61;80;63;60;63;83;Grass;;0907
+Meowscarada;530;76;110;70;81;70;123;Grass;Dark;0908
+Fuecoco;310;67;45;59;63;40;36;Fire;;0909
+Crocalor;411;81;55;78;90;58;49;Fire;;0910
+Skeledirge;530;104;75;100;110;75;66;Fire;Ghost;0911
+Quaxly;310;55;65;45;50;45;50;Water;;0912
+Quaxwell;410;70;85;65;65;60;65;Water;;0913
+Quaquaval;530;85;120;80;85;75;85;Water;Fighting;0914
+Lechonk;254;54;45;40;35;45;35;Normal;;0915
+Oinkologne Male;489;110;100;75;59;80;65;Normal;;0916
+Oinkologne Female;489;115;90;70;59;90;65;Normal;;0916
+Tarountula;210;35;41;45;29;40;20;Bug;;0917
+Spidops;404;60;79;92;52;86;35;Bug;;0918
+Nymble;210;33;46;40;21;25;45;Bug;;0919
+Lokix;450;71;102;78;52;55;92;Bug;Dark;0920
+Pawmi;240;45;50;20;40;25;60;Electric;;0921
+Pawmo;350;60;75;40;50;40;85;Electric;Fighting;0922
+Pawmot;490;70;115;70;70;60;105;Electric;Fighting;0923
+Tandemaus;305;50;50;45;40;45;75;Normal;;0924
+Maushold Family of Four;470;74;75;70;65;75;111;Normal;;0925
+Maushold Family of Three;470;74;75;70;65;75;111;Normal;;0925
+Fidough;312;37;55;70;30;55;65;Fairy;;0926
+Dachsbun;477;57;80;115;50;80;95;Fairy;;0927
+Smoliv;260;41;35;45;58;51;30;Grass;Normal;0928
+Dolliv;354;52;53;60;78;78;33;Grass;Normal;0929
+Arboliva;510;78;69;90;125;109;39;Grass;Normal;0930
+Squawkabilly Green Plumage;417;82;96;51;45;51;92;Normal;Flying;0931
+Squawkabilly Blue Plumage;417;82;96;51;45;51;92;Normal;Flying;0931
+Squawkabilly Yellow Plumage;417;82;96;51;45;51;92;Normal;Flying;0931
+Squawkabilly White Plumage;417;82;96;51;45;51;92;Normal;Flying;0931
+Nacli;280;55;55;75;35;35;25;Rock;;0932
+Naclstack;355;60;60;100;35;65;35;Rock;;0933
+Garganacl;500;100;100;130;45;90;35;Rock;;0934
+Charcadet;255;40;50;40;50;40;35;Fire;;0935
+Armarouge;525;85;60;100;125;80;75;Fire;Psychic;0936
+Ceruledge;525;75;125;80;60;100;85;Fire;Ghost;0937
+Tadbulb;272;61;31;41;59;35;45;Electric;;0938
+Bellibolt;495;109;64;91;103;83;45;Electric;;0939
+Wattrel;280;40;40;35;55;40;70;Electric;Flying;0940
+Kilowattrel;490;70;70;60;105;60;125;Electric;Flying;0941
+Maschiff;340;60;78;60;40;51;51;Dark;;0942
+Mabosstiff;505;80;120;90;60;70;85;Dark;;0943
+Shroodle;290;40;65;35;40;35;75;Poison;Normal;0944
+Grafaiai;485;63;95;65;80;72;110;Poison;Normal;0945
+Bramblin;275;40;65;30;45;35;60;Grass;Ghost;0946
+Brambleghast;480;55;115;70;80;70;90;Grass;Ghost;0947
+Toedscool;335;40;40;35;50;100;70;Ground;Grass;0948
+Toedscruel;515;80;70;65;80;120;100;Ground;Grass;0949
+Klawf;450;70;100;115;35;55;75;Rock;;0950
+Capsakid;304;50;62;40;62;40;50;Grass;;0951
+Scovillain;486;65;108;65;108;65;75;Grass;Fire;0952
+Rellor;270;41;50;60;31;58;30;Bug;;0953
+Rabsca;470;75;50;85;115;100;45;Bug;Psychic;0954
+Flittle;255;30;35;30;55;30;75;Psychic;;0955
+Espathra;481;95;60;60;101;60;105;Psychic;;0956
+Tinkatink;297;50;45;45;35;64;58;Fairy;Steel;0957
+Tinkatuff;380;65;55;55;45;82;78;Fairy;Steel;0958
+Tinkaton;506;85;75;77;70;105;94;Fairy;Steel;0959
+Wiglett;245;10;55;25;35;25;95;Water;;0960
+Wugtrio;425;35;100;50;50;70;120;Water;;0961
+Bombirdier;485;70;103;85;60;85;82;Flying;Dark;0962
+Finizen;315;70;45;40;45;40;75;Water;;0963
+Palafin Zero Form;457;100;70;72;53;62;100;Water;;0964
+Palafin Hero Form;650;100;160;97;106;87;100;Water;;0964
+Varoom;300;45;70;63;30;45;47;Steel;Poison;0965
+Revavroom;500;80;119;90;54;67;90;Steel;Poison;0966
+Cyclizar;501;70;95;65;85;65;121;Dragon;Normal;0967
+Orthworm;480;70;85;145;60;55;65;Steel;;0968
+Glimmet;350;48;35;42;105;60;60;Rock;Poison;0969
+Glimmora;525;83;55;90;130;81;86;Rock;Poison;0970
+Greavard;290;50;61;60;30;55;34;Ghost;;0971
+Houndstone;488;72;101;100;50;97;68;Ghost;;0972
+Flamigo;500;82;115;74;75;64;90;Flying;Fighting;0973
+Cetoddle;334;108;68;45;30;40;43;Ice;;0974
+Cetitan;521;170;113;65;45;55;73;Ice;;0975
+Veluza;478;90;102;73;78;65;70;Water;Psychic;0976
+Dondozo;530;150;100;115;65;65;35;Water;;0977
+Tatsugiri Curly Form;475;68;50;60;120;95;82;Dragon;Water;0978
+Tatsugiri Droopy Form;475;68;50;60;120;95;82;Dragon;Water;0978
+Tatsugiri Stretchy Form;475;68;50;60;120;95;82;Dragon;Water;0978
+Annihilape;535;110;115;80;50;90;90;Fighting;Ghost;0979
+Clodsire;430;130;75;60;45;100;20;Poison;Ground;0980
+Farigiraf;520;120;90;70;110;70;60;Normal;Psychic;0981
+Dudunsparce Two-Segment Form;520;125;100;80;85;75;55;Normal;;0982
+Dudunsparce Three-Segment Form;520;125;100;80;85;75;55;Normal;;0982
+Kingambit;550;100;135;120;60;85;50;Dark;Steel;0983
+Great Tusk;570;115;131;131;53;53;87;Ground;Fighting;0984
+Scream Tail;570;115;65;99;65;115;111;Fairy;Psychic;0985
+Brute Bonnet;570;111;127;99;79;99;55;Grass;Dark;0986
+Flutter Mane;570;55;55;55;135;135;135;Ghost;Fairy;0987
+Slither Wing;570;85;135;79;85;105;81;Bug;Fighting;0988
+Sandy Shocks;570;85;81;97;121;85;101;Electric;Ground;0989
+Iron Treads;570;90;112;120;72;70;106;Ground;Steel;0990
+Iron Bundle;570;56;80;114;124;60;136;Ice;Water;0991
+Iron Hands;570;154;140;108;50;68;50;Fighting;Electric;0992
+Iron Jugulis;570;94;80;86;122;80;108;Dark;Flying;0993
+Iron Moth;570;80;70;60;140;110;110;Fire;Poison;0994
+Iron Thorns;570;100;134;110;70;84;72;Rock;Electric;0995
+Frigibax;320;65;75;45;35;45;55;Dragon;Ice;0996
+Arctibax;423;90;95;66;45;65;62;Dragon;Ice;0997
+Baxcalibur;600;115;145;92;75;86;87;Dragon;Ice;0998
+Gimmighoul Chest Form;300;45;30;70;75;70;10;Ghost;;0999
+Gimmighoul Roaming Form;300;45;30;25;75;45;80;Ghost;;0999
+Gholdengo;550;87;60;95;133;91;84;Steel;Ghost;1000
+Wo-Chien;570;85;85;100;95;135;70;Dark;Grass;1001
+Chien-Pao;570;80;120;80;90;65;135;Dark;Ice;1002
+Ting-Lu;570;155;110;125;55;80;45;Dark;Ground;1003
+Chi-Yu;570;55;80;80;135;120;100;Dark;Fire;1004
+Roaring Moon;590;105;139;71;55;101;119;Dragon;Dark;1005
+Iron Valiant;590;74;130;90;120;60;116;Fairy;Fighting;1006
+Koraidon;670;100;135;115;85;100;135;Fighting;Dragon;1007
+Miraidon;670;100;85;100;135;115;135;Electric;Dragon;1008
+Walking Wake;590;99;83;91;125;83;109;Water;Dragon;1009
+Iron Leaves;590;90;130;88;70;108;104;Grass;Psychic;1010

@@ -5,7 +5,7 @@ import itertools
 from scrapy.crawler import CrawlerRunner
 # Reactor restart
 from crochet import setup, wait_for
-from utils import HTMLTable
+from pypkm.data.scrapping.utils import HTMLTable
 import traceback
 
 # Get directory of this file
@@ -64,6 +64,12 @@ def abilities_file() -> str:
     List of items for all game generations
     """
     return os.path.join(ABILITIES_DIR, f"abilities.csv")
+
+def types_matrix_file() -> str:
+    """
+    List of items for all game generations
+    """
+    return os.path.join(STATS_DIR, f"types_matrix_gen6plus.csv")
 
 
 def try_parse(x, xtype, default):
@@ -152,6 +158,8 @@ class PokemonStats(TableToCsv):
             pokedex_df = PokemonStats.as_dataframe(pokedex_table)
             # Concat global df
             self.df = pd.concat([self.df, pokedex_df], ignore_index=True)
+            # Set index to avoid saving a column full of row numbers
+            self.df = self.df.set_index("Name")
         except Exception as e:
             print(f"Failed scrapping pokemon stats for generation {self.gen}", e)
             return
@@ -205,8 +213,12 @@ class Moves(TableToCsv):
             table = HTMLTable(response.xpath('//*[@id="moves"]'))
             # Convert it to a dataframe with appropriate move catagory column
             df = Moves.as_dataframe(table)
+            # Rename some cols for conveniency
+            df = df.rename(columns={"Cat.": "Category", "Acc." : "Accuracy"})
             # Concat global df
             self.df = pd.concat([self.df, df], ignore_index=True)
+            # Set index to avoid saving a column full of row numbers
+            self.df = self.df.set_index("Name")
         except Exception as e:
             print(f"Failed scrapping moves for generation {self.gen}", e)
             return
@@ -336,7 +348,8 @@ class MoveSets(TableToCsv):
             joined["Egg"] = joined["Egg"].fillna(False)
             joined["PreEvol"] = joined["PreEvol"].fillna(False)
             joined["Tutor"] = joined["Tutor"].fillna(False)
-
+            # Rename some cols for conveniency
+            joined = joined.rename(columns={"Name": "Pokemon", "Lv." : "Lvl"})
             # Concat global df
             self.df = pd.concat([self.df, joined], ignore_index=True)
 
@@ -364,6 +377,8 @@ class Items(TableToCsv):
             df = TableToCsv.as_dataframe(table)
             # Concat global df
             self.df = pd.concat([self.df, df], ignore_index=True)
+            # Set index to avoid saving a column full of row numbers
+            self.df = self.df.set_index("Name")
         except Exception as e:
             print(f"Failed scrapping items", e, traceback.print_exc())
             return
@@ -394,32 +409,14 @@ class TMPAbilities(TableToCsv):
             table = HTMLTable(response.xpath('//*[@id="abilities"]'))
             # Convert it to a dataframe with appropriate move catagory column
             df = TableToCsv.as_dataframe(table)[["Name", "Gen."]]
+            # Rename some cols for conveniency
+            df = df.rename(columns={"Name": "Ability", "Gen.": "Gen"})
             # Concat global df
             self.df = pd.concat([self.df, df], ignore_index=True)
+            # Set index to avoid saving a column full of row numbers
+            self.df = self.df.set_index("Ability")
         except Exception as e:
             print(f"Failed scrapping abilities", e)
-            return
-class TMPAbilities(TableToCsv):
-    name = "TMPAbilities"
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        self.start_urls = ["https://pokemondb.net/ability"]
-        self.root = abilities_file()
-
-    def parse(self, response):
-        try:
-            if response.status != 200:
-                print(f"Cannot contact url {response.url}")
-                return
-            print(f"Scrapping availbilites")
-            # Parse 'abilities' html table
-            table = HTMLTable(response.xpath('//*[@id="abilities"]'))
-            # Convert it to a dataframe with appropriate move catagory column
-            df = TableToCsv.as_dataframe(table)[["Name", "Gen."]]
-            # Concat global df
-            self.df = pd.concat([self.df, df], ignore_index=True)
-        except Exception as e:
-            print(f"Failed scrapping availbilites", e)
             return
 
 class Abilities(TableToCsv):
@@ -428,8 +425,6 @@ class Abilities(TableToCsv):
         super().__init__(*args, **kwargs)
         # Get abilities names and gen from TMPAbilities file
         self.abilities = pd.read_csv(abilities_file(), sep=";")
-        # Rename column
-        self.abilities = self.abilities.rename(columns={"Name": "Ability"})
         # Delete ability file as the will override it
         os.unlink(abilities_file())
         self.root = abilities_file()  
@@ -451,17 +446,10 @@ class Abilities(TableToCsv):
                 for c in d:
                     d[c] = d[c].replace('\n', '')
                 
-                # Clean "#" col
-                d["PokedexId"] = d["#"]
-                del d["#"]
                 # Clean 2nd ability col
                 if "2nd ability" in d:
                     d["Second ability"] = d["2nd ability"]
                     del d["2nd ability"]
-
-                # Rename pokemon columns
-                d["Pokemon"] = d["Name"]
-                del d["Name"]
 
                 # Clean int columns where values are '-' or 'infinite' in th file
                 d["Second ability"] = None if d["Second ability"] == "—" else d["Second ability"]
@@ -502,19 +490,49 @@ class Abilities(TableToCsv):
                 # Get data from the table after 'Pokémon with <Ability Name>'
                 # Some page do not have this title nor table (ex: https://pokemondb.net/ability/zen-mode)
                 df = Abilities.as_dataframe(HTMLTable(title_tables[f"Pokémon with {ability}"]), ability)
+                # Rename some cols for conveniency
+                df = df.rename(columns={"Name": "Pokemon", "#" : "PokedexId"})
                 # Concat global df
-                #self.df = pd.merge(self.df, df, on="Name", how="outer")
                 self.df = pd.concat([self.df, df], ignore_index=True)
         except Exception as e:
             print(f"Failed scrapping ability {ability}", e)
             return
         
 
+class Types(TableToCsv):
+    name = "Types"
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.start_urls = ["https://pokemondb.net/ability"]
+        self.root = types_matrix_file()
+        self.df = pd.DataFrame({
+            "Attack Type": ["Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"],
+            "Normal":   [1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0],
+            "Fire":     [1.0,0.5,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,0.5,0.5],
+            "Water":    [1.0,0.5,0.5,2.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0],
+            "Electric": [1.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0],
+            "Grass":    [1.0,2.0,0.5,0.5,0.5,2.0,1.0,2.0,0.5,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0],
+            "Ice":      [1.0,2.0,1.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0],
+            "Fighting": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,0.5,0.5,1.0,1.0,0.5,1.0,2.0],
+            "Poison":   [1.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,2.0,1.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0,0.5],
+            "Ground":   [1.0,1.0,2.0,0.0,2.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0],
+            "Flying":   [1.0,1.0,1.0,2.0,0.5,2.0,0.5,1.0,0.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,1.0,1.0],
+            "Psychic":  [1.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,2.0,1.0,2.0,1.0,2.0,1.0,1.0],
+            "Bug":      [1.0,2.0,1.0,1.0,0.5,1.0,0.5,1.0,0.5,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0],
+            "Rock":     [0.5,0.5,2.0,1.0,2.0,1.0,2.0,0.5,2.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0],
+            "Ghost":    [0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,0.5,1.0,2.0,1.0,2.0,1.0,1.0],
+            "Dragon":   [1.0,0.5,0.5,0.5,0.5,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0],
+            "Dark":     [1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0],
+            "Steel":    [0.5,2.0,1.0,1.0,0.5,0.5,2.0,0.0,2.0,0.5,0.5,0.5,0.5,1.0,0.5,1.0,0.5,0.5],
+            "Fairy":    [1.0,1.0,1.0,1.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,0.5,1.0,1.0,0.0,0.5,2.0,1.0]
+        }).set_index("Attack Type")
+
+        [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
 
 @wait_for(3600)
 def run_spider1():
     crawler = CrawlerRunner()
-    
+    """
     for i in ["all"] + SUPPORTED_GENS:
         d = crawler.crawl(Moves, gen = i)
         d = crawler.crawl(PokemonStats, gen = i)
@@ -522,6 +540,8 @@ def run_spider1():
     #d = crawler.crawl(Items)
     #d = crawler.crawl(KeyItems)
     d = crawler.crawl(TMPAbilities)
+    """
+    d = crawler.crawl(Types)
     return d
 
 @wait_for(3600)
@@ -530,12 +550,15 @@ def run_spider2():
     crawler = CrawlerRunner()
     for i in SUPPORTED_GENS:
         d = crawler.crawl(MoveSets, gen = i)
-    #d = crawler.crawl(Abilities)
+
+    d = crawler.crawl(Abilities)
     return d
 
 if __name__ == "__main__":
-    #run_spider1()
+    import time
+    run_spider1()
+    #time.sleep(30)
     # Will run after spider 1 as
     # MoveSets needs PokemonStats to have written its file
     # Abilities needs Abilities.TMPAbilities to have written its file
-    run_spider2()
+    #run_spider2()
