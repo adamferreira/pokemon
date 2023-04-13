@@ -67,9 +67,15 @@ def abilities_file() -> str:
 
 def types_matrix_file() -> str:
     """
-    List of items for all game generations
+    Type Matrix
     """
     return os.path.join(STATS_DIR, f"types_matrix_gen6plus.csv")
+
+def natures_file() -> str:
+    """
+    Nature and their stats bonuses/maluses
+    """
+    return os.path.join(STATS_DIR, f"natures.csv")
 
 
 def try_parse(x, xtype, default):
@@ -527,7 +533,86 @@ class Types(TableToCsv):
             "Fairy":    [1.0,1.0,1.0,1.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,0.5,1.0,1.0,0.0,0.5,2.0,1.0]
         }).set_index("Attack Type")
 
-        [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+class Natures(TableToCsv):
+    name = "Types"
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.start_urls = ["https://bulbapedia.bulbagarden.net/wiki/Nature"]
+        self.root = natures_file()
+        natures = ["Hardy", "Lonely", "Brave", "Adamant", "Naughty", "Bold", "Docile", "Relaxed", "Impish", "Lax", "Timid", "Hasty", "Serious", "Jolly", "Naive", "Modest", "Mild", "Quiet", "Bashful", "Rash", "Calm", "Gentle", "Sassy", "Careful", "Quirky"]
+        natures_ids = {natures[i] : i for i in range(len(natures))}
+        natures_dict = {
+            "Nature": natures,
+            "HP": [1.0 for i in range(len(natures))],
+            "Attack": [1.0 for i in range(len(natures))],
+            "Defense": [1.0 for i in range(len(natures))],
+            "Sp. Atk": [1.0 for i in range(len(natures))],
+            "Sp. Def": [1.0 for i in range(len(natures))],
+            "Speed": [1.0 for i in range(len(natures))]
+        }
+        # Apply bonuses/Maluses (https://bulbapedia.bulbagarden.net/wiki/Nature)
+        
+        natures_dict["Attack"][natures_ids["Lonely"]]  = 1.1
+        natures_dict["Defense"][natures_ids["Lonely"]] = 0.9
+
+        natures_dict["Attack"][natures_ids["Brave"]]   = 1.1
+        natures_dict["Speed"][natures_ids["Brave"]]    = 0.9
+
+        natures_dict["Attack"][natures_ids["Adamant"]] = 1.1
+        natures_dict["Sp. Atk"][natures_ids["Adamant"]]= 0.9
+
+        natures_dict["Attack"][natures_ids["Naughty"]] = 1.1
+        natures_dict["Sp. Def"][natures_ids["Naughty"]]= 0.9
+
+        natures_dict["Defense"][natures_ids["Bold"]] = 1.1
+        natures_dict["Attack"][natures_ids["Bold"]]= 0.9
+
+        natures_dict["Defense"][natures_ids["Relaxed"]] = 1.1
+        natures_dict["Speed"][natures_ids["Relaxed"]]= 0.9
+
+        natures_dict["Defense"][natures_ids["Impish"]] = 1.1
+        natures_dict["Sp. Atk"][natures_ids["Impish"]]= 0.9
+
+        natures_dict["Defense"][natures_ids["Lax"]] = 1.1
+        natures_dict["Sp. Def"][natures_ids["Lax"]]= 0.9
+
+        natures_dict["Speed"][natures_ids["Timid"]] = 1.1
+        natures_dict["Attack"][natures_ids["Timid"]]= 0.9
+
+        natures_dict["Speed"][natures_ids["Hasty"]] = 1.1
+        natures_dict["Defense"][natures_ids["Hasty"]]= 0.9
+
+        natures_dict["Speed"][natures_ids["Jolly"]] = 1.1
+        natures_dict["Sp. Atk"][natures_ids["Jolly"]]= 0.9
+
+        natures_dict["Speed"][natures_ids["Naive"]] = 1.1
+        natures_dict["Sp. Def"][natures_ids["Naive"]]= 0.9
+
+        natures_dict["Sp. Atk"][natures_ids["Modest"]] = 1.1
+        natures_dict["Attack"][natures_ids["Modest"]]= 0.9
+
+        natures_dict["Sp. Atk"][natures_ids["Mild"]] = 1.1
+        natures_dict["Defense"][natures_ids["Mild"]]= 0.9
+
+        natures_dict["Sp. Atk"][natures_ids["Quiet"]] = 1.1
+        natures_dict["Speed"][natures_ids["Quiet"]]= 0.9
+
+        natures_dict["Sp. Atk"][natures_ids["Rash"]] = 1.1
+        natures_dict["Sp. Def"][natures_ids["Rash"]]= 0.9
+
+        natures_dict["Sp. Def"][natures_ids["Calm"]] = 1.1
+        natures_dict["Attack"][natures_ids["Calm"]]= 0.9
+
+        natures_dict["Sp. Def"][natures_ids["Gentle"]] = 1.1
+        natures_dict["Defense"][natures_ids["Gentle"]]= 0.9
+
+        natures_dict["Sp. Def"][natures_ids["Sassy"]] = 1.1
+        natures_dict["Speed"][natures_ids["Sassy"]]= 0.9
+
+        natures_dict["Sp. Def"][natures_ids["Careful"]] = 1.1
+        natures_dict["Sp. Atk"][natures_ids["Careful"]]= 0.9
+
+        self.df = pd.DataFrame(natures_dict).set_index("Nature")
 
 @wait_for(3600)
 def run_spider1():
@@ -542,6 +627,7 @@ def run_spider1():
     d = crawler.crawl(TMPAbilities)
     """
     d = crawler.crawl(Types)
+    d = crawler.crawl(Natures)
     return d
 
 @wait_for(3600)

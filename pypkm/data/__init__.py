@@ -9,7 +9,8 @@ from .scrapping.pokemondatabase import (
     items_file,
     key_items_file,
     abilities_file,
-    types_matrix_file
+    types_matrix_file,
+    natures_file
 )
 
 from .pokemon_data import PokeData

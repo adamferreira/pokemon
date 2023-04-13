@@ -1,6 +1,6 @@
 import pandas as pd
 import itertools
-from typing import Union, Optional, List
+from typing import Union, Optional, List, Tuple
 from pypkm.data import(
     stats_file,
     moves_file,
@@ -8,7 +8,8 @@ from pypkm.data import(
     items_file,
     key_items_file,
     abilities_file,
-    types_matrix_file
+    types_matrix_file,
+    natures_file
 )
 
 class PokeData():
@@ -20,6 +21,7 @@ class PokeData():
         self.movesets: pd.DataFrame = pd.read_csv(movesets_file(gen=self.gen), sep=";")
         self.abilities: pd.DateOffset = pd.read_csv(abilities_file(), sep=";")
         self.types_matix: pd.DataFrame = pd.read_csv(types_matrix_file(), sep = ";")#.set_index("Attack Type")
+        self.natures: pd.DataFrame = pd.read_csv(natures_file(), sep = ";")
 
     def __c_has_type(self, t:str):
         return (self.pokemons["Type1"] == t) | (self.pokemons["Type2"] == t)
@@ -28,6 +30,18 @@ class PokeData():
         if t2 is None:
             return self.__c_has_type(t1)
         return self.__c_has_type(t1) & self.__c_has_type(t2)
+    
+    def __type_key(self, t1:str, t2:Optional[str] = None) -> Tuple[str, Optional[str]]:
+        """
+        Given two type, get the dual-type key as a sorted tuple
+        This is to avoid duplicates dual-types keys such as (Fire, Normal) and (Normal, Fire)
+        Also, single types are returned as (t1, None):
+        (Fire, Fire) -> (Fire, None)
+        """
+        if t1 == t2:
+            return (t1, None)
+        else:
+            return sorted((t1,t2))[0], sorted((t1,t2))[1]
     
     def of_types(self, t1:str, t2:Optional[str] = None) -> pd.DataFrame:
         """
@@ -43,12 +57,15 @@ class PokeData():
         if isinstance(pokemon, str):
             return self.pokemons["Name"] == pokemon
         
+    def base_stats(self, pokemon:Union[int,str]) -> pd.DataFrame:
+        return self.pokemons[self.__c_pokemon(pokemon)]
+        
     def moveset(self, pokemon:Union[int,str]) -> pd.DataFrame:
         """
         Return the moveset information of `pokemon`
         The moveset is the move name and how the pokemon can learn it
         """
-        pkmane = self.pokemons[self.__c_pokemon(pokemon)].iloc[0]["Name"]
+        pkmane = self.base_stats(pokemon).iloc[0]["Name"]
         return self.movesets[self.movesets["Pokemon"] == pkmane]
     
     def detailed_moveset(self, pokemon:Union[int,str]) -> pd.DataFrame:
@@ -77,20 +94,25 @@ class PokeData():
 
 
     def defensive_matrix(self) -> pd.DataFrame:
+        """
+        For each type and double-types compination,
+        Return the defensive matrix with the damage factor for each attack type.
+        Example of a row of the defensive matrix for the defense type Ground-Dragon (Garchomp)
+
+        Type Defense      Normal  Fire  Water  Electric  Grass  Ice  Fighting  ...  Bug  Rock  Ghost  Dragon  Dark  Steel  Fairy
+        (Dragon, Ground)     1.0   0.5    1.0       0.0    1.0  4.0       1.0  ...  1.0   0.5    1.0     2.0   1.0    1.0    2.0
+        """
         types = self.types_matix["Attack Type"].to_list()
         defensive_matrix = {}
         for (t1, t2) in itertools.product(types, types):
-            t1, t2 = sorted((t1,t2))[0], sorted((t1,t2))[1]
             # Monotypes
             if t1 == t2:
-                typestr = t1
                 defense_vector = self.types_matix[t1].to_list()
             # Dual types
             else:
-                typestr = f"{t1} {t2}"
                 defense_vector = (self.types_matix[t1] * self.types_matix[t2]).to_list()
             
-            defensive_matrix[typestr] = defense_vector
+            defensive_matrix[self.__type_key(t1, t2)] = defense_vector
             
         defensive_matrix["Type Defense"] = types
         df = pd.DataFrame(defensive_matrix)
@@ -124,14 +146,18 @@ class PokeData():
 
     def weak_against(self, types:List[str]) -> pd.DataFrame:
         """
-        List of defensive types that are weaks againts all types given in parameters
+        List of defensive types combination that are weak againts all types (if they were attacks) given in parameters.
+        i.e. All defensive types combination with a coeficient > 1.0 for the given types in the defensive matrix.
+        Meaning the given types would be 'super effective' againts the defensive types combination.
         """
         # Comparison sign is inverted as we are using a defensive matrix
         return self.__defensive_comparison(">", types)
 
-    def strong_against(self, types:List[str]) -> pd.DataFrame:
+    def resist_against(self, types:List[str]) -> pd.DataFrame:
         """
-        List of defensive types that resists all types given in parameters
+        List of defensive types combination that resists all types (if they were attacks) given in parameters.
+        i.e. All defensive types combination with a coeficient < 1.0 for the given types in the defensive matrix.
+        Meaning the given types would be 'not very effective' againts the defensive types combination.
         """
         # Comparison sign is inverted as we are using a defensive matrix
         return self.__defensive_comparison("<", types)
@@ -142,6 +168,7 @@ class PokeData():
         This is the sum of the defensive score of each types in parameters, for each defending types
         """
         return self.strong_against(types)[types].transpose().sum().sort_values(ascending=True)
+    
 
 
 if __name__ == "__main__":
@@ -151,9 +178,22 @@ if __name__ == "__main__":
     #print((data.types_matix["Fairy"] * data.types_matix["Water"]).to_list())
     #print(data.defensive_matrix())
     #print(data.best_defense_types())
-    print(data.strong_against(["Fire"]))
-    print(data.strong_against(["Fire", "Fighting"]))
-    print(data.best_against(["Fire", "Fighting"]))
-    print("------------------------")
-    print(data.best_against(["Ground", "Dragon"]))
-    #print(m[m["Fire"] >= 4.0])
+    #print(data.strong_against(["Fire"]))
+    #print(data.strong_against(["Fire", "Fighting"]))
+    #print(data.best_against(["Fire", "Fighting"]))
+    #print("------------------------")
+    #print(data.best_against(["Fire", "Normal"]))
+    #print("------------------------")
+    #print(data.of_types("Ghost", "Fire"))
+
+    m = data.pretty_moveset("Garchomp")
+    m = m[~m["Power"].isna()]
+    #m["Physical Damage"] = m[m["Physical"] == "Special"]
+    m = m.assign(Stabbed=lambda move: (move.Type == "Dragon") | (move.Type == "Ground"))
+    m = m.assign(Stab=lambda move: 1.0 + 0.5 * move.Stabbed)
+    m = m.assign(Damage=lambda move: 123.0 * move.Power)
+    print(m)
+    #print(m[(m["Type"] == "Dragon") | (m["Type"] == "Ground")])
+
+
+    #print(m.filter(items = [("Dragon", "Ground")], axis=0))
