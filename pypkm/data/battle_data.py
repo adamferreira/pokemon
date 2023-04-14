@@ -53,15 +53,6 @@ class BattleData():
         The Series 'atk_pokemon' should be of the form of PokeData.base_stats.
         The Series 'def_pokemon' should be of the form of PokeData.base_stats.
         """
-        # Moveset of the attacking pokemon
-        atk_moveset = self.data.pretty_moveset(atk_pokemon["Name"])
-        # Only keep damaging moves
-        atk_moveset = atk_moveset[~atk_moveset["Power"].isna()]
-        # Add Pokemon name to the moveset df to merge later on
-        atk_moveset = atk_moveset.assign(Pokemon = lambda x: atk_pokemon["Name"])
-        # Merge the two datasets to have atk_pokemon stats along with the moveset
-        atk_moveset = pd.merge(atk_moveset, atk_pokemon.to_frame().transpose(), left_on="Pokemon", right_on="Name", how="outer")
-
         def damage(Level, A, D, Power, STAB, Type, Targets=1, PB=1, Weather=1, GlaiveRush=1, Critical=1, random=1, Burn=1, other=1, ZMove=1, TeraShield=1):
             """
             Source: https://bulbapedia.bulbagarden.net/wiki/Damage
@@ -120,11 +111,85 @@ class BattleData():
             - `ZMove` is 0.25 if the move is a Z-Move, Max Move, or G-Max Move being used into a protection move (Protect, Detect, King's Shield, Spiky Shield, Mat Block, Baneful Bunker, or Obstruct, or potentially Wide Guard or W if the move has multiple targets or is given priority, respectively; if the move triggers the "couldn't fully protect" message, the multiplier will be applied), and 1 otherwise.
             - `TeraShield` is applied in Tera Raid Battles when the Raid boss's shield is active, and is 0.2 if the player's Pokémon is not Terastallized, 0.35 if it is but the used move is not of its Tera Type, and 0.75 if it is and the used move is of its Tera Type. The result is subject to standard rounding, rounding up at 0.5.
             """
-            hum = (((2*Level)/5)+2) * Power * (A/D)
-            return ((hum/50)+2)*Targets*PB*Weather*GlaiveRush*Critical*random*STAB*Type*Burn*other*ZMove*TeraShield
+            num = (((2*Level)/5)+2) * Power * (A/D)
+            return floor(((num/50)+2)*Targets*PB*Weather*GlaiveRush*Critical*random*STAB*Type*Burn*other*ZMove*TeraShield)
 
-        print(atk_moveset)
+        # Moveset of the attacking pokemon
+        atk_moveset = self.data.pretty_moveset(atk_pokemon["Name"])
+        # Only keep damaging moves
+        atk_moveset = atk_moveset[~atk_moveset["Power"].isna()]
+        # Rename 'Nme' to 'Move' for later merge
+        atk_moveset = atk_moveset.rename(columns={"Name": "Move"})
+        # Add Pokemon name to the moveset df to merge later on
+        atk_moveset = atk_moveset.assign(Pokemon = lambda x: atk_pokemon["Name"])
+        # Merge the two datasets to have atk_pokemon stats along with the moveset
+        atk_moveset = pd.merge(atk_moveset, atk_pokemon.to_frame().transpose(), left_on="Pokemon", right_on="Name", how="outer")
+        # Drop the "name" column as Pokemon and Name are now identical
+        atk_moveset = atk_moveset.drop(columns=["Name"])
+        # Get the defensive type of def_pokemon
+        deftype_key = PokeData.type_to_key(def_pokemon["Type1"], def_pokemon["Type2"])
+        # Get the defensive matrix
+        defensive_matrix = self.data.defensive_matrix()
+        # Only keep the row corresponding of the defensive (double) type of `def_pokemon`
+        defensive_matrix = defensive_matrix.loc[deftype_key]
 
+        
+        # Get the type factor of each move knowking the defense type of `def_pokemon`
+        atk_moveset = pd.merge(atk_moveset, defensive_matrix.to_frame(), left_on="Type", right_index=True, how="inner")
+        # Rename the column to not have the dual-type as the column name after the merge on "type"
+        atk_moveset = atk_moveset.rename(columns={deftype_key: "TypeFactor"})
+        # Create the STAB column
+        atk_moveset = atk_moveset.assign(Stab=lambda x: 1.0 + 0.5 * ((x.Type1 == x.Type) | (x.Type2 == x.Type)))
+        # Columns to indicate the effective attack of a move depending if it's is Special or Pyshical
+        # Taking into acount SpAtk and Attack
+        atk_moveset = atk_moveset.assign(EffectiveAttack=lambda x: (x["Attack"] * (x.Category == "Physical")) + (x["Sp. Atk"] * (x.Category == "Special")))
+        # Also add Name, Defense, Special Defense and HP of defensive pokemon with suffix _B for later use
+        atk_moveset = atk_moveset.assign(**{
+            "Pokemon_B" : lambda x: def_pokemon["Name"],
+            "Defense_B" : lambda x: def_pokemon["Defense"],
+            "Sp. Def_B" : lambda x: def_pokemon["Sp. Def"],
+            "HP_B" : lambda x: def_pokemon["HP"],
+        })
+        
+        # The Effective defense is the defense (or special defense) of the defensise pokemon depending 
+        # IF the move is Special or Physical
+        atk_moveset = atk_moveset.assign(EffectiveDefence=lambda x: (x["Defense_B"] * (x.Category == "Physical")) + (x["Sp. Def_B"] * (x.Category == "Special")))
+        # Compuate the damage columns !
+        atk_moveset = atk_moveset.assign(
+            Damage=lambda x: damage(
+                Level = x["Level"], A = x["EffectiveAttack"], D = x["EffectiveDefence"],
+                Power = x["Power"], STAB = x["Stab"], Type = x["TypeFactor"]
+            )
+        )
+        # Add Damage relative to the Defense pokemon's HP
+        atk_moveset = atk_moveset.assign(**{"Damage (%)" : lambda x: 100.0 * (x["Damage"] / x["HP_B"])})
+        return atk_moveset[
+            ["Move", "Type", "Category", "Power", "Accuracy", "PP", "Prob. (%)", "Pokemon", "Pokemon_B", "Damage", "Damage (%)"]
+        ].sort_values(by=["Damage"], ascending=False)
+    
+    def matchup_score(self, atk_pokemon:pd.Series, def_pokemon:pd.Series, atk_bias:float = 0.25, def_bias:float = 0.75) -> float:
+        def score(atk_pokemon:pd.Series, def_pokemon:pd.Series) -> float:
+            m = self.matchup(atk_pokemon, def_pokemon)
+            nb_killing_moves = m[m["Damage (%)"] >= 100]["Damage (%)"].count()
+            return (1 + nb_killing_moves) * m["Damage (%)"].mean()
+        
+        return def_bias*score(atk_pokemon, def_pokemon) + atk_bias*score(def_pokemon, atk_pokemon)
+    
+    def find_matchup(self, pokemon:pd.Series, team: pd.DataFrame):
+        # First, find the bests defensive types combination that would resists the stabbed attacks of `pokemon`
+        # This is to simulate a defensive switch of pokemon against pokemon `pokemon`
+        def_types = self.data.best_against([pokemon["Type1"], pokemon["Type2"]])
+        # Find all corresponding pokemons of each type combinations in the `team`
+        candidates = pd.DataFrame()
+        for typekey in def_types.index.to_list():
+            t1, t2 = PokeData.key_to_type(typekey)
+            candidates = pd.concat([candidates, team[self.data._c_of_types(t1, t2)]])
+
+        # Compute the score againts `pokemon` for each candidates
+        # TODO: we shouldn't have to do self.apply_stats(candidates) !!
+        candidates = self.apply_stats(candidates)
+        candidates["Score"] = candidates.apply(lambda row: self.matchup_score(pokemon, row), axis = 1) # axis = 1 is apply by rows
+        print(candidates[["Name", "Type1", "Type2", "Score"]].sort_values(by=["Score"], ascending=True))
 
 def test():
     data = PokeData(gen = 9)
@@ -174,10 +239,11 @@ if __name__ == "__main__":
     ).iloc[0]
 
     tinkaton = battle.apply_stats(
-        battle.data.base_stats("Tinkaton"),
-        level = 80,
+        battle.data.base_stats("Cottonee"),
+        level = 75,
         nature = "Naughty",
         IVs = {"HP": 24, "Attack": 12, "Defense": 30, "Sp. Atk": 16, "Sp. Def": 23, "Speed": 5},
         EVs = {"HP": 74, "Attack": 190, "Defense": 91, "Sp. Atk": 48, "Sp. Def": 84, "Speed": 23}
     ).iloc[0]
-    battle.matchup(garchomp, tinkaton)
+    print(battle.find_matchup(garchomp, battle.data.pokemons))
+    print(battle.matchup(tinkaton, garchomp))

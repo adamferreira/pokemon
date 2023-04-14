@@ -23,15 +23,16 @@ class PokeData():
         self.types_matix: pd.DataFrame = pd.read_csv(types_matrix_file(), sep = ";")#.set_index("Attack Type")
         self.natures: pd.DataFrame = pd.read_csv(natures_file(), sep = ";")
 
-    def __c_has_type(self, t:str):
+    def _c_of_type(self, t:str):
         return (self.pokemons["Type1"] == t) | (self.pokemons["Type2"] == t)
     
-    def __c_of_types(self, t1:str, t2:Optional[str] = None):
+    def _c_of_types(self, t1:str, t2:Optional[str] = None):
         if t2 is None:
-            return self.__c_has_type(t1)
-        return self.__c_has_type(t1) & self.__c_has_type(t2)
+            return self._c_of_type(t1)
+        return self._c_of_type(t1) & self._c_of_type(t2)
     
-    def __type_key(self, t1:str, t2:Optional[str] = None) -> Tuple[str, Optional[str]]:
+    @staticmethod
+    def type_to_key(t1:str, t2:Optional[str] = None) -> Tuple[str, Optional[str]]:
         """
         Given two type, get the dual-type key as a sorted tuple
         This is to avoid duplicates dual-types keys such as (Fire, Normal) and (Normal, Fire)
@@ -39,9 +40,17 @@ class PokeData():
         (Fire, Fire) -> (Fire, None)
         """
         if t1 == t2:
-            return (t1, None)
+            return t1#(t1, None)
         else:
-            return sorted((t1,t2))[0], sorted((t1,t2))[1]
+            return f"{sorted((t1,t2))[0]} {sorted((t1,t2))[1]}"
+        
+    @staticmethod
+    def key_to_type(key:str) -> Tuple[str, Optional[str]]:
+        types = key.split(" ")
+        if len(types) == 1:
+            return (types[0], None)
+        
+        return (types[0], types[1])
     
     def of_types(self, t1:str, t2:Optional[str] = None) -> pd.DataFrame:
         """
@@ -49,7 +58,7 @@ class PokeData():
         If t2 is None, pokemon with types `t1` as first or second type
         (Any order)
         """
-        return self.pokemons[self.__c_of_types(t1,t2)]
+        return self.pokemons[self._c_of_types(t1,t2)]
     
     def __c_pokemon(self, pokemon:Union[int,str]):
         if isinstance(pokemon, int):
@@ -90,7 +99,7 @@ class PokeData():
         """
         return self.detailed_moveset(pokemon)[
             ["Move", "Type", "Category", "Power", "Accuracy", "PP", "Prob. (%)"]
-        ].set_index("Move")
+        ]#.set_index("Move")
 
 
     def defensive_matrix(self) -> pd.DataFrame:
@@ -112,12 +121,15 @@ class PokeData():
             else:
                 defense_vector = (self.types_matix[t1] * self.types_matix[t2]).to_list()
             
-            defensive_matrix[self.__type_key(t1, t2)] = defense_vector
+            defensive_matrix[PokeData.type_to_key(t1, t2)] = defense_vector
             
-        defensive_matrix["Type Defense"] = types
+        #defensive_matrix["Type Defense"] = types
         df = pd.DataFrame(defensive_matrix)
-        df = df.set_index("Type Defense")
-        return df.transpose()
+        df = df.transpose()
+        df = df.rename(columns={i : types[i] for i in range(len(types))})
+        #df = df.set_index("Type Defense")
+        #df = df.reset_index().rename(columns={"level_0": "Type Defense"})
+        return df#.transpose()#.rename_axis(["Type Defense"]).reset_index()
     
     def best_defense_types(self) -> pd.DataFrame:
         return self.defensive_matrix().transpose().sum().sort_values(ascending=True)
@@ -167,7 +179,7 @@ class PokeData():
         Sorted list of best best defensive counter for the types given in parameter
         This is the sum of the defensive score of each types in parameters, for each defending types
         """
-        return self.strong_against(types)[types].transpose().sum().sort_values(ascending=True)
+        return self.resist_against(types)[types].transpose().sum().sort_values(ascending=True)
     
 
 
@@ -185,15 +197,3 @@ if __name__ == "__main__":
     #print(data.best_against(["Fire", "Normal"]))
     #print("------------------------")
     #print(data.of_types("Ghost", "Fire"))
-
-    m = data.pretty_moveset("Garchomp")
-    m = m[~m["Power"].isna()]
-    #m["Physical Damage"] = m[m["Physical"] == "Special"]
-    m = m.assign(Stabbed=lambda move: (move.Type == "Dragon") | (move.Type == "Ground"))
-    m = m.assign(Stab=lambda move: 1.0 + 0.5 * move.Stabbed)
-    m = m.assign(Damage=lambda move: 123.0 * move.Power)
-    print(m)
-    #print(m[(m["Type"] == "Dragon") | (m["Type"] == "Ground")])
-
-
-    #print(m.filter(items = [("Dragon", "Ground")], axis=0))
