@@ -20,7 +20,7 @@ class PokeData():
         self.moves: pd.DataFrame = pd.read_csv(moves_file(gen="all"), sep=";")
         self.movesets: pd.DataFrame = pd.read_csv(movesets_file(gen=self.gen), sep=";")
         self.abilities: pd.DateOffset = pd.read_csv(abilities_file(), sep=";")
-        self.types_matix: pd.DataFrame = pd.read_csv(types_matrix_file(), sep = ";")#.set_index("Attack Type")
+        self.types_matix: pd.DataFrame = pd.read_csv(types_matrix_file(), sep = ";")
         self.natures: pd.DataFrame = pd.read_csv(natures_file(), sep = ";")
 
     def _c_of_type(self, t:str):
