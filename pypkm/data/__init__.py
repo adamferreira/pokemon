@@ -14,10 +14,3 @@ from .scrapping.pokemondatabase import (
 )
 
 from .pokemon_data import PokeData
-
-def of_types(df, t1, t2):
-    return df[
-        (df["Type1"] == t1) & (df["Type2"] == t2)
-        |
-        (df["Type1"] == t2) & (df["Type2"] == t1)
-    ]
