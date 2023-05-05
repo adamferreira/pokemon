@@ -32,7 +32,7 @@ class PokeData():
         return self._c_of_type(t1) & self._c_of_type(t2)
     
     @staticmethod
-    def type_to_key(t1:str, t2:Optional[str] = None) -> Tuple[str, Optional[str]]:
+    def type_to_key(t1:str, t2:Optional[str] = None) -> Union[str, Tuple[str, str]]:
         """
         Given two type, get the dual-type key as a sorted tuple
         This is to avoid duplicates dual-types keys such as (Fire, Normal) and (Normal, Fire)
