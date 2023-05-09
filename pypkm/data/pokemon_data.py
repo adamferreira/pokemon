@@ -40,7 +40,7 @@ class PokeData():
         (Fire, Fire) -> (Fire, None)
         """
         if t1 == t2:
-            return t1#(t1, None)
+            return t1
         else:
             return f"{sorted((t1,t2))[0]} {sorted((t1,t2))[1]}"
         
