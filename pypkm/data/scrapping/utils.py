@@ -6,6 +6,7 @@ class InvalidSelector(Exception):
 def validate_selector(selector):
     """  Validates if a selector has a match and can be used
     """
+    # TODO: Wrap in another class ? 
     return
     if not hasattr(selector, 'css'):
         raise InvalidSelector(f'Given selector [{type(selector)}] has no \
