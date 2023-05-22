@@ -617,7 +617,7 @@ class Natures(TableToCsv):
 @wait_for(3600)
 def run_spider1():
     crawler = CrawlerRunner()
-    """
+
     for i in ["all"] + SUPPORTED_GENS:
         d = crawler.crawl(Moves, gen = i)
         d = crawler.crawl(PokemonStats, gen = i)
@@ -625,7 +625,7 @@ def run_spider1():
     #d = crawler.crawl(Items)
     #d = crawler.crawl(KeyItems)
     d = crawler.crawl(TMPAbilities)
-    """
+
     d = crawler.crawl(Types)
     d = crawler.crawl(Natures)
     return d
@@ -647,4 +647,4 @@ if __name__ == "__main__":
     # Will run after spider 1 as
     # MoveSets needs PokemonStats to have written its file
     # Abilities needs Abilities.TMPAbilities to have written its file
-    #run_spider2()
+    run_spider2()
